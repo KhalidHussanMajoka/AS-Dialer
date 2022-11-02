@@ -100,14 +100,14 @@
                                         <div class="elementor-widget-container">
                                             <ul class="elementor-icon-list-items">
                                                 <li class="elementor-icon-list-item"> <span class="elementor-icon-list-text"><a href="javascript:void(Tawk_API.toggle())"><span style="color:#D3CFCF;">Chat with Support </span></a></span> </li>
-                                                <li class="elementor-icon-list-item"> <a href="https://client.as-dialer.com/contact.php"> <span class="elementor-icon-list-text">Contact Us</span> </a> </li>
+                                                <li class="elementor-icon-list-item"> <a href="https://client.dialer360.com/contact.php"> <span class="elementor-icon-list-text">Contact Us</span> </a> </li>
                                                 <li class="elementor-icon-list-item"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i> </span> <span class="elementor-icon-list-text"><a href="tel:(+1) 3108070217 "><span style="color:#D3CFCF;">UK: (+44) 2037696777</span></a></span> </li>
                                                 <li class="elementor-icon-list-item"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i> </span> <span class="elementor-icon-list-text"><a href="tel:(+1) 3108070217 "><span style="color:#D3CFCF;">USA: (+1) 3108070217</span></a></span> </li>
                                             </ul>
                                         </div>
                                     </div>
                                     <div class="elementor-element elementor-element-7681501 fimg elementor-widget elementor-widget-image" data-id="7681501" data-element_type="widget" data-widget_type="image.default">
-                                        <div class="elementor-widget-container"> <img width="183" height="98" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2098'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/imp-ico.png" /><noscript><img width="183" height="98" src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/imp-ico.png" class="attachment-large size-large" alt="" /></noscript> </div>
+                                        <div class="elementor-widget-container"> <img width="183" height="98" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2098'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/imp-ico.png" /><noscript><img width="183" height="98" src="../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/imp-ico.png" class="attachment-large size-large" alt="" /></noscript> </div>
                                     </div>
                                 </div>
                             </div>

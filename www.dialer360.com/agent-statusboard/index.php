@@ -97,7 +97,7 @@
                                                 </div>
                                             </div>
                                         </section>
-                                        <section style="background-image:url('../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4212.png'); height:800px;" class="elementor-section elementor-top-section elementor-element elementor-element-0f93793 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="0f93793" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-0f93793 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="0f93793" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
                                             <div class="elementor-container elementor-column-gap-default">
                                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d8bf781" data-id="d8bf781" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
@@ -109,53 +109,53 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div  style="height:500px; margin-top:20px;" class="row">
-                                              <div style="background-image:url('../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4214.png'); height: 369px; font-size:10px;" class="column">
-                                              <h3 style="margin:30px">Predictive Dialer</h3>
-                                              <p style="margin:51px">
+                                            <div style="height:500px" class="row">
+                                              <div style="background-color:#FFC700; height: 400px;" class="column">
+                                              <h3>Predictive Dialer</h3>
+                                              <p>
                                               Predictive dialer software is the best and most extraordinary 
                                               software for outbound calling. Even though, the best customer 
                                               experience rises your sales and attracts more clients. At the current 
                                               time, customer support has become more sophisticated, and predictive 
                                               dialer works efficiently in this environment.
                                               </p>
-                                              <button style="border:none; margin:19px; height: 24px;">REQUEST A DEMO</button>
+                                              <button style="border:none">REQUEST A DEMO</button>
                                               </div>
-                                              <div style="background-image:url('../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4214.png'); height: 369px; font-size:10px;" class="column">
-                                              <h3 style="margin:30px">Voice Broadcast</h3>
-                                              <p  style="margin:51px">
+                                              <div style="background-color:#FFC700; height: 400px;" class="column">
+                                              <h3>Voice Broadcast</h3>
+                                              <p>
                                               Predictive dialer software is the best and most extraordinary 
                                               software for outbound calling. Even though, the best customer 
                                               experience rises your sales and attracts more clients. At the current 
                                               time, customer support has become more sophisticated, and predictive 
                                               dialer works efficiently in this environment.
                                               </p>
-                                              <button style="border:none; margin:19px; height: 24px;">REQUEST A DEMO</button>
+                                              <button style="border:none">REQUEST A DEMO</button>
                                               </div>
-                                              <div style="background-image:url('../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4214.png'); height: 369px; font-size:10px;" class="column">
-                                              <h3 style="margin:30px">Predictive Dialer</h3>
-                                              <p  style="margin:51px">
+                                              <div style="background-color:#FFC700; height: 400px;" class="column">
+                                              <h3>Predictive Dialer</h3>
+                                              <p>
                                               Predictive dialer software is the best and most extraordinary 
                                               software for outbound calling. Even though, the best customer 
                                               experience rises your sales and attracts more clients. At the current 
                                               time, customer support has become more sophisticated, and predictive 
                                               dialer works efficiently in this environment.
                                               </p>
-                                              <button style="border:none; margin:19px; height: 24px;">REQUEST A DEMO</button>
+                                              <button style="border:none">REQUEST A DEMO</button>
                                               </div>
-                                              <div style="background-image:url('../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4214.png'); height: 369px; font-size:10px;" class="column">
-                                              <h3 style="margin:30px">Voice Broadcast</h3>
-                                              <p  style="margin:51px">
+                                              <div style="background-color:#FFC700; height: 400px;" class="column">
+                                              <h3>Voice Broadcast</h3>
+                                              <p>
                                               Predictive dialer software is the best and most extraordinary 
                                               software for outbound calling. Even though, the best customer 
                                               experience rises your sales and attracts more clients. At the current 
                                               time, customer support has become more sophisticated, and predictive 
                                               dialer works efficiently in this environment.
                                               </p>
-                                              <button style="border:none; margin:19px; height: 24px; ">REQUEST A DEMO</button>
+                                              <button style="border:none">REQUEST A DEMO</button>
                                               </div>
                                             </div>
-                                            <center><button style="border-radius: 5px; background-color: #FFC700; border: none; height: 40px;">REQUEST A DEMO</button></center>
+                                            <center><button style="background-color:#FFC700; border:none">REQUEST A DEMO</button></center>
                                         </section>
                                         <section class="elementor-section elementor-top-section elementor-element elementor-element-f1020de elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="f1020de" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
                                             <div class="elementor-container elementor-column-gap-default">

@@ -396,8 +396,8 @@
                             </section>
                             <section style="background-image: url(../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Vector-2.png);
                                             background-repeat: no-repeat;
-    height: 100%;
-    width: 100%;" class="elementor-section elementor-top-section elementor-element elementor-element-17b510c elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="17b510c" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+                                            height: 100%;
+                                            width: 100%;" class="elementor-section elementor-top-section elementor-element elementor-element-17b510c elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="17b510c" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
                                 <div class="elementor-container elementor-column-gap-default">
                                     <div class="elementor-column elementor-col-51 elementor-top-column elementor-element elementor-element-2010585" data-id="2010585" data-element_type="column">
                                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-816b319" data-id="816b319" data-element_type="column">

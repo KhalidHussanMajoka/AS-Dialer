@@ -6,7 +6,6 @@
     background-size: cover;
 }
 
-
 .elementor-7 .elementor-element.elementor-element-be9f237>.elementor-background-overlay {
     opacity: 1;
     transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
@@ -145,12 +144,12 @@
         transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 
 
-}
+}                      
 .elementor-7 .elementor-element.elementor-element-331a4a8>.elementor-background-overlay {
-    background-image: url("../../../../../www.dialer360.com/wp-content/uploads/2022/02/HOME-PSD1-01.png");
+    background-image: url("../../2022/02/PSD.png ");
     background-position: center right;
     background-repeat: no-repeat;
-    background-size: 58% auto;
+    background-size: 28% auto;
     opacity: 1;
     transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }

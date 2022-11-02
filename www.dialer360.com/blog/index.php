@@ -8,13 +8,13 @@
                 </header><!-- .page-header -->
                 <div data-elementor-type="archive" data-elementor-id="356" class="elementor elementor-356 elementor-location-archive">
                     <div class="elementor-section-wrap">
-                        <section style="background-image:url('../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group 4215.png'); height:500px;" class="elementor-section elementor-top-section elementor-element elementor-element-1dda0c8 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="1dda0c8" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                        <section class="elementor-section elementor-top-section elementor-element elementor-element-1dda0c8 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="1dda0c8" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
                             <div class="elementor-container elementor-column-gap-default">
                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a9c7253" data-id="a9c7253" data-element_type="column">
                                     <div class="elementor-widget-wrap elementor-element-populated">
                                         <div class="elementor-element elementor-element-fd75389 elementor-widget elementor-widget-heading" data-id="fd75389" data-element_type="widget" data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
-                                                <h1 class="elementor-heading-title elementor-size-default"><span style="color:#FFB83B;font-style: normal;font-weight: 800;font-size: 47.0638px;line-height: 48px;text-align: center;text-transform: capitalize;">Have A Look & </span> <span style="font-style: normal;font-weight: 800;font-size: 47.0638px;line-height: 48px;text-align: center;text-transform: capitalize;">Creative Blogs<span></h1>
+                                                <h1 class="elementor-heading-title elementor-size-default">Have A Look & <span style="font-weight:300">Creative Blogs<span></h1>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-4636622 elementor-widget elementor-widget-text-editor" data-id="4636622" data-element_type="widget" data-widget_type="text-editor.default">
@@ -23,117 +23,232 @@
                                                     /*! elementor - v3.6.5 - 27-04-2022 */
                                                     .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}
                                                 </style>
-                                                <p style="font-style: normal;font-weight: 200;font-size: 17.7419px;line-height: 18px;text-align: center;color: #000000;">Welcome to AS-Dialer blogs. The latest trend and innovations, product updates, industry practices, and everything related to call centers to grow your business </p>
+                                                <p>Welcome to Dialer360 blogs. The latest trend and innovations, product updates, industry practices, and everything related to call centers to grow your business </p>
                                             </div>
-                                         <center>
-                                            <button style="border-radius: 5px; background-color: #FFC700; border: none; height: 40px;">REQUEST A DEMO</button>
-                                            <button style="border-radius: 5px; background-color: #FFC700; border: none; height: 40px;">Create Account</button>
-                                         </center>
-                                         <div>
-                                              <style>
-                                                /*! elementor - v3.6.5 - 27-04-2022 */
-                                                .elementor-star-rating{color:#ccd6df;font-family:eicons;display:inline-block}.elementor-star-rating i{display:inline-block;position:relative;font-style:normal;cursor:default}.elementor-star-rating i:before{content:"\e934";display:block;font-size:inherit;font-family:inherit;position:absolute;overflow:hidden;color:#f0ad4e;top:0;left:0}.elementor-star-rating .elementor-star-empty:before{content:none}.elementor-star-rating .elementor-star-1:before{width:10%}.elementor-star-rating .elementor-star-2:before{width:20%}.elementor-star-rating .elementor-star-3:before{width:30%}.elementor-star-rating .elementor-star-4:before{width:40%}.elementor-star-rating .elementor-star-5:before{width:50%}.elementor-star-rating .elementor-star-6:before{width:60%}.elementor-star-rating .elementor-star-7:before{width:70%}.elementor-star-rating .elementor-star-8:before{width:80%}.elementor-star-rating .elementor-star-9:before{width:90%}.elementor-star-rating__wrapper{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-star-rating__title{margin-right:10px}.elementor-star-rating--align-right .elementor-star-rating__wrapper{text-align:right;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-star-rating--align-left .elementor-star-rating__wrapper{text-align:left;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-star-rating--align-center .elementor-star-rating__wrapper{text-align:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-star-rating--align-justify .elementor-star-rating__title{margin-right:auto}@media (max-width:1024px){.elementor-star-rating-tablet--align-right .elementor-star-rating__wrapper{text-align:right;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-star-rating-tablet--align-left .elementor-star-rating__wrapper{text-align:left;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-star-rating-tablet--align-center .elementor-star-rating__wrapper{text-align:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-star-rating-tablet--align-justify .elementor-star-rating__title{margin-right:auto}}@media (max-width:767px){.elementor-star-rating-mobile--align-right .elementor-star-rating__wrapper{text-align:right;-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-star-rating-mobile--align-left .elementor-star-rating__wrapper{text-align:left;-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-star-rating-mobile--align-center .elementor-star-rating__wrapper{text-align:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-star-rating-mobile--align-justify .elementor-star-rating__title{margin-right:auto}}.last-star{letter-spacing:0}.elementor--star-style-star_unicode .elementor-star-rating{font-family:Arial,Helvetica,sans-serif}.elementor--star-style-star_unicode .elementor-star-rating i:not(.elementor-star-empty):before{content:"\002605"}
-                                             </style>   
-                                              5 star rating<div class="elementor-star-rating" title="5/5" itemtype="http://schema.org/Rating" itemscope="" itemprop="reviewRating"><i class="elementor-star-full">&#9733;</i><i class="elementor-star-full">&#9733;</i><i class="elementor-star-full">&#9733;</i><i class="elementor-star-full">&#9733;</i><i class="elementor-star-full">&#9733;</i> <span itemprop="ratingValue" class="elementor-screen-only">5/5</span>
-                                          </div>
-                                
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </section>
-                        <section>
-                            <div class="container col-lg-12 col-md-12 col-sm-12">
-                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <div>
-                                        <img src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4217.png" alt="">
-                                        <p style="color:black;background-color:#F3F2F2;">
-                                            Call Center Studio X Lumenvox—
-                                            The Future of Outbound
-                                        </p>
+                        <section class="elementor-section elementor-top-section elementor-element elementor-element-ac48743 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ac48743" data-element_type="section">
+                            <div class="elementor-container elementor-column-gap-default">
+                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4073e96" data-id="4073e96" data-element_type="column">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-7763856 elementor-grid-1 elementor-grid-tablet-1 elementor-posts--thumbnail-top elementor-grid-mobile-1 elementor-widget elementor-widget-posts" data-id="7763856" data-element_type="widget" data-settings="{&quot;custom_columns&quot;:&quot;1&quot;,&quot;custom_columns_tablet&quot;:&quot;1&quot;,&quot;custom_columns_mobile&quot;:&quot;1&quot;,&quot;custom_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]}}" data-widget_type="posts.custom">
+                                            <div class="elementor-widget-container">
+                                                <div class="ecs-posts elementor-posts-container elementor-posts   elementor-grid elementor-posts--skin-custom" data-settings="{&quot;current_page&quot;:1,&quot;max_num_pages&quot;:81,&quot;load_method&quot;:&quot;prev_next&quot;,&quot;widget_id&quot;:&quot;7763856&quot;,&quot;post_id&quot;:18942,&quot;theme_id&quot;:356,&quot;change_url&quot;:&quot;&quot;,&quot;reinit_js&quot;:false}">
+                                                    <article id="post-18942" class="elementor-post elementor-grid-item ecs-post-loop post-18942 post type-post status-publish format-standard has-post-thumbnail hentry category-call-center category-call-center-cost entry has-media">
+                                                        <div data-elementor-type="loop" data-elementor-id="217" class="elementor elementor-217 elementor-location-archive post-18942 post type-post status-publish format-standard has-post-thumbnail hentry category-call-center category-call-center-cost entry has-media">
+                                                            <div class="elementor-section-wrap">
+                                                                <section class="elementor-section elementor-top-section elementor-element elementor-element-8c69aaf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8c69aaf" data-element_type="section">
+                                                                    <div class="elementor-container elementor-column-gap-default">
+                                                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2efe3aa maincontaine" data-id="2efe3aa" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                                                <div class="elementor-element elementor-element-070c843 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="070c843" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+                                                                                    <div class="elementor-widget-container"> <a href="../2022/10/how-to-reduce-call-center-cost-5-ways-to-leverage-technology/index.php"> <img width="1024" height="533" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20533'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg 1024w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-300x156.jpg 300w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-768x400.jpg 768w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1536x800.jpg 1536w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-2048x1067.jpg 2048w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg" /><noscript><img width="1024" height="533" src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg" class="attachment-large size-large" alt="" srcset="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg 1024w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-300x156.jpg 300w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-768x400.jpg 768w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1536x800.jpg 1536w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-2048x1067.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript> </a> </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-1e63c7b elementor-widget elementor-widget-post-info" data-id="1e63c7b" data-element_type="widget" data-widget_type="post-info.default">
+                                                                                    <div class="elementor-widget-container">
+                                                                                        <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                                                                            <li class="elementor-icon-list-item elementor-repeater-item-f047a91 elementor-inline-item" itemprop="author"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="far fa-user-circle"></i> </span> <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author"> admin </span> </li>
+                                                                                            <li class="elementor-icon-list-item elementor-repeater-item-256b559 elementor-inline-item" itemprop="datePublished"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-calendar"></i> </span> <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date"> October 3, 2022 </span> </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-b7fdca4 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="b7fdca4" data-element_type="widget" data-widget_type="theme-post-title.default">
+                                                                                    <div class="elementor-widget-container">
+                                                                                        <h2 class="elementor-heading-title elementor-size-default"><a href="../2022/10/how-to-reduce-call-center-cost-5-ways-to-leverage-technology/index.php">How to reduce call center cost: 5 ways to leverage technology</a></h2>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-0f1dc26 elementor-widget elementor-widget-shortcode" data-id="0f1dc26" data-element_type="widget" data-widget_type="shortcode.default">
+                                                                                    <div class="elementor-widget-container">
+                                                                                        <div class="elementor-shortcode">Call center costs can pile up and include anything from agent hiring and training to internal IT</div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-5e7a5a0 icon elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="5e7a5a0" data-element_type="widget" data-widget_type="image.default">
+                                                                                    <div class="elementor-widget-container">
+                                                                                        <style>
+                                                                                            /*! elementor - v3.6.5 - 27-04-2022 */
+                                                                                            .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}
+                                                                                        </style> <a href="../2022/10/how-to-reduce-call-center-cost-5-ways-to-leverage-technology/index.php"> <img width="98" height="79" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2098%2079'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-src="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/Group-342.png" /><noscript><img width="98" height="79" src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </section>
+                                                            </div>
+                                                        </div>
+                                                    </article>
+                                                    <article id="post-18913" class="elementor-post elementor-grid-item ecs-post-loop post-18913 post type-post status-publish format-standard has-post-thumbnail hentry category-call-center-performance entry has-media">
+                                                        <div data-elementor-type="loop" data-elementor-id="217" class="elementor elementor-217 elementor-location-archive post-18913 post type-post status-publish format-standard has-post-thumbnail hentry category-call-center-performance entry has-media">
+                                                            <div class="elementor-section-wrap">
+                                                                <section class="elementor-section elementor-top-section elementor-element elementor-element-8c69aaf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8c69aaf" data-element_type="section">
+                                                                    <div class="elementor-container elementor-column-gap-default">
+                                                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2efe3aa maincontaine" data-id="2efe3aa" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                                                <div class="elementor-element elementor-element-070c843 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="070c843" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+                                                                                    <div class="elementor-widget-container"> <a href="../2022/09/call-center-performance-how-to-monitor-and-why-it-is-important/index.php"> <img width="960" height="500" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20960%20500'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-Center-Performance-01.jpg 960w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-Center-Performance-01-300x156.jpg 300w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-Center-Performance-01-768x400.jpg 768w" data-lazy-sizes="(max-width: 960px) 100vw, 960px" data-lazy-src="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-Center-Performance-01.jpg" /><noscript><img width="960" height="500" src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-Center-Performance-01.jpg" class="attachment-large size-large" alt="" srcset="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-Center-Performance-01.jpg 960w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-Center-Performance-01-300x156.jpg 300w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-Center-Performance-01-768x400.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></noscript> </a> </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-1e63c7b elementor-widget elementor-widget-post-info" data-id="1e63c7b" data-element_type="widget" data-widget_type="post-info.default">
+                                                                                    <div class="elementor-widget-container">
+                                                                                        <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                                                                            <li class="elementor-icon-list-item elementor-repeater-item-f047a91 elementor-inline-item" itemprop="author"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="far fa-user-circle"></i> </span> <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author"> admin </span> </li>
+                                                                                            <li class="elementor-icon-list-item elementor-repeater-item-256b559 elementor-inline-item" itemprop="datePublished"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-calendar"></i> </span> <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date"> September 30, 2022 </span> </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-b7fdca4 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="b7fdca4" data-element_type="widget" data-widget_type="theme-post-title.default">
+                                                                                    <div class="elementor-widget-container">
+                                                                                        <h2 class="elementor-heading-title elementor-size-default"><a href="../2022/09/call-center-performance-how-to-monitor-and-why-it-is-important/index.php">Call Center Performance: How to monitor, and why it is important</a></h2>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-0f1dc26 elementor-widget elementor-widget-shortcode" data-id="0f1dc26" data-element_type="widget" data-widget_type="shortcode.default">
+                                                                                    <div class="elementor-widget-container">
+                                                                                        <div class="elementor-shortcode">Call center performance evaluates the effectiveness of the customer service team. It is important</div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-5e7a5a0 icon elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="5e7a5a0" data-element_type="widget" data-widget_type="image.default">
+                                                                                    <div class="elementor-widget-container"> <a href="../2022/09/call-center-performance-how-to-monitor-and-why-it-is-important/index.php"> <img width="98" height="79" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2098%2079'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-src="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/Group-342.png" /><noscript><img width="98" height="79" src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </section>
+                                                            </div>
+                                                        </div>
+                                                    </article>
+                                                    <article id="post-18837" class="elementor-post elementor-grid-item ecs-post-loop post-18837 post type-post status-publish format-standard has-post-thumbnail hentry category-multichannel-contact-center entry has-media">
+                                                        <div data-elementor-type="loop" data-elementor-id="217" class="elementor elementor-217 elementor-location-archive post-18837 post type-post status-publish format-standard has-post-thumbnail hentry category-multichannel-contact-center entry has-media">
+                                                            <div class="elementor-section-wrap">
+                                                                <section class="elementor-section elementor-top-section elementor-element elementor-element-8c69aaf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8c69aaf" data-element_type="section">
+                                                                    <div class="elementor-container elementor-column-gap-default">
+                                                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2efe3aa maincontaine" data-id="2efe3aa" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                                                <div class="elementor-element elementor-element-070c843 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="070c843" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+                                                                                    <div class="elementor-widget-container"> <a href="../2022/09/what-is-multi-channel-contact-center/index.php"> <img width="960" height="500" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20960%20500'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/MCC.jpg 960w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/MCC-300x156.jpg 300w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/MCC-768x400.jpg 768w" data-lazy-sizes="(max-width: 960px) 100vw, 960px" data-lazy-src="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/MCC.jpg" /><noscript><img width="960" height="500" src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/MCC.jpg" class="attachment-large size-large" alt="" srcset="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/MCC.jpg 960w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/MCC-300x156.jpg 300w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/MCC-768x400.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></noscript> </a> </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-1e63c7b elementor-widget elementor-widget-post-info" data-id="1e63c7b" data-element_type="widget" data-widget_type="post-info.default">
+                                                                                    <div class="elementor-widget-container">
+                                                                                        <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                                                                            <li class="elementor-icon-list-item elementor-repeater-item-f047a91 elementor-inline-item" itemprop="author"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="far fa-user-circle"></i> </span> <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author"> admin </span> </li>
+                                                                                            <li class="elementor-icon-list-item elementor-repeater-item-256b559 elementor-inline-item" itemprop="datePublished"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-calendar"></i> </span> <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date"> September 26, 2022 </span> </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-b7fdca4 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="b7fdca4" data-element_type="widget" data-widget_type="theme-post-title.default">
+                                                                                    <div class="elementor-widget-container">
+                                                                                        <h2 class="elementor-heading-title elementor-size-default"><a href="../2022/09/what-is-multi-channel-contact-center/index.php">What is a multichannel contact center: Everything you need to know</a></h2>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-0f1dc26 elementor-widget elementor-widget-shortcode" data-id="0f1dc26" data-element_type="widget" data-widget_type="shortcode.default">
+                                                                                    <div class="elementor-widget-container">
+                                                                                        <div class="elementor-shortcode">Today, customer service can take place across multiple touchpoints, and it is important to have a</div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-5e7a5a0 icon elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="5e7a5a0" data-element_type="widget" data-widget_type="image.default">
+                                                                                    <div class="elementor-widget-container"> <a href="../2022/09/what-is-multi-channel-contact-center/index.php"> <img width="98" height="79" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2098%2079'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-src="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/Group-342.png" /><noscript><img width="98" height="79" src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </section>
+                                                            </div>
+                                                        </div>
+                                                    </article>
+                                                    <article id="post-18563" class="elementor-post elementor-grid-item ecs-post-loop post-18563 post type-post status-publish format-standard has-post-thumbnail hentry category-call-center-optimization tag-call-center-optimization entry has-media">
+                                                        <div data-elementor-type="loop" data-elementor-id="217" class="elementor elementor-217 elementor-location-archive post-18563 post type-post status-publish format-standard has-post-thumbnail hentry category-call-center-optimization tag-call-center-optimization entry has-media">
+                                                            <div class="elementor-section-wrap">
+                                                                <section class="elementor-section elementor-top-section elementor-element elementor-element-8c69aaf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8c69aaf" data-element_type="section">
+                                                                    <div class="elementor-container elementor-column-gap-default">
+                                                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2efe3aa maincontaine" data-id="2efe3aa" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                                                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                                                <div class="elementor-element elementor-element-070c843 elementor-widget elementor-widget-theme-post-featured-image elementor-widget-image" data-id="070c843" data-element_type="widget" data-widget_type="theme-post-featured-image.default">
+                                                                                    <div class="elementor-widget-container"> <a href="../2022/09/call-center-optimization/index.php"> <img width="960" height="500" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20960%20500'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-center-optimization-1.jpg 960w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-center-optimization-1-300x156.jpg 300w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-center-optimization-1-768x400.jpg 768w" data-lazy-sizes="(max-width: 960px) 100vw, 960px" data-lazy-src="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-center-optimization-1.jpg" /><noscript><img width="960" height="500" src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-center-optimization-1.jpg" class="attachment-large size-large" alt="" srcset="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-center-optimization-1.jpg 960w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-center-optimization-1-300x156.jpg 300w, https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/09/Call-center-optimization-1-768x400.jpg 768w" sizes="(max-width: 960px) 100vw, 960px" /></noscript> </a> </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-1e63c7b elementor-widget elementor-widget-post-info" data-id="1e63c7b" data-element_type="widget" data-widget_type="post-info.default">
+                                                                                    <div class="elementor-widget-container">
+                                                                                        <ul class="elementor-inline-items elementor-icon-list-items elementor-post-info">
+                                                                                            <li class="elementor-icon-list-item elementor-repeater-item-f047a91 elementor-inline-item" itemprop="author"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="far fa-user-circle"></i> </span> <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-author"> admin </span> </li>
+                                                                                            <li class="elementor-icon-list-item elementor-repeater-item-256b559 elementor-inline-item" itemprop="datePublished"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-calendar"></i> </span> <span class="elementor-icon-list-text elementor-post-info__item elementor-post-info__item--type-date"> September 14, 2022 </span> </li>
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-b7fdca4 elementor-widget elementor-widget-theme-post-title elementor-page-title elementor-widget-heading" data-id="b7fdca4" data-element_type="widget" data-widget_type="theme-post-title.default">
+                                                                                    <div class="elementor-widget-container">
+                                                                                        <h2 class="elementor-heading-title elementor-size-default"><a href="../2022/09/call-center-optimization/index.php">Call center optimization: 5 methods to improve call center performance</a></h2>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-0f1dc26 elementor-widget elementor-widget-shortcode" data-id="0f1dc26" data-element_type="widget" data-widget_type="shortcode.default">
+                                                                                    <div class="elementor-widget-container">
+                                                                                        <div class="elementor-shortcode">For call center optimization you need to think about improving your customer experience. While</div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-5e7a5a0 icon elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="5e7a5a0" data-element_type="widget" data-widget_type="image.default">
+                                                                                    <div class="elementor-widget-container"> <a href="../2022/09/call-center-optimization/index.php"> <img width="98" height="79" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2098%2079'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-src="https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/Group-342.png" /><noscript><img width="98" height="79" src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a> </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </section>
+                                                            </div>
+                                                        </div>
+                                                    </article>
+                                                </div>
+                                                <nav class="elementor-pagination" role="navigation" aria-label="Pagination"> <span class="page-numbers prev">&laquo; Previous</span> <a class="page-numbers next" href="page/2/index.php">Next &raquo;</a> </nav>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <div>
-                                        <img src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4218.png" alt="">
-                                        <p style="color:black;background-color:#F3F2F2;">
-                                           Call Center Studio X Lumenvox—
-                                           The Future of Outbound
-                                        </p>
+                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c1c3e05" data-id="c1c3e05" data-element_type="column">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div class="elementor-element elementor-element-d187b20 elementor-search-form--skin-classic elementor-search-form--button-type-icon elementor-search-form--icon-search elementor-widget elementor-widget-search-form" data-id="d187b20" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;classic&quot;}" data-widget_type="search-form.default">
+                                            <div class="elementor-widget-container">
+                                                <form class="elementor-search-form" role="search" action="https://www.dialer360.com/" method="get">
+                                                    <div class="elementor-search-form__container"> <input placeholder="Search..." class="elementor-search-form__input" type="search" name="s" title="Search" value=""> <button class="elementor-search-form__submit" type="submit" title="Search" aria-label="Search"> <i class="fa fa-search" aria-hidden="true"></i> <span class="elementor-screen-only">Search</span> </button> </div>
+                                                </form>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-8c1a986 elementor-widget elementor-widget-heading" data-id="8c1a986" data-element_type="widget" data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                                <h1 class="elementor-heading-title elementor-size-default">Categories</h1>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-f999e4c elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="f999e4c" data-element_type="widget" data-widget_type="icon-list.default">
+                                            <div class="elementor-widget-container">
+                                                <ul class="elementor-icon-list-items">
+                                                    <li class="elementor-icon-list-item"> <a href="../index.php/category/customer-service/index.php"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-check"></i> </span> <span class="elementor-icon-list-text">Customer Services</span> </a> </li>
+                                                    <li class="elementor-icon-list-item"> <a href="../index.php/category/artificial-intelligence/index.php"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-check"></i> </span> <span class="elementor-icon-list-text">Artificial Intelligence</span> </a> </li>
+                                                    <li class="elementor-icon-list-item"> <a href="../index.php/category/call-center-customer-service/index.php"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-check"></i> </span> <span class="elementor-icon-list-text">Call Center Customer Services</span> </a> </li>
+                                                    <li class="elementor-icon-list-item"> <a href="../index.php/category/call-center-training/index.php"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-check"></i> </span> <span class="elementor-icon-list-text">Call Center Training</span> </a> </li>
+                                                    <li class="elementor-icon-list-item"> <a href="../index.php/category/dialer360/index.php"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-check"></i> </span> <span class="elementor-icon-list-text">Dialer360</span> </a> </li>
+                                                    <li class="elementor-icon-list-item"> <a href="../index.php/category/technology/index.php"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-check"></i> </span> <span class="elementor-icon-list-text">Technology</span> </a> </li>
+                                                    <li class="elementor-icon-list-item"> <a href="../index.php/category/call-center-outsourcing/index.php"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-check"></i> </span> <span class="elementor-icon-list-text">Call Center Outsourcing</span> </a> </li>
+                                                    <li class="elementor-icon-list-item"> <a href="../index.php/category/call-center-manager/index.php"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-check"></i> </span> <span class="elementor-icon-list-text">Call Center Manager</span> </a> </li>
+                                                    <li class="elementor-icon-list-item"> <a href="../index.php/category/voice-broadcasting/index.php"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-check"></i> </span> <span class="elementor-icon-list-text">Voice Broadcasting</span> </a> </li>
+                                                    <li class="elementor-icon-list-item"> <a href="../index.php/category/rvm/index.php"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-check"></i> </span> <span class="elementor-icon-list-text">RVM</span> </a> </li>
+                                                    <li class="elementor-icon-list-item"> <a href="../faqs/index.php"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-check"></i> </span> <span class="elementor-icon-list-text">FAQs</span> </a> </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-5170d2d elementor-widget elementor-widget-heading" data-id="5170d2d" data-element_type="widget" data-widget_type="heading.default">
+                                            <div class="elementor-widget-container">
+                                                <h1 class="elementor-heading-title elementor-size-default">Follow Us</h1>
+                                            </div>
+                                        </div>
+                                        <div class="elementor-element elementor-element-d9573f5 e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="d9573f5" data-element_type="widget" data-widget_type="social-icons.default">
+                                            <div class="elementor-widget-container">
+                                                <style>
+                                                    /*! elementor - v3.6.5 - 27-04-2022 */
+                                                    .elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-mobile-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-tablet-0 .elementor-widget-container{line-height:1;font-size:0}.elementor-widget-social-icons:not(.elementor-grid-0):not(.elementor-grid-tablet-0):not(.elementor-grid-mobile-0) .elementor-grid{display:inline-grid}.elementor-widget-social-icons .elementor-grid{grid-column-gap:var(--grid-column-gap,5px);grid-row-gap:var(--grid-row-gap,5px);grid-template-columns:var(--grid-template-columns);-webkit-box-pack:var(--justify-content,center);-ms-flex-pack:var(--justify-content,center);justify-content:var(--justify-content,center);justify-items:var(--justify-content,center)}.elementor-icon.elementor-social-icon{font-size:var(--icon-size,25px);line-height:var(--icon-size,25px);width:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)));height:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)))}.elementor-social-icon{--e-social-icon-icon-color:#fff;display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;background-color:#818a91;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;text-align:center;cursor:pointer}.elementor-social-icon i{color:var(--e-social-icon-icon-color)}.elementor-social-icon svg{fill:var(--e-social-icon-icon-color)}.elementor-social-icon:last-child{margin:0}.elementor-social-icon:hover{opacity:.9;color:#fff}.elementor-social-icon-android{background-color:#a4c639}.elementor-social-icon-apple{background-color:#999}.elementor-social-icon-behance{background-color:#1769ff}.elementor-social-icon-bitbucket{background-color:#205081}.elementor-social-icon-codepen{background-color:#000}.elementor-social-icon-delicious{background-color:#39f}.elementor-social-icon-deviantart{background-color:#05cc47}.elementor-social-icon-digg{background-color:#005be2}.elementor-social-icon-dribbble{background-color:#ea4c89}.elementor-social-icon-elementor{background-color:#d30c5c}.elementor-social-icon-envelope{background-color:#ea4335}.elementor-social-icon-facebook,.elementor-social-icon-facebook-f{background-color:#3b5998}.elementor-social-icon-flickr{background-color:#0063dc}.elementor-social-icon-foursquare{background-color:#2d5be3}.elementor-social-icon-free-code-camp,.elementor-social-icon-freecodecamp{background-color:#006400}.elementor-social-icon-github{background-color:#333}.elementor-social-icon-gitlab{background-color:#e24329}.elementor-social-icon-globe{background-color:#818a91}.elementor-social-icon-google-plus,.elementor-social-icon-google-plus-g{background-color:#dd4b39}.elementor-social-icon-houzz{background-color:#7ac142}.elementor-social-icon-instagram{background-color:#262626}.elementor-social-icon-jsfiddle{background-color:#487aa2}.elementor-social-icon-link{background-color:#818a91}.elementor-social-icon-linkedin,.elementor-social-icon-linkedin-in{background-color:#0077b5}.elementor-social-icon-medium{background-color:#00ab6b}.elementor-social-icon-meetup{background-color:#ec1c40}.elementor-social-icon-mixcloud{background-color:#273a4b}.elementor-social-icon-odnoklassniki{background-color:#f4731c}.elementor-social-icon-pinterest{background-color:#bd081c}.elementor-social-icon-product-hunt{background-color:#da552f}.elementor-social-icon-reddit{background-color:#ff4500}.elementor-social-icon-rss{background-color:#f26522}.elementor-social-icon-shopping-cart{background-color:#4caf50}.elementor-social-icon-skype{background-color:#00aff0}.elementor-social-icon-slideshare{background-color:#0077b5}.elementor-social-icon-snapchat{background-color:#fffc00}.elementor-social-icon-soundcloud{background-color:#f80}.elementor-social-icon-spotify{background-color:#2ebd59}.elementor-social-icon-stack-overflow{background-color:#fe7a15}.elementor-social-icon-steam{background-color:#00adee}.elementor-social-icon-stumbleupon{background-color:#eb4924}.elementor-social-icon-telegram{background-color:#2ca5e0}.elementor-social-icon-thumb-tack{background-color:#1aa1d8}.elementor-social-icon-tripadvisor{background-color:#589442}.elementor-social-icon-tumblr{background-color:#35465c}.elementor-social-icon-twitch{background-color:#6441a5}.elementor-social-icon-twitter{background-color:#1da1f2}.elementor-social-icon-viber{background-color:#665cac}.elementor-social-icon-vimeo{background-color:#1ab7ea}.elementor-social-icon-vk{background-color:#45668e}.elementor-social-icon-weibo{background-color:#dd2430}.elementor-social-icon-weixin{background-color:#31a918}.elementor-social-icon-whatsapp{background-color:#25d366}.elementor-social-icon-wordpress{background-color:#21759b}.elementor-social-icon-xing{background-color:#026466}.elementor-social-icon-yelp{background-color:#af0606}.elementor-social-icon-youtube{background-color:#cd201f}.elementor-social-icon-500px{background-color:#0099e5}.elementor-shape-rounded .elementor-icon.elementor-social-icon{border-radius:10%}.elementor-shape-circle .elementor-icon.elementor-social-icon{border-radius:50%}
+                                                </style>
+                                                <div class="elementor-social-icons-wrapper elementor-grid"> <span class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-9439f76" href="https://www.facebook.com/Dialler360" target="_blank"> <span class="elementor-screen-only">Facebook</span> <i class="fab fa-facebook"></i> </a> </span> <span class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-1e7f530" href="https://twitter.com/dialer360" target="_blank"> <span class="elementor-screen-only">Twitter</span> <i class="fab fa-twitter"></i> </a> </span> <span class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-a088305" href="https://www.youtube.com/channel/UCow_ivYwTDelKx2KjsRAIqQ" target="_blank"> <span class="elementor-screen-only">Youtube</span> <i class="fab fa-youtube"></i> </a> </span> <span class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-ffa8c83" href="https://www.linkedin.com/company/dialer360/" target="_blank"> <span class="elementor-screen-only">Linkedin</span> <i class="fab fa-linkedin"></i> </a> </span> </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
-
-                            </div>
-                            <div class="container col-lg-12 col-md-12 col-sm-12">
-                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <div>
-                                        <img src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4220.png" alt="">
-                                        <p style="color:black;background-color:#F3F2F2;">
-                                           Call Center Studio X Lumenvox—
-                                           The Future of Outbound
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <div>
-                                        <img src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4221.png" alt="">
-                                        <p style="color:black;background-color:#F3F2F2;">
-                                           Call Center Studio X Lumenvox—
-                                           The Future of Outbound
-                                        </p>
-                                    </div>
-                                </div>
-
                             </div>
                         </section>
-                         <section>
-                            <div style="margin-top:100px" class="container col-lg-12 col-md-12 col-sm-12">
-                            <h2>Categories</h2> 
-                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <div>
-                                        <p style="color:black;background-color:#FFC700;height:463px; margin-right:-30px; border-radius:18px 0px 0px 18px;">
-                                         <b>Sales</b>
-                                            Because with our help, every customer – no matter where they are, who they are, how or when they choose to reach out – will experience the service they’re looking for. Our AI-powered, CCaaS technology and cloud-native software was built right, right from the start. It does away with decaying legacy systems and cobbled together infrastructures. Removes the need for multiple vendors. Vanquishes the monster that creaks and groans (and devours money) when contact center tech needs an upgrade or update.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6 mr-5">
-                                    <div style="color:black;height:max-content; border-radius:0px 18px 18px 0px;">
-                                        <img style="height: 471px;margin-left: -93px; border-radius:0px;" src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4224.png" alt="">
-                                       
-                                    </div>
-                                </div>
-
-                            </div>
-                        </section>
-                        <section>
-                            <div style="margin-top:20px" class="container col-lg-12 col-md-12 col-sm-12">
-                               <div class="col-lg-6 col-md-6 col-sm-6 mr-5">
-                                       <div style="color:black;height:max-content; border-radius:18px 0px 0px 18px; margin-right:-30px; ">
-                                           <img style="height: 471px;" src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4225.png" alt="">
-                                          
-                                       </div>
-                                </div>
-
-                            
-                               <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <div>
-                                        <p style="color:black;background-color:#FFC700;height:471px;border-radius:0px 18px 18px 0px;">
-                                         <b>Sales</b>
-                                            Because with our help, every customer – no matter where they are, who they are, how or when they choose to reach out – will experience the service they’re looking for. Our AI-powered, CCaaS technology and cloud-native software was built right, right from the start. It does away with decaying legacy systems and cobbled together infrastructures. Removes the need for multiple vendors. Vanquishes the monster that creaks and groans (and devours money) when contact center tech needs an upgrade or update.
-                                        </p>
-                                    </div>
-                               </div>
-                            </div>   
-                        </section>
-                        
-                        <div class="awards col-lg-12 col-md-12 col-sm-12  mb-5" style="margin-top:100px">
-                                        
-                            <h1 style="text-align:center; font-weight:bold">Award-winning customer service</h1>
-                            <p style="text-align:center;">Due to our innovative solution for call center organization, our company recognized as a leading company.</p>
-                            <center>   <img src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group 2899.png" width="50%" alt="" srcset=""></center>    
-                   
-                        </div> 
                     </div>
                 </div>
             </main> <br> <br><!-- #main -->

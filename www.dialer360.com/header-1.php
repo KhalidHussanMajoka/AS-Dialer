@@ -28,27 +28,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
     <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- This site is optimized with the Yoast SEO plugin v19.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
-    <title>AS-Dialer - Call center dialer | Best Dialer Software &amp; System</title>
+    <title>Dialer360 - Call center dialer | Best Dialer Software &amp; System</title>
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Poppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=latin&amp;display=swap" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=latin&amp;display=swap" media="print" onload="this.media='all'" /><noscript>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=latin&amp;display=swap" />
     </noscript>
     <link rel="stylesheet" href="../../v2g8a2v6.rocketcdn.me/wp-content/cache/min/1/478f1451e00e8c9f173c093238e6eaa6.css" media="all" data-minify="1" />
-    <meta name="description" content="AS-Dialer is offering the world’s leading call center dialer software &amp; system . Trusted by more than 18000 plus clients. Get Free Trial!" />
+    <meta name="description" content="Dialer360 is offering the world’s leading call center dialer software &amp; system . Trusted by more than 18000 plus clients. Get Free Trial!" />
     <link rel="canonical" href="index.php" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="AS-Dialer - Call center dialer | Best Dialer Software &amp; System" />
-    <meta property="og:description" content="AS-Dialer is offering the world’s leading call center dialer software &amp; system . Trusted by more than 18000 plus clients. Get Free Trial!" />
-    <meta property="og:url" content="index-dialer.php" />
-    <meta property="og:site_name" content="AS-Dialer" />
-    <meta property="article:publisher" content="https://www.facebook.com/Dialler" />
+    <meta property="og:title" content="Dialer360 - Call center dialer | Best Dialer Software &amp; System" />
+    <meta property="og:description" content="Dialer360 is offering the world’s leading call center dialer software &amp; system . Trusted by more than 18000 plus clients. Get Free Trial!" />
+    <meta property="og:url" content="index.php" />
+    <meta property="og:site_name" content="Dialer360" />
+    <meta property="article:publisher" content="https://www.facebook.com/Dialler360" />
     <meta property="article:modified_time" content="2022-09-13T11:40:27+00:00" />
-    <meta property="og:image" content="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png" />
+    <meta property="og:image" content="../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@dialer" />
+    <meta name="twitter:site" content="@dialer360" />
     <script type="application/ld+json" class="yoast-schema-graph">
-        {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.dialer.com/","url":"https://www.dialer360.com/","name":"AS-Dialer - Call center dialer | Best Dialer Software & System","isPartOf":{"@id":"https://www.dialer360.com/#website"},"about":{"@id":"https://www.dialer360.com/#organization"},"primaryImageOfPage":{"@id":"https://www.dialer360.com/#primaryimage"},"image":{"@id":"https://www.dialer360.com/#primaryimage"},"thumbnailUrl":"https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png","datePublished":"2022-01-10T07:00:51+00:00","dateModified":"2022-09-13T11:40:27+00:00","description":"Dialer360 is offering the world’s leading call center dialer software & system . Trusted by more than 18000 plus clients. Get Free Trial!","breadcrumb":{"@id":"https://www.dialer360.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.dialer360.com/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.dialer360.com/#primaryimage","url":"https://www.dialer360.com/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533.png","contentUrl":"https://www.dialer360.com/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533.png","width":3195,"height":2182},{"@type":"BreadcrumbList","@id":"https://www.dialer360.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.dialer360.com/#website","url":"https://www.dialer360.com/","name":"Dialer360","description":"Call Center Software","publisher":{"@id":"https://www.dialer360.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dialer360.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.dialer360.com/#organization","name":"Dialer360","url":"https://www.dialer360.com/","sameAs":["https://www.linkedin.com/company/dialer360/","https://www.youtube.com/channel/UCow_ivYwTDelKx2KjsRAIqQ","https://www.facebook.com/Dialler360","https://twitter.com/dialer360"],"logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.dialer360.com/#/schema/logo/image/","url":"https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/logo.svg","contentUrl":"https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/logo.svg","width":194,"height":89,"caption":"Dialer360"},"image":{"@id":"https://www.dialer360.com/#/schema/logo/image/"}}]}
+        {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.dialer360.com/","url":"https://www.dialer360.com/","name":"Dialer360 - Call center dialer | Best Dialer Software & System","isPartOf":{"@id":"https://www.dialer360.com/#website"},"about":{"@id":"https://www.dialer360.com/#organization"},"primaryImageOfPage":{"@id":"https://www.dialer360.com/#primaryimage"},"image":{"@id":"https://www.dialer360.com/#primaryimage"},"thumbnailUrl":"https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png","datePublished":"2022-01-10T07:00:51+00:00","dateModified":"2022-09-13T11:40:27+00:00","description":"Dialer360 is offering the world’s leading call center dialer software & system . Trusted by more than 18000 plus clients. Get Free Trial!","breadcrumb":{"@id":"https://www.dialer360.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.dialer360.com/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.dialer360.com/#primaryimage","url":"https://www.dialer360.com/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533.png","contentUrl":"https://www.dialer360.com/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533.png","width":3195,"height":2182},{"@type":"BreadcrumbList","@id":"https://www.dialer360.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.dialer360.com/#website","url":"https://www.dialer360.com/","name":"Dialer360","description":"Call Center Software","publisher":{"@id":"https://www.dialer360.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dialer360.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.dialer360.com/#organization","name":"Dialer360","url":"https://www.dialer360.com/","sameAs":["https://www.linkedin.com/company/dialer360/","https://www.youtube.com/channel/UCow_ivYwTDelKx2KjsRAIqQ","https://www.facebook.com/Dialler360","https://twitter.com/dialer360"],"logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.dialer360.com/#/schema/logo/image/","url":"https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/logo.svg","contentUrl":"https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/logo.svg","width":194,"height":89,"caption":"Dialer360"},"image":{"@id":"https://www.dialer360.com/#/schema/logo/image/"}}]}
     </script> <!-- / Yoast SEO plugin. -->
     <link rel='dns-prefetch' href='http://www.google.com/' />
 
@@ -61,9 +61,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <script type="text/javascript" src="https://code.jquery.com/jquery.min.js"></script>
   <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
 
-    <link rel="alternate" type="application/rss+xml" title="AS-Dialer &raquo; Feed" href="feed/index.php" />
+    <link rel="alternate" type="application/rss+xml" title="Dialer360 &raquo; Feed" href="feed/index.php" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <link rel="alternate" type="application/rss+xml" title="AS-Dialer &raquo; Comments Feed" href="comments/feed/index.php" />
+    <link rel="alternate" type="application/rss+xml" title="Dialer360 &raquo; Comments Feed" href="comments/feed/index.php" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <style>
         img.wp-smiley,
@@ -195,6 +195,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     bottom: 5px;
                 }
     </style>
+    <link rel="stylesheet" href="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-7b1cc.css" media='all'/>
     <link rel='stylesheet' id='elementor-post-5-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
     <link rel='stylesheet' id='elementor-global-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
     <link rel='stylesheet' id='elementor-post-7-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-7b1cc.css?ver=1663069405' media='all' />
@@ -217,7 +218,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link rel='stylesheet' id='elementor-post-18242-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
     <link rel='stylesheet' id='elementor-post-5-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
     <link rel='stylesheet' id='elementor-global-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-7-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-7b1cc.css?ver=1663069405' media='all' />
     <link rel='stylesheet' id='elementor-post-698-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
     <link rel='stylesheet' id='elementor-post-71-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
     <link rel='stylesheet' id='elementor-post-217-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
@@ -642,8 +642,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <section class="elementor-section elementor-top-section elementor-element elementor-element-b4938f2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b4938f2" data-element_type="section">
                             <div class="elementor-container elementor-column-gap-default">
                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-eb05307" data-id="eb05307" data-element_type="column">
-                                <h4 style="margin-top: 10px !important;margin-bottom: 10px !important;">
-                                        Info@asdialer.com</h4>
                                     <div class="elementor-widget-wrap elementor-element-populated">
                                         <div class="elementor-element elementor-element-0e5b8c6 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="0e5b8c6" data-element_type="widget" data-widget_type="heading.default">
                                             <div class="elementor-widget-container">

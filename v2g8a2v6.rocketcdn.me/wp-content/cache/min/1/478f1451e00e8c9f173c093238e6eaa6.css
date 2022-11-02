@@ -22,15 +22,6 @@
     min-width: 300px
 }
 
-.ml-100{
-    margin-left:72px;
-}
-
-.clearfix {
-    margin-top:30px;
-    
-}
-
 .wp-block-button__link {
     color: #fff;
     background-color: #32373c;
@@ -50018,47 +50009,4 @@ body.woocommerce .oceanwp-newsletter-form-wrap button {
     .elementor-widget:not(.elementor-mobile-align-left) .elementor-icon-list-item:after {
         right: 0
     }
-}
-
-/* Container holding the image and the text */
-.container {
-    position: relative;
-    text-align: center;
-    color: black;
-}
-
-/* Bottom left text */
-.bottom-left {
-    position: absolute;
-    bottom: 8px;
-    left: 16px;
-}
-
-/* Top left text */
-.top-left {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-}
-
-/* Top right text */
-.top-right {
-    position: absolute;
-    top: 8px;
-    right: 16px;
-}
-
-/* Bottom right text */
-.bottom-right {
-    position: absolute;
-    bottom: 8px;
-    right: 16px;
-}
-
-/* Centered text */
-.centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
 }
