@@ -1,0 +1,17 @@
+/* Start custom CSS for text-editor, class: .elementor-element-140a020b */.elementor-kit-5 h2{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+table {
+  
+  border-collapse: collapse;
+  width: 100%;
+  text-align: center !important;
+}
+
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center !important;
+}/* End custom CSS */

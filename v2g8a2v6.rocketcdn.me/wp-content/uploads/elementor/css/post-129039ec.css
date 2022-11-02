@@ -1,0 +1,100 @@
+.elementor-1290 .elementor-element.elementor-element-bcc588a{margin-top:0px;margin-bottom:0px;padding:0% 0% 0% 0%;}.elementor-1290 .elementor-element.elementor-element-74fdcf8.elementor-column > .elementor-widget-wrap{justify-content:center;}@media(max-width:1024px){.elementor-1290 .elementor-element.elementor-element-bcc588a{padding:10% 05% 10% 05%;}}@media(max-width:767px){.elementor-1290 .elementor-element.elementor-element-bcc588a{padding:10% 05% 10% 05%;}}/* Start custom CSS for html, class: .elementor-element-befb5a6 *//* Slideshow container */
+      .slideshow-container {
+        max-width: 100%;
+        position: relative;
+        margin: auto;
+      }
+
+      /* The dots/bullets/indicators */
+      .dot {
+        cursor: pointer;
+        height: 15px;
+        width: 15px;
+        margin: 0 2px;
+        background-color: #bbb;
+        border-radius: 50%;
+        display: inline-block;
+        transition: background-color 0.6s ease;
+      }
+
+      .active,
+      .dot:hover {
+        background-color: #717171;
+      }
+
+      /* Fading animation */
+      .fade {
+        -webkit-animation-name: fade;
+        -webkit-animation-duration: 1.5s;
+        animation-name: fade;
+        animation-duration: 0.5s;
+      }
+      .tcontainer{
+        display: flex; 
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+      .author {
+        background-color: white;
+        margin: 20px;
+        position: relative;
+        padding: 20px 20px 20px 80px;
+        width: 500px;
+        border-radius: 150px;
+        box-shadow: 0.3px 0 18px 0.2px rgb(0 0 0 / 19%);
+      }
+      .author img {
+        height: 115px;
+        width: 115px;
+        position: absolute;
+        left: -15px;
+        top: -13px;
+        border-radius: 61px;
+        border:3px solid white;
+      }
+      .author h2 {
+        margin-bottom: 05px;
+        font-size: 20px;
+    font-weight: 600;
+    font-family: 'Poppins';
+      }
+      .author h4 {
+        color: #9046CF;
+        margin: 05px;
+        font-size: 15px;
+    font-weight: 500;
+    font-family: 'Poppins';
+
+      }
+      .author p{
+          color: #7A7A7A;
+          font-size: 15px;
+    font-weight: 500;
+    font-family: 'Poppins';
+    
+      }
+      @media screen and (max-width:568px) {
+        
+    .author {
+       margin: 30px 0px 0px 0px;
+       position: relative;
+       padding: 99px 20px 20px 20px;
+       width: 100%; 
+       border-radius: 10px;
+      }
+      .author img {
+        left: 20px;
+        top: -25px;
+      }
+      
+      }
+      @-webkit-keyframes fade {
+        0%{
+          transform: skewX(10deg) translateX(-200px);
+      }
+      100%{
+          transform: skew(0deg);
+      }
+      }/* End custom CSS */
