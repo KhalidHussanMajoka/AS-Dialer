@@ -496,7 +496,7 @@
                             <div class="awards  mb-5" style="margin-top:100px">
                                 <h1 style="text-align:center; font-weight:bold">Award-winning customer service</h1>
                                 <p style="text-align:center;">Due to our innovative solution for call center organization, our company recognized as a leading company.</p>
-                                <center> <img src="../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group 2899.png" width="50%" alt="" srcset=""> </center>
+                                <center> <img src="../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-2899.png" width="50%" alt="" srcset=""> </center>
                             </div>
                             <section class="elementor-section elementor-top-section elementor-element elementor-element-eb2d48f elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="eb2d48f" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
                                 <center> <img src="../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4209.png" width="60%" alt="" srcset=""> </center>

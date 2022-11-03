@@ -1,124 +1,137 @@
     <div data-elementor-type="footer" data-elementor-id="71" class="elementor elementor-71 elementor-location-footer">
-                <div class="elementor-section-wrap">
-                            
-                    <section class="elementor-section elementor-top-section elementor-element elementor-element-01e3e25 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="01e3e25" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                        <div class="elementor-container elementor-column-gap-default">
-                            <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-76a4a48" data-id="76a4a48" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-34d66af elementor-widget elementor-widget-heading" data-id="34d66af" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Products</h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-1e5d578 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1e5d578" data-element_type="widget" data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                            <ul class="elementor-icon-list-items">
-                                                <li class="elementor-icon-list-item"> <a href="ringless-voicemail-services/index.php"> <span class="elementor-icon-list-text">RVM (Ringless Voicemail)</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="auto-dialer/index.php"> <span class="elementor-icon-list-text">Auto Dialer </span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="ai-dialer/index.php"> <span class="elementor-icon-list-text">AI Dialer</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="hosted-pbx-service-solutions/index.php"> <span class="elementor-icon-list-text">Hosted PBX Service</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="voice-broadcast/index.php"> <span class="elementor-icon-list-text">Voice Broadcasting</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="click-to-call/index.php"> <span class="elementor-icon-list-text">Click to Call Dialer</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="call-center-software/index.php"> <span class="elementor-icon-list-text">Call Center Software</span> </a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
+        <div class="elementor-section-wrap">
+            <div style="height: 183px;background: #FFC700;border-top-left-radius: 29px;border-bottom-left-radius: 29px;width: 60%;margin-left: 40%;padding-left: 6%;padding-top: 2%;">
+                <h1 style="color: #ffffff;">Try AS Dialer for Free Now</h1>
+                <h4 style="color: #ffffff;">Send a request to get an Advanced Auto & Predictive dialer software for<br> your call center business. Get More Sales in less time ! No Credit card Required!</h4>
+            </div>
+            <section class="elementor-section elementor-top-section elementor-element elementor-element-01e3e25 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="01e3e25" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="elementor-container elementor-column-gap-default">
+                    <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-76a4a48" data-id="76a4a48" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-34d66af elementor-widget elementor-widget-heading" data-id="34d66af" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h3 class="elementor-heading-title elementor-size-default">Products</h3>
                                 </div>
                             </div>
-                            <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-5d0f025" data-id="5d0f025" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-9fa3056 elementor-widget elementor-widget-heading" data-id="9fa3056" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Features</h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-922fe0a elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="922fe0a" data-element_type="widget" data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                            <ul class="elementor-icon-list-items">
-                                                <li class="elementor-icon-list-item"> <a href="agent-statusboard/index.php"> <span class="elementor-icon-list-text">Agent Statusboard</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="billing-portal/index.php"> <span class="elementor-icon-list-text">Cheapest VoIP</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="tps-filtering/index.php"> <span class="elementor-icon-list-text">TPS/DNC Filtering </span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="recording-portal/index.php"> <span class="elementor-icon-list-text">Recording Portal</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="display-local-callerid/index.php"> <span class="elementor-icon-list-text">Display local caller id</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="crm/index.php"> <span class="elementor-icon-list-text">CRM</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="web-phone/index.php"> <span class="elementor-icon-list-text">Web Phone</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="internal-chat/index.php"> <span class="elementor-icon-list-text">Internal Chat</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="pci-compliance/index.php"> <span class="elementor-icon-list-text">PCI Compliant</span> </a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                            <div class="elementor-element elementor-element-1e5d578 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1e5d578" data-element_type="widget" data-widget_type="icon-list.default">
+                                <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items">
+                                        <li class="elementor-icon-list-item"> <a href="../ringless-voicemail-services/index.php"> <span class="elementor-icon-list-text">RVM (Ringless Voicemail)</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../auto-dialer/index.php"> <span class="elementor-icon-list-text">Auto Dialer </span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../ai-dialer/index.php"> <span class="elementor-icon-list-text">AI Dialer</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../hosted-pbx-service-solutions/index.php"> <span class="elementor-icon-list-text">Hosted PBX Service</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../voice-broadcast/index.php"> <span class="elementor-icon-list-text">Voice Broadcasting</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../click-to-call/index.php"> <span class="elementor-icon-list-text">Click to Call Dialer</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../call-center-software/index.php"> <span class="elementor-icon-list-text">Call Center Software</span> </a> </li>
+                                    </ul>
                                 </div>
                             </div>
-                            <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-2bcb6d5" data-id="2bcb6d5" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-a235603 elementor-widget elementor-widget-heading" data-id="a235603" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Company</h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-eb85c6c elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="eb85c6c" data-element_type="widget" data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                            <ul class="elementor-icon-list-items">
-                                                <li class="elementor-icon-list-item"> <a href="why-dialer360/index.php"> <span class="elementor-icon-list-text">Why Dialer360 </span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <span class="elementor-icon-list-text">Events</span> </li>
-                                                <li class="elementor-icon-list-item"> <span class="elementor-icon-list-text">Careers</span> </li>
-                                                <li class="elementor-icon-list-item"> <span class="elementor-icon-list-text">News & Updates</span> </li>
-                                                <li class="elementor-icon-list-item"> <a href="reseller/index.php"> <span class="elementor-icon-list-text">Become a Reseller</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="https://client.dialer360.com/index.php/knowledgebase"> <span class="elementor-icon-list-text">Knowledge Base</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="sitemap/index.php"> <span class="elementor-icon-list-text">Sitemap</span> </a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-5d0f025" data-id="5d0f025" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-9fa3056 elementor-widget elementor-widget-heading" data-id="9fa3056" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h3 class="elementor-heading-title elementor-size-default">Features</h3>
                                 </div>
                             </div>
-                            <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-d466743" data-id="d466743" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-fbd4f8e elementor-widget elementor-widget-heading" data-id="fbd4f8e" data-element_type="widget" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Policies</h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-17d8b27 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="17d8b27" data-element_type="widget" data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                            <ul class="elementor-icon-list-items">
-                                                <li class="elementor-icon-list-item"> <a href="privacy-policy/index.php"> <span class="elementor-icon-list-text">Privacy Policy</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="account-and-usage-policy/index.php"> <span class="elementor-icon-list-text">Account & Usage Policy</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <a href="terms-and-condition/index.php"> <span class="elementor-icon-list-text">Terms & Conditions</span> </a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                            <div class="elementor-element elementor-element-922fe0a elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="922fe0a" data-element_type="widget" data-widget_type="icon-list.default">
+                                <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items">
+                                        <li class="elementor-icon-list-item"> <a href="../agent-statusboard/index.php"> <span class="elementor-icon-list-text">Agent Statusboard</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../billing-portal/index.php"> <span class="elementor-icon-list-text">Cheapest VoIP</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../tps-filtering/index.php"> <span class="elementor-icon-list-text">TPS/DNC Filtering </span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../recording-portal/index.php"> <span class="elementor-icon-list-text">Recording Portal</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../display-local-callerid/index.php"> <span class="elementor-icon-list-text">Display local caller id</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../crm/index.php"> <span class="elementor-icon-list-text">CRM</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../web-phone/index.php"> <span class="elementor-icon-list-text">Web Phone</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../internal-chat/index.php"> <span class="elementor-icon-list-text">Internal Chat</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../pci-compliance/index.php"> <span class="elementor-icon-list-text">PCI Compliant</span> </a> </li>
+                                    </ul>
                                 </div>
                             </div>
-                            <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-7cb7ad2 fpolicy" data-id="7cb7ad2" data-element_type="column">
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-2bcb6d5" data-id="2bcb6d5" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-a235603 elementor-widget elementor-widget-heading" data-id="a235603" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h3 class="elementor-heading-title elementor-size-default">Company</h3>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-eb85c6c elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="eb85c6c" data-element_type="widget" data-widget_type="icon-list.default">
+                                <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items">
+                                        <li class="elementor-icon-list-item"> <a href="../why-dialer360/index.php"> <span class="elementor-icon-list-text">Why Dialer360 </span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <span class="elementor-icon-list-text">Events</span> </li>
+                                        <li class="elementor-icon-list-item"> <span class="elementor-icon-list-text">Careers</span> </li>
+                                        <li class="elementor-icon-list-item"> <span class="elementor-icon-list-text">News & Updates</span> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../reseller/index.php"> <span class="elementor-icon-list-text">Become a Reseller</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../client.dialer360.com/index.php/knowledgebase"> <span class="elementor-icon-list-text">Knowledge Base</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../sitemap/index.php"> <span class="elementor-icon-list-text">Sitemap</span> </a> </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-d466743" data-id="d466743" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-fbd4f8e elementor-widget elementor-widget-heading" data-id="fbd4f8e" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h3 class="elementor-heading-title elementor-size-default">Policies</h3>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-17d8b27 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="17d8b27" data-element_type="widget" data-widget_type="icon-list.default">
+                                <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items">
+                                        <li class="elementor-icon-list-item"> <a href="../privacy-policy/index.php"> <span class="elementor-icon-list-text">Privacy Policy</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../account-and-usage-policy/index.php"> <span class="elementor-icon-list-text">Account & Usage Policy</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <a href="../terms-and-condition/index.php"> <span class="elementor-icon-list-text">Terms & Conditions</span> </a> </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-7cb7ad2 fpolicy" data-id="7cb7ad2" data-element_type="column">
+                        <div class="elementor-widget-wrap elementor-element-populated">
+                            <div class="elementor-element elementor-element-f70994c elementor-widget elementor-widget-heading" data-id="f70994c" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h3 class="elementor-heading-title elementor-size-default">Contact Us</h3>
+                                </div>
+                            </div>
+                            <div class="elementor-element elementor-element-7eecffe elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7eecffe" data-element_type="widget" data-widget_type="icon-list.default">
+                                <div class="elementor-widget-container">
+                                    <ul class="elementor-icon-list-items">
+                                        <li class="elementor-icon-list-item"> <span class="elementor-icon-list-text"><a href="javascript:void(Tawk_API.toggle())"><span style="color:#D3CFCF;">Chat with Support </span></a></span> </li>
+                                        <li class="elementor-icon-list-item"> <a href="https://client.as-dialer.com/contact.php"> <span class="elementor-icon-list-text">Contact Us</span> </a> </li>
+                                        <li class="elementor-icon-list-item"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i> </span> <span class="elementor-icon-list-text"><a href="tel:(+1) 3108070217 "><span style="color:#D3CFCF;">UK: (+44) 2037696777</span></a></span> </li>
+                                        <li class="elementor-icon-list-item"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i> </span> <span class="elementor-icon-list-text"><a href="tel:(+1) 3108070217 "><span style="color:#D3CFCF;">USA: (+1) 3108070217</span></a></span> </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-e23bd5f" data-id="e23bd5f" data-element_type="column">
                                 <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-f70994c elementor-widget elementor-widget-heading" data-id="f70994c" data-element_type="widget" data-widget_type="heading.default">
+                                    <div class="elementor-element elementor-element-093cb79 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="093cb79" data-element_type="widget" data-widget_type="social-icons.default">
                                         <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Contact Us</h3>
+                                            <style>
+                                                /*! elementor - v3.6.5 - 27-04-2022 */
+                                                                                         .elementor-widget-social-icons.elementor-grid-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-mobile-0 .elementor-widget-container,.elementor-widget-social-icons.elementor-grid-tablet-0 .elementor-widget-container{line-height:1;font-size:0}.elementor-widget-social-icons:not(.elementor-grid-0):not(.elementor-grid-tablet-0):not(.elementor-grid-mobile-0) .elementor-grid{display:inline-grid}.elementor-widget-social-icons .elementor-grid{grid-column-gap:var(--grid-column-gap,5px);grid-row-gap:var(--grid-row-gap,5px);grid-template-columns:var(--grid-template-columns);-webkit-box-pack:var(--justify-content,center);-ms-flex-pack:var(--justify-content,center);justify-content:var(--justify-content,center);justify-items:var(--justify-content,center)}.elementor-icon.elementor-social-icon{font-size:var(--icon-size,25px);line-height:var(--icon-size,25px);width:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)));height:calc(var(--icon-size, 25px) + (2 * var(--icon-padding, .5em)))}.elementor-social-icon{--e-social-icon-icon-color:#fff;display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;background-color:#818a91;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;text-align:center;cursor:pointer}.elementor-social-icon i{color:var(--e-social-icon-icon-color)}.elementor-social-icon svg{fill:var(--e-social-icon-icon-color)}.elementor-social-icon:last-child{margin:0}.elementor-social-icon:hover{opacity:.9;color:#fff}.elementor-social-icon-android{background-color:#a4c639}.elementor-social-icon-apple{background-color:#999}.elementor-social-icon-behance{background-color:#1769ff}.elementor-social-icon-bitbucket{background-color:#205081}.elementor-social-icon-codepen{background-color:#000}.elementor-social-icon-delicious{background-color:#39f}.elementor-social-icon-deviantart{background-color:#05cc47}.elementor-social-icon-digg{background-color:#005be2}.elementor-social-icon-dribbble{background-color:#ea4c89}.elementor-social-icon-elementor{background-color:#d30c5c}.elementor-social-icon-envelope{background-color:#ea4335}.elementor-social-icon-facebook,.elementor-social-icon-facebook-f{background-color:#3b5998}.elementor-social-icon-flickr{background-color:#0063dc}.elementor-social-icon-foursquare{background-color:#2d5be3}.elementor-social-icon-free-code-camp,.elementor-social-icon-freecodecamp{background-color:#006400}.elementor-social-icon-github{background-color:#333}.elementor-social-icon-gitlab{background-color:#e24329}.elementor-social-icon-globe{background-color:#818a91}.elementor-social-icon-google-plus,.elementor-social-icon-google-plus-g{background-color:#dd4b39}.elementor-social-icon-houzz{background-color:#7ac142}.elementor-social-icon-instagram{background-color:#262626}.elementor-social-icon-jsfiddle{background-color:#487aa2}.elementor-social-icon-link{background-color:#818a91}.elementor-social-icon-linkedin,.elementor-social-icon-linkedin-in{background-color:#0077b5}.elementor-social-icon-medium{background-color:#00ab6b}.elementor-social-icon-meetup{background-color:#ec1c40}.elementor-social-icon-mixcloud{background-color:#273a4b}.elementor-social-icon-odnoklassniki{background-color:#f4731c}.elementor-social-icon-pinterest{background-color:#bd081c}.elementor-social-icon-product-hunt{background-color:#da552f}.elementor-social-icon-reddit{background-color:#ff4500}.elementor-social-icon-rss{background-color:#f26522}.elementor-social-icon-shopping-cart{background-color:#4caf50}.elementor-social-icon-skype{background-color:#00aff0}.elementor-social-icon-slideshare{background-color:#0077b5}.elementor-social-icon-snapchat{background-color:#fffc00}.elementor-social-icon-soundcloud{background-color:#f80}.elementor-social-icon-spotify{background-color:#2ebd59}.elementor-social-icon-stack-overflow{background-color:#fe7a15}.elementor-social-icon-steam{background-color:#00adee}.elementor-social-icon-stumbleupon{background-color:#eb4924}.elementor-social-icon-telegram{background-color:#2ca5e0}.elementor-social-icon-thumb-tack{background-color:#1aa1d8}.elementor-social-icon-tripadvisor{background-color:#589442}.elementor-social-icon-tumblr{background-color:#35465c}.elementor-social-icon-twitch{background-color:#6441a5}.elementor-social-icon-twitter{background-color:#1da1f2}.elementor-social-icon-viber{background-color:#665cac}.elementor-social-icon-vimeo{background-color:#1ab7ea}.elementor-social-icon-vk{background-color:#45668e}.elementor-social-icon-weibo{background-color:#dd2430}.elementor-social-icon-weixin{background-color:#31a918}.elementor-social-icon-whatsapp{background-color:#25d366}.elementor-social-icon-wordpress{background-color:#21759b}.elementor-social-icon-xing{background-color:#026466}.elementor-social-icon-yelp{background-color:#af0606}.elementor-social-icon-youtube{background-color:#cd201f}.elementor-social-icon-500px{background-color:#0099e5}.elementor-shape-rounded .elementor-icon.elementor-social-icon{border-radius:10%}.elementor-shape-circle .elementor-icon.elementor-social-icon{border-radius:50%}
+                                            </style>
+                                            <div class="elementor-social-icons-wrapper elementor-grid"> <span class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-9439f76" href="https://www.facebook.com/Dialler360" target="_blank"> <span class="elementor-screen-only">Facebook</span> <i class="fab fa-facebook"></i> </a> </span> <span class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-1e7f530" href="https://www.linkedin.com/company/dialer360/" target="_blank"> <span class="elementor-screen-only">Linkedin</span> <i class="fab fa-linkedin"></i> </a> </span> </div>
                                         </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-7eecffe elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7eecffe" data-element_type="widget" data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                            <ul class="elementor-icon-list-items">
-                                                <li class="elementor-icon-list-item"> <span class="elementor-icon-list-text"><a href="javascript:void(Tawk_API.toggle())"><span style="color:#D3CFCF;">Chat with Support </span></a></span> </li>
-                                                <li class="elementor-icon-list-item"> <a href="https://client.as-dialer.com/contact.php"> <span class="elementor-icon-list-text">Contact Us</span> </a> </li>
-                                                <li class="elementor-icon-list-item"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i> </span> <span class="elementor-icon-list-text"><a href="tel:(+1) 3108070217 "><span style="color:#D3CFCF;">UK: (+44) 2037696777</span></a></span> </li>
-                                                <li class="elementor-icon-list-item"> <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-phone-alt"></i> </span> <span class="elementor-icon-list-text"><a href="tel:(+1) 3108070217 "><span style="color:#D3CFCF;">USA: (+1) 3108070217</span></a></span> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-7681501 fimg elementor-widget elementor-widget-image" data-id="7681501" data-element_type="widget" data-widget_type="image.default">
-                                        <div class="elementor-widget-container"> <img width="183" height="98" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2098'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/imp-ico.png" /><noscript><img width="183" height="98" src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/imp-ico.png" class="attachment-large size-large" alt="" /></noscript> </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-             <center> <p style="padding-top:50px; color:white; margin-bottom:-20px">© 2021 AS Dialer Ltd. All Rights Reserved.</p></center>
-                    </section>
-                   
-                            
+                    </div>
                 </div>
-            </div>
-        </div><!-- #wrap -->
+                <center>
+                    <p style="padding-top:50px; color:white; margin-bottom:-20px">© 2021 AS Dialer Ltd. All Rights Reserved.</p>
+                </center>
+            </section>
+        </div>
+    </div>
+    </div><!-- #wrap -->
     </div><!-- #outer-wrap --> <a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
     <script type="rocketlazyloadscript">window.addEventListener('DOMContentLoaded', function() {
 	jQuery(document).ready(function(){
@@ -167,7 +180,7 @@ var Tawk_LoadStart=new Date();
     <link rel='stylesheet' id='elementor-post-10187-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-101876671.css?ver=1654690728' media='all' />
     <link rel='stylesheet' id='elementor-post-10188-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-101886671.css?ver=1654690728' media='all' />
     <link rel='stylesheet' id='elementor-post-10189-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-101896671.css?ver=1654690728' media='all' />
-        <link rel='stylesheet' id='elementor-post-8268-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-82682114.css?ver=1654718517' media='all' />
+    <link rel='stylesheet' id='elementor-post-8268-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-82682114.css?ver=1654718517' media='all' />
     <link rel='stylesheet' id='elementor-post-8276-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-82760942.css?ver=1654718518' media='all' />
     <link rel='stylesheet' id='elementor-post-8277-css' href='../../v2g8a2v6.rocketcdn.me/wp-content/uploads/elementor/css/post-82770942.css?ver=1654718518' media='all' />
     <script type="rocketlazyloadscript" data-minify="1" src='../../v2g8a2v6.rocketcdn.me/wp-content/cache/min/1/wp-content/plugins/contact-form-7/includes/swv/js/index0d0b.js?ver=1664811103' id='swv-js' defer></script>
@@ -285,6 +298,6 @@ slides[slideIndex-1].style.display="block";dots[slideIndex-1].className+=" activ
     <script>
         class RocketElementorAnimation{constructor(){this.deviceMode=document.createElement("span"),this.deviceMode.id="elementor-device-mode",this.deviceMode.setAttribute("class","elementor-screen-only"),document.body.appendChild(this.deviceMode)}_detectAnimations(){let t=getComputedStyle(this.deviceMode,":after").content.replace(/"/g,"");this.animationSettingKeys=this._listAnimationSettingsKeys(t),document.querySelectorAll(".elementor-invisible[data-settings]").forEach(t=>{const e=t.getBoundingClientRect();if(e.bottom>=0&&e.top<=window.innerHeight)try{this._animateElement(t)}catch(t){}})}_animateElement(t){const e=JSON.parse(t.dataset.settings),i=e._animation_delay||e.animation_delay||0,n=e[this.animationSettingKeys.find(t=>e[t])];if("none"===n)return void t.classList.remove("elementor-invisible");t.classList.remove(n),this.currentAnimation&&t.classList.remove(this.currentAnimation),this.currentAnimation=n;let s=setTimeout(()=>{t.classList.remove("elementor-invisible"),t.classList.add("animated",n),this._removeAnimationSettings(t,e)},i);window.addEventListener("rocket-startLoading",function(){clearTimeout(s)})}_listAnimationSettingsKeys(t="mobile"){const e=[""];switch(t){case"mobile":e.unshift("_mobile");case"tablet":e.unshift("_tablet");case"desktop":e.unshift("_desktop")}const i=[];return["animation","_animation"].forEach(t=>{e.forEach(e=>{i.push(t+e)})}),i}_removeAnimationSettings(t,e){this._listAnimationSettingsKeys().forEach(t=>delete e[t]),t.dataset.settings=JSON.stringify(e)}static run(){const t=new RocketElementorAnimation;requestAnimationFrame(t._detectAnimations.bind(t))}}document.addEventListener("DOMContentLoaded",RocketElementorAnimation.run);
     </script>
-</body> <!-- Mirrored from www.dialer360.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Oct 2022 07:59:39 GMT -->
+    </body> <!-- Mirrored from www.dialer360.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Oct 2022 07:59:39 GMT -->
 
-</html> <!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1664857378 -->
+    </html> <!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1664857378 -->

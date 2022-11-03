@@ -87,51 +87,47 @@
                             </div>
                         </section>
                          <section>
-                            <div style="margin-top:100px" class="container col-lg-12 col-md-12 col-sm-12">
-                            <h2>Categories</h2> 
-                                <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <div>
-                                        <p style="color:black;background-color:#FFC700;height:463px; margin-right:-30px; border-radius:18px 0px 0px 18px;">
-                                         <b>Sales</b>
-                                            Because with our help, every customer – no matter where they are, who they are, how or when they choose to reach out – will experience the service they’re looking for. Our AI-powered, CCaaS technology and cloud-native software was built right, right from the start. It does away with decaying legacy systems and cobbled together infrastructures. Removes the need for multiple vendors. Vanquishes the monster that creaks and groans (and devours money) when contact center tech needs an upgrade or update.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="col-lg-6 col-md-6 col-sm-6 mr-5">
-                                    <div style="color:black;height:max-content; border-radius:0px 18px 18px 0px;">
-                                        <img style="height: 471px;margin-left: -93px; border-radius:0px;" src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4224.png" alt="">
-                                       
-                                    </div>
-                                </div>
-
-                            </div>
+        
                         </section>
                         <section>
-                            <div style="margin-top:20px" class="container col-lg-12 col-md-12 col-sm-12">
-                               <div class="col-lg-6 col-md-6 col-sm-6 mr-5">
-                                       <div style="color:black;height:max-content; border-radius:18px 0px 0px 18px; margin-right:-30px; ">
-                                           <img style="height: 471px;" src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4225.png" alt="">
-                                          
-                                       </div>
+                            <div style="margin-top:20px" class="container col-lg-9 col-md-12 col-sm-12 ms-3">
+                              <div class="container" style="background:#FFC700; height:60vh; border-radius:38px ">
+                                <div class="row">
+                                    <div class="col-lg-7 " style=" height:59vh; position:relative;right:40px">
+                                <img  src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4225.png" width="89%" alt="" srcset=""></div>
+                                    <div class="col-lg-5" style=" height:58vh; padding-left: 2rem;padding-top: 9rem; color:white ">
+                                 <h1 style="padding-right: 4rem">Sales</h1>
+                                 <p style="padding-right: 4rem">Because with our help, every customer – no matter where they are, who they are, how or when they choose to reach out – will experience the service they’re looking for. Our AI-powered, CCaaS technology and cloud-native software was built right, right from the start. It does away with decaying legacy systems and cobbled together infrastructures. Removes the need for multiple vendors. Vanquishes the monster that creaks and groans (and devours money) when contact center tech needs an upgrade or update.
+                                 </p>
+                                  </div>
                                 </div>
-
-                            
-                               <div class="col-lg-6 col-md-6 col-sm-6">
-                                    <div>
-                                        <p style="color:black;background-color:#FFC700;height:471px;border-radius:0px 18px 18px 0px;">
-                                         <b>Sales</b>
-                                            Because with our help, every customer – no matter where they are, who they are, how or when they choose to reach out – will experience the service they’re looking for. Our AI-powered, CCaaS technology and cloud-native software was built right, right from the start. It does away with decaying legacy systems and cobbled together infrastructures. Removes the need for multiple vendors. Vanquishes the monster that creaks and groans (and devours money) when contact center tech needs an upgrade or update.
-                                        </p>
+                              </div>
+                            </div>   
+                        </section>
+                        <section>
+                            <div style="margin-top:20px" class="container col-lg-9 col-md-12 col-sm-12 ms-3">
+                                <div class="container" style="background:#FFC700; height:60vh; border-radius:38px ">
+                                  <div class="row">
+                                    <div class="col-lg-5" style=" height:58vh; padding-left: 4rem;padding-top: 9rem; color:white ">
+                                     <h1 style="padding-right: 4rem">Sales</h1>
+                                     <p style="padding-right: 4rem">Because with our help, every customer – no matter where they are, who they are, how or when they choose to reach out – will experience the service they’re looking for. Our AI-powered, CCaaS technology and cloud-native software was built right, right from the start. It does away with decaying legacy systems and cobbled together infrastructures. Removes the need for multiple vendors. Vanquishes the monster that creaks and groans (and devours money) when contact center tech needs an upgrade or update.
+                                     </p>
                                     </div>
-                               </div>
+                                    
+                                    <div class="col-lg-7 " style=" height:59vh; position:relative;left:42px">
+                                    <img  src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-4224.png" width="89%" alt="" srcset="">
+                                    </div>
+                                  </div>
+                                </div>
                             </div>   
                         </section>
                         
-                        <div class="awards col-lg-12 col-md-12 col-sm-12  mb-5" style="margin-top:100px">
+                        
+                        <div class="awards col-lg-12 col-md-12 col-sm-12  mb-5" style="margin-top:100px; margin-bottom:2rem;">
                                         
                             <h1 style="text-align:center; font-weight:bold">Award-winning customer service</h1>
                             <p style="text-align:center;">Due to our innovative solution for call center organization, our company recognized as a leading company.</p>
-                            <center>   <img src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group 2899.png" width="50%" alt="" srcset=""></center>    
+                            <center>   <img src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-2899.png" width="50%" alt="" srcset=""></center>    
                    
                         </div> 
                     </div>

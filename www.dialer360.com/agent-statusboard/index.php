@@ -243,7 +243,7 @@
                                         
                                         <h1 style="text-align:center; font-weight:bold">Award-winning customer service</h1>
                                         <p style="text-align:center;">Due to our innovative solution for call center organization, our company recognized as a leading company.</p>
-                                     <center>   <img src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group 2899.png" width="50%" alt="" srcset="">
+                                     <center>   <img src="../../v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/Group-2899.png" width="50%" alt="" srcset="">
                                       </center>    
                    
                                      </div>
