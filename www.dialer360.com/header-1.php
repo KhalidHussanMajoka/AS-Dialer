@@ -60,6 +60,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css">
   <script type="text/javascript" src="https://code.jquery.com/jquery.min.js"></script>
   <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+  <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script> 
 
     <link rel="alternate" type="application/rss+xml" title="AS-Dialer &raquo; Feed" href="feed/index.php" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -651,17 +652,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                     /*! elementor - v3.6.5 - 27-04-2022 */
                                                     .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}
                                                 </style>
-                                                <h2 class="elementor-heading-title elementor-size-default">Contact Us : </h2>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-894dcb1 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="894dcb1" data-element_type="widget" data-widget_type="button.default">
                                             <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper"> <a href="https://client.dialer360.com/index.php/login" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-icon elementor-align-icon-left"> <i aria-hidden="true" class="fas fa-sign-in-alt"></i> </span> <span class="elementor-button-text">Login</span> </span> </a> </div>
+                                                <div class="elementor-button-wrapper"> <a href="https://client.dialer360.com/index.php/login" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-icon elementor-align-icon-left"> <i aria-hidden="true" class="fa fa-user"></i> </span> <span class="elementor-button-text">Login</span> </span> </a> </div>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-18eed70 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="18eed70" data-element_type="widget" data-widget_type="button.default">
                                             <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper"> <a href="https://client.dialer360.com/register.php" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-icon elementor-align-icon-left"> <i aria-hidden="true" class="fas fa-registered"></i> </span> <span class="elementor-button-text">Register</span> </span> </a> </div>
+                                                <div class="elementor-button-wrapper"> <a href="https://client.dialer360.com/register.php" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-icon elementor-align-icon-left"> <i class="fa-solid fa-right-from-bracket"></i> </span> <span class="elementor-button-text">logout</span> </span> </a> </div>
                                             </div>
                                         </div>
                                     </div>
@@ -725,7 +725,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-664">
-                                                            <button style="border:none;border-radius:30px;color:black;"><a href="#"
+                                                            <button style="border:none;border-radius:30px;color:black;"><a href="../contact-us.php"
                                                                 class="elementor-item elementor-item-anchor-contact">Contact
                                                                 Us</a></button>
                                                         </li>
@@ -772,6 +772,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
                                                                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-681"><a href="pay-as-you-go/index.php" class="elementor-sub-item">Pay As You Go</a></li>
                                                                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-682"><a href="demo-request/index.php" class="elementor-sub-item">Free Demo</a></li>                                                            </ul>
+                                                        </li>
+                                                        <li
+                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-664">
+                                                            <button style="border:none;border-radius:30px;color:black;"><a href="../contact-us.php"
+                                                                class="elementor-item elementor-item-anchor-contact">Contact
+                                                                Us</a></button>
                                                         </li>
                                                     
                                                     </ul>

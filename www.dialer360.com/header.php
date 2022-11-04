@@ -51,7 +51,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.dialer360.com/","url":"https://www.dialer360.com/","name":"Dialer360 - Call center dialer | Best Dialer Software & System","isPartOf":{"@id":"https://www.dialer360.com/#website"},"about":{"@id":"https://www.dialer360.com/#organization"},"primaryImageOfPage":{"@id":"https://www.dialer360.com/#primaryimage"},"image":{"@id":"https://www.dialer360.com/#primaryimage"},"thumbnailUrl":"https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png","datePublished":"2022-01-10T07:00:51+00:00","dateModified":"2022-09-13T11:40:27+00:00","description":"Dialer360 is offering the world’s leading call center dialer software & system . Trusted by more than 18000 plus clients. Get Free Trial!","breadcrumb":{"@id":"https://www.dialer360.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.dialer360.com/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.dialer360.com/#primaryimage","url":"https://www.dialer360.com/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533.png","contentUrl":"https://www.dialer360.com/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533.png","width":3195,"height":2182},{"@type":"BreadcrumbList","@id":"https://www.dialer360.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.dialer360.com/#website","url":"https://www.dialer360.com/","name":"Dialer360","description":"Call Center Software","publisher":{"@id":"https://www.dialer360.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.dialer360.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.dialer360.com/#organization","name":"Dialer360","url":"https://www.dialer360.com/","sameAs":["https://www.linkedin.com/company/dialer360/","https://www.youtube.com/channel/UCow_ivYwTDelKx2KjsRAIqQ","https://www.facebook.com/Dialler360","https://twitter.com/dialer360"],"logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.dialer360.com/#/schema/logo/image/","url":"https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/logo.svg","contentUrl":"https://v2g8a2v6.rocketcdn.me/wp-content/uploads/2022/01/logo.svg","width":194,"height":89,"caption":"Dialer360"},"image":{"@id":"https://www.dialer360.com/#/schema/logo/image/"}}]}
     </script> <!-- / Yoast SEO plugin. -->
     <link rel='dns-prefetch' href='http://www.google.com/' />
-
+    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script> 
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
     <link rel='dns-prefetch' href='http://v2g8a2v6.rocketcdn.me/' />
     <link href='https://fonts.gstatic.com/' crossorigin rel='preconnect' />
@@ -383,17 +383,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                     /*! elementor - v3.6.5 - 27-04-2022 */
                                                     .elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}
                                                 </style>
-                                                <h2 class="elementor-heading-title elementor-size-default">Contact Us : </h2>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-894dcb1 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="894dcb1" data-element_type="widget" data-widget_type="button.default">
                                             <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper"> <a href="https://client.dialer360.com/index.php/login" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-icon elementor-align-icon-left"> <i aria-hidden="true" class="fas fa-sign-in-alt"></i> </span> <span class="elementor-button-text">Login</span> </span> </a> </div>
+                                                <div class="elementor-button-wrapper"> <a href="https://client.dialer360.com/index.php/login" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-icon elementor-align-icon-left"> <i aria-hidden="true" class="fa fa-user"></i> </span> <span class="elementor-button-text">Login</span> </span> </a> </div>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-18eed70 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="18eed70" data-element_type="widget" data-widget_type="button.default">
                                             <div class="elementor-widget-container">
-                                                <div class="elementor-button-wrapper"> <a href="https://client.dialer360.com/register.php" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-icon elementor-align-icon-left"> <i aria-hidden="true" class="fas fa-registered"></i> </span> <span class="elementor-button-text">Register</span> </span> </a> </div>
+                                                <div class="elementor-button-wrapper"> <a href="https://client.dialer360.com/register.php" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-icon elementor-align-icon-left"> <i class="fa-solid fa-right-from-bracket"></i> </span> <span class="elementor-button-text">logout</span> </span> </a> </div>
                                             </div>
                                         </div>
                                     </div>
@@ -457,7 +456,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                         </li>
                                                         <li
                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-664">
-                                                            <button style="border:none;border-radius:30px;color:black;"><a href="#"
+                                                            <button style="border:none;border-radius:30px;color:black;"><a href="contact-us.php"
                                                                 class="elementor-item elementor-item-anchor-contact">Contact
                                                                 Us</a></button>
                                                         </li>
@@ -526,7 +525,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
                                                                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-665"><a href="https://client.dialer360.com/submitticket.php" class="elementor-sub-item">Submit a Ticket</a></li>
                                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-666"><a href="faqs/index.php" class="elementor-sub-item">FAQ</a></li>
-                                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-667"><a href="#" class="elementor-sub-item">Contact Us</a></li>
+                                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-667"><a href="contact-us.php" class="elementor-sub-item">Contact Us</a></li>
                                                             </ul>
                                                         </li>
                                                     </ul>
