@@ -1,6 +1,6 @@
     <div data-elementor-type="footer" data-elementor-id="71" class="elementor elementor-71 elementor-location-footer">
         <div class="elementor-section-wrap">
-            <div style="height: 183px;background: #FFC700;border-top-left-radius: 29px;border-bottom-left-radius: 29px;width: 60%;margin-left: 40%;padding-left: 6%;padding-top: 2%;">
+            <div style="height: 140px;background: #FFC700;border-top-left-radius: 29px;border-bottom-left-radius: 29px;width: 60%;margin-left: 40%;padding-left: 6%;padding-top: 2%; margin-bottom:30px;">
                 <h1 style="color: #ffffff;">Try AS Dialer for Free Now</h1>
                 <h4 style="color: #ffffff;">Send a request to get an Advanced Auto & Predictive dialer software for<br> your call center business. Get More Sales in less time ! No Credit card Required!</h4>
             </div>
