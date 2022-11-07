@@ -418,21 +418,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-644"><a href="#" class="elementor-item elementor-item-anchor">Products</a>
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
                                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-646"><a href="ringless-voicemail-services/index.php" class="elementor-sub-item">Ringless Voicemail</a></li>
-                                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-650"><a href="auto-dialer/index.php" class="elementor-sub-item">Auto Dialer<span style="padding-right:23px;"><i class="fa fa-caret-right"></i></span></a>
-                                                                    <ul class="sub-menu elementor-nav-menu--dropdown">
-                                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-647"><a href="predictive-dialer/index.php" class="elementor-sub-item">Predictive Dialer</a></li>
-                                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11926"><a href="power-dialer/index.php" class="elementor-sub-item">Power Dialer</a></li>
-                                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11994"><a href="progressive-dialer/index.php" class="elementor-sub-item">Progressive Dialer</a></li>
-                                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-651"><a href="ai-dialer/index.php" class="elementor-sub-item">Ai Dialer</a></li>
-                                                                    </ul>
-                                                                </li>
                                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-649"><a href="click-to-call/index.php" class="elementor-sub-item">Click To Call</a></li>
                                                             </ul>
                                                         </li>
                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-669"><a href="#" class="elementor-item elementor-item-anchor">Features</a>
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
                                                                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-670"><a href="agent-statusboard/index.php" class="elementor-sub-item">Agent Statusboard</a></li>
-                                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-677"><a href="pci-compliance/index.php" class="elementor-sub-item">PCI Compliant</a></li>
                                                             </ul>
                                                         </li>
                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-652"><a href="#" class="elementor-item elementor-item-anchor">Resources</a>
@@ -471,38 +462,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-644"><a href="#" class="elementor-item elementor-item-anchor">Products</a>
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
                                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-646"><a href="ringless-voicemail-services/index.php" class="elementor-sub-item">Ringless Voicemail</a></li>
-                                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-650"><a href="auto-dialer/index.php" class="elementor-sub-item">Auto Dialer<span style="padding-right:23px;"><i class="fa fa-caret-right"></i></span></a>
-                                                                    <ul class="sub-menu elementor-nav-menu--dropdown">
-                                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-647"><a href="predictive-dialer/index.php" class="elementor-sub-item">Predictive Dialer</a></li>
-                                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11926"><a href="power-dialer/index.php" class="elementor-sub-item">Power Dialer</a></li>
-                                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11994"><a href="progressive-dialer/index.php" class="elementor-sub-item">Progressive Dialer</a></li>
-                                                                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-651"><a href="ai-dialer/index.php" class="elementor-sub-item">Ai Dialer</a></li>
-                                                                    </ul>
-                                                                </li>
-                                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-648"><a href="hosted-pbx-service-solutions/index.php" class="elementor-sub-item">Hosted PBX Services</a></li>
-                                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645"><a href="voice-broadcast/index.php" class="elementor-sub-item">Voice Broadcasting</a></li>
                                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-649"><a href="click-to-call/index.php" class="elementor-sub-item">Click To Call</a></li>
                                                             </ul>
                                                         </li>
                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-669"><a href="#" class="elementor-item elementor-item-anchor">Features</a>
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
                                                                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-670"><a href="agent-statusboard/index.php" class="elementor-sub-item">Agent Statusboard</a></li>
-                                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-671"><a href="billing-portal/index.php" class="elementor-sub-item">Cheapest VoIP</a></li>
-                                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11294"><a href="tps-filtering/index.php" class="elementor-sub-item">TPS/DNC Filtering</a></li>
-                                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-672"><a href="recording-portal/index.php" class="elementor-sub-item">Recording Portal</a></li>
-                                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-673"><a href="display-local-callerid/index.php" class="elementor-sub-item">Display local caller id</a></li>
-                                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-674"><a href="crm/index.php" class="elementor-sub-item">CRM</a></li>
-                                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-675"><a href="web-phone/index.php" class="elementor-sub-item">Web phone</a></li>
-                                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-676"><a href="internal-chat/index.php" class="elementor-sub-item">Internal Chat</a></li>
-                                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-677"><a href="pci-compliance/index.php" class="elementor-sub-item">PCI Compliant</a></li>
                                                             </ul>
                                                         </li>
                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-652"><a href="#" class="elementor-item elementor-item-anchor">Resources</a>
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
                                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8047"><a href="blog/index.php" class="elementor-sub-item">Blog</a></li>
-                                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-654"><a href="videos/index.php" class="elementor-sub-item">Videos</a></li>
-                                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-656"><a href="glossary/index.php" class="elementor-sub-item">Glossary</a></li>
-                                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16653"><a href="security-and-compliance/index.php" class="elementor-sub-item">Security &#038; Compliance</a></li>
                                                                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-684"><a href="https://downloads.dialer360.com/" class="elementor-sub-item">Downloads</a></li>
                                                                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8540"><a href="https://client.dialer360.com/index.php/knowledgebase" class="elementor-sub-item">Knowledge Base</a></li>
                                                             </ul>
@@ -510,7 +480,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-658"><a href="#" class="elementor-item elementor-item-anchor">Our Company</a>
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
                                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-659"><a href="why-dialer360/index.php" class="elementor-sub-item">Why Dialer360</a></li>
-                                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-663"><a href="reseller/index.php" class="elementor-sub-item">Become a Reseller</a></li>
                                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15753"><a href="clients-review/index.php" class="elementor-sub-item">Clients Review</a></li>
                                                             </ul>
                                                         </li>
@@ -518,15 +487,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
                                                                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-681"><a href="pay-as-you-go/index.php" class="elementor-sub-item">Pay As You Go</a></li>
                                                                 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-682"><a href="demo-request/index.php" class="elementor-sub-item">Free Demo</a></li>
-                                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-683"><a href="other-services/index.php" class="elementor-sub-item">Other Services</a></li>
                                                             </ul>
                                                         </li>
-                                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-664"><a href="#" class="elementor-item elementor-item-anchor">Support</a>
-                                                            <ul class="sub-menu elementor-nav-menu--dropdown">
-                                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-665"><a href="https://client.dialer360.com/submitticket.php" class="elementor-sub-item">Submit a Ticket</a></li>
-                                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-666"><a href="faqs/index.php" class="elementor-sub-item">FAQ</a></li>
-                                                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-667"><a href="contact-us.php" class="elementor-sub-item">Contact Us</a></li>
-                                                            </ul>
+                                                        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-664"><a href="contact-us.php" class="elementor-item elementor-item-anchor">Contact Us</a>
                                                         </li>
                                                     </ul>
                                                 </nav>
