@@ -66,7 +66,7 @@
                                              </div>
 <br><br><br><br>
 <center>
-                                             <button class="col-3 py-4 px-5" style="background-color:#FFC700; border:none; font-weight:bold;color:white" >REQUEST A DEMO</button>
+                                             <button class="col-2 py-2 px-2" style="background-color:#FFC700; border:none; font-weight:bold;color:white;border-radius:10px;" ><a href="../demo-request/index.php" >REQUEST A DEMO</a></button>
                                              </center>
                                          </section>
 ​
@@ -105,7 +105,7 @@
                                                 
                                             </div>
                                             <center>
-                                             <button  class="col-2 py-4 px-5 " style="background-color:#FFC700; border:none; font-weight:bold;color:white; margin-top:100px" >REQUEST A DEMO</button>
+                                             <button  class="col-2 py-2 px-2 " style="background-color:#FFC700; border:none; font-weight:bold;color:white; margin-top:100px;border-radius:10px;" ><a href="../demo-request/index.php" >REQUEST A DEMO</a></button>
                                              </center>
                                         </section>
                                         <div class="awards  mb-5" style="margin-top:150px">

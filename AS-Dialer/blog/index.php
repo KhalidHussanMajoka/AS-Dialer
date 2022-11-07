@@ -26,8 +26,8 @@
                                                 <p style="font-style: normal;font-weight: 200;font-size: 17.7419px;line-height: 18px;text-align: center;color: #000000;">Welcome to AS-Dialer blogs. The latest trend and innovations, product updates, industry practices, and everything related to call centers to grow your business </p>
                                             </div>
                                          <center>
-                                            <button style="border-radius: 5px; background-color: #FFC700; border: none; height: 40px;">REQUEST A DEMO</button>
-                                            <button style="border-radius: 5px; background-color: #FFC700; border: none; height: 40px;">Create Account</button>
+                                            <button style="border-radius: 5px; background-color: #FFC700; border: none; height: 40px;border-radius:30px;"><a  href="../demo-request/index.php" >REQUEST A DEMO</a></button>
+                                            <button style="border-radius: 5px; background-color: #FFC700; border: none; height: 40px;border-radius:30px;"><a href="../demo-request/index.php" >Create Account</a></button>
                                          </center>
                                          <div>
                                               <style>

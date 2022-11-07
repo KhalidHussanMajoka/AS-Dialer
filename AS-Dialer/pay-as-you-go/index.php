@@ -22,12 +22,12 @@
                                                         </div>
                                                         <div class="elementor-element elementor-element-56606a2 elementor-align-left elementor-mobile-align-right elementor-widget__width-initial elementor-widget elementor-widget-button" data-id="56606a2" data-element_type="widget" data-widget_type="button.default">
                                                             <div class="elementor-widget-container">
-                                                                <div class="elementor-button-wrapper"> <a href="../demo-request/index.php" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Request a Demo</span> </span> </a> </div>
+                                                                <div class="elementor-button-wrapper"> <a style="margin:5px;border-radius:30px;" href="../demo-request/index.php" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Request a Demo</span> </span> </a> </div>
                                                             </div>
                                                         </div>
-                                                        <div style="margin:5px" class="elementor-element elementor-element-56606a2 elementor-align-left elementor-mobile-align-right elementor-widget__width-initial elementor-widget elementor-widget-button" data-id="56606a2" data-element_type="widget" data-widget_type="button.default">
+                                                        <div class="elementor-element elementor-element-56606a2 elementor-align-left elementor-mobile-align-right elementor-widget__width-initial elementor-widget elementor-widget-button" data-id="56606a2" data-element_type="widget" data-widget_type="button.default">
                                                             <div class="elementor-widget-container">
-                                                                <div class="elementor-button-wrapper"> <a href="../demo-request/index.php" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Create Account</span> </span> </a> </div>
+                                                                <div class="elementor-button-wrapper"> <a style="margin:5px;border-radius:30px;" href="../demo-request/index.php" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Create Account</span> </span> </a> </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -72,7 +72,7 @@
                                                                  <span style="color:white"><h4  class="mt-2">Text Here</h4></span><br>
                                                                  <span style="color:white"><h4>Sample Text</h4></span><br>
                                                                  <span style="color:white"><h4>Sample Text</h4></span><br>
-                                                                 <button class="col-6 py-3 " style="border:none;background-color:white;">SELECT</button>
+                                                                 <button class="col-6 py-3 " style="border:none;background-color:white;border-radius:30px;">SELECT</button>
 
                                                                 </div>
                                                             </div>
@@ -97,7 +97,7 @@
                                                                  <span style="color:white"><h4  class="mt-2">Text Here.........</h4></span><br>
                                                                  <span style="color:white"><h4>Sample Text.......</h4></span><br>
                                                                  <span style="color:white"><h4>Sample Text........</h4></span><br>
-                                                                 <button class="col-6 py-3 " style="border:none;background-color:white;">SELECT</button>
+                                                                 <button class="col-6 py-3 " style="border:none;background-color:white;border-radius:30px;">SELECT</button>
 
                                                                 </div>
                                                             </div>
@@ -122,7 +122,7 @@
                                                                  <span style="color:white"><h4  class="mt-2">Text Here.........</h4></span><br>
                                                                  <span style="color:white"><h4>Sample Text.......</h4></span><br>
                                                                  <span style="color:white"><h4>Sample Text........</h4></span><br>
-                                                                 <button class="col-6 py-3 " style="border:none;background-color:white;">SELECT</button>
+                                                                 <button class="col-6 py-3 " style="border:none;background-color:white;border-radius:30px;">SELECT</button>
 
                                                                 </div>
                                                             </div>  

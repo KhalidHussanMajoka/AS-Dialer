@@ -36,7 +36,7 @@
                                                         </div>
                                                         <div class="elementor-element elementor-element-4664dbe elementor-align-left elementor-mobile-align-right elementor-widget__width-initial elementor-widget elementor-widget-button" data-id="4664dbe" data-element_type="widget" data-widget_type="button.default">
                                                             <div class="elementor-widget-container">
-                                                                <div class="elementor-button-wrapper"> <a href="../demo-request/index.php" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Request a Demo</span> </span> </a> </div>
+                                                                <div class="elementor-button-wrapper"> <a style="border-radius:30px" href="../demo-request/index.php" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Request a Demo</span> </span> </a> </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -78,7 +78,7 @@
                                               time, customer support has become more sophisticated, and predictive 
                                               dialer works efficiently in this environment.
                                               </p>
-                                              <button style="border:none; margin:19px; height: 24px;">REQUEST A DEMO</button>
+                                              <button style="border:none; margin:19px; height: 24px;"><a href="../demo-request/index.php" >REQUEST A DEMO</a></button>
                                               </div>
                                               <div style="background-image:url('../../as-dialer-css/asset-1/uploads/2022/02/Group-4214.png'); height: 369px; font-size:10px;" class="column">
                                               <h3 style="margin:30px">Voice Broadcast</h3>
@@ -89,7 +89,7 @@
                                               time, customer support has become more sophisticated, and predictive 
                                               dialer works efficiently in this environment.
                                               </p>
-                                              <button style="border:none; margin:19px; height: 24px;">REQUEST A DEMO</button>
+                                              <button style="border:none; margin:19px; height: 24px;"><a href="../demo-request/index.php" >REQUEST A DEMO</a></button>
                                               </div>
                                               <div style="background-image:url('../../as-dialer-css/asset-1/uploads/2022/02/Group-4214.png'); height: 369px; font-size:10px;" class="column">
                                               <h3 style="margin:30px">Predictive Dialer</h3>
@@ -100,7 +100,7 @@
                                               time, customer support has become more sophisticated, and predictive 
                                               dialer works efficiently in this environment.
                                               </p>
-                                              <button style="border:none; margin:19px; height: 24px;">REQUEST A DEMO</button>
+                                              <button style="border:none; margin:19px; height: 24px;"><a href="../demo-request/index.php" >REQUEST A DEMO</a></button>
                                               </div>
                                               <div style="background-image:url('../../as-dialer-css/asset-1/uploads/2022/02/Group-4214.png'); height: 369px; font-size:10px;" class="column">
                                               <h3 style="margin:30px">Voice Broadcast</h3>
@@ -111,10 +111,10 @@
                                               time, customer support has become more sophisticated, and predictive 
                                               dialer works efficiently in this environment.
                                               </p>
-                                              <button style="border:none; margin:19px; height: 24px; ">REQUEST A DEMO</button>
+                                              <button style="border:none; margin:19px; height: 24px;"><a href="../demo-request/index.php" >REQUEST A DEMO</a></button>
                                               </div>
                                             </div>
-                                            <center><button style="border-radius: 5px; background-color: #FFC700; border: none; height: 40px;">REQUEST A DEMO</button></center>
+                                            <center><button style="border-radius: 30px; background-color: #FFC700; border: none; height: 40px;"><a href="../demo-request/index.php" >REQUEST A DEMO</a></button></center>
                                         </section>
                                         <section class="elementor-section elementor-top-section elementor-element elementor-element-f1020de elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="f1020de" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
                                             <div class="elementor-container elementor-column-gap-default">
@@ -135,7 +135,7 @@
                                                         </div>
                                                         <div class="elementor-element elementor-element-0c41b88 elementor-align-left elementor-mobile-align-right elementor-widget__width-initial elementor-widget elementor-widget-button" data-id="0c41b88" data-element_type="widget" data-widget_type="button.default">
                                                             <div class="elementor-widget-container">
-                                                                <div class="elementor-button-wrapper"> <a href="../demo-request/index.php" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Request a Demo</span> </span> </a> </div>
+                                                                <div class="elementor-button-wrapper"> <a style="border-radius:30px" href="../demo-request/index.php" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Request a Demo</span> </span> </a> </div>
                                                             </div>
                                                         </div>
                                                     </div>

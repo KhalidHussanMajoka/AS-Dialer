@@ -48,7 +48,7 @@
                                                         <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-4289a6b elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="4289a6b" data-element_type="widget" data-widget_type="button.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <div class="elementor-button-wrapper"> <a href="demo-request/index.php" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Request a Demo</span> </span> </a> </div>
+                                                                    <div class="elementor-button-wrapper"> <a style="border-radius:30px" href="demo-request/index.php" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Request a Demo</span> </span> </a> </div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -57,7 +57,7 @@
                                                         <div class="elementor-widget-wrap elementor-element-populated">
                                                             <div class="elementor-element elementor-element-143472c elementor-mobile-align-justify elementor-widget elementor-widget-button" data-id="143472c" data-element_type="widget" data-widget_type="button.default">
                                                                 <div class="elementor-widget-container">
-                                                                    <div class="elementor-button-wrapper"> <a href="https://client.dialer360.com/register.php" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Create Account</span> </span> </a> </div>
+                                                                    <div class="elementor-button-wrapper"> <a style="border-radius:30px" href="https://client.dialer360.com/register.php" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Create Account</span> </span> </a> </div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -346,7 +346,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-4cd1d3d elementor-align-left elementor-mobile-align-right elementor-widget__width-initial elementor-widget elementor-widget-button" data-id="4cd1d3d" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
-                                                    <div class="elementor-button-wrapper"> <a href="demo-request/index.php" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Request a Demo</span> </span> </a> </div>
+                                                    <div class="elementor-button-wrapper"> <a style="border-radius:30px" href="demo-request/index.php" class="elementor-button-link elementor-button elementor-size-sm" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Request a Demo</span> </span> </a> </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -491,7 +491,7 @@
                                                                             <div class="elementor-element elementor-element-e7e1ec0 elementor-widget elementor-widget-text-editor" data-id="e7e1ec0" data-element_type="widget" data-widget_type="text-editor.default">
                                                                                 <div class="elementor-widget-container">
                                                                                     <p>Enhance debt recovery rates, minimize the cost and boost agent output. Agents can review each debtor&#8217;s important detail as well as utilize scripts to certify effective communication. Real-time reporting is capable you to detect optimal times to reach debtors and boosting the chance of debt recovery. Join us and reach more debtors.</p>
-                                                                                    <p style="text-align: left;"><a href="debt-collection/index.php"><span style="color: #000; background: #FFCB04; padding: 15px;"><strong>Read More</strong></span></a></p>
+                                                                                    <p style="text-align: left;border-radius:30px;"><a href="debt-collection/index.php"><span style="color: #000; background: #FFCB04; padding: 15px;"><strong>Read More</strong></span></a></p>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -499,7 +499,7 @@
                                                                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2f52840" data-id="2f52840" data-element_type="column">
                                                                         <div class="elementor-widget-wrap elementor-element-populated">
                                                                             <div class="elementor-element elementor-element-b7043fe elementor-widget elementor-widget-image" data-id="b7043fe" data-element_type="widget" data-widget_type="image.default">
-                                                                                <div class="elementor-widget-container"> <img width="672" height="457" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20672%20457'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-src="../as-dialer-css/asset-1/uploads/2022/02/Group 4206 (1).png" /><noscript><img width="1072" height="457" src="../as-dialer-css/asset-1/uploads/2022/02/Group 4206 (1).png" class="attachment-large size-large" alt="" /></noscript> </div>
+                                                                                <div class="elementor-widget-container"> <img width="1072" height="457" src="../as-dialer-css/asset-1/uploads/2022/02/Group 4206 (1).png" class="attachment-large size-large" alt="" /></noscript> </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
