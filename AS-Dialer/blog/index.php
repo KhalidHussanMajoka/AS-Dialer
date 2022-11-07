@@ -93,8 +93,8 @@
                             <div style="margin-top:20px" class="container col-lg-9 col-md-12 col-sm-12 ms-3">
                               <div class="container" style="background:#FFC700; height:60vh; border-radius:38px ">
                                 <div class="row">
-                                    <div class="col-lg-7 " style=" height:59vh; position:relative;right:40px">
-                                <img  src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4225.png" width="69%" alt="" srcset=""></div>
+                                    <div class="col-lg-7 " style=" height:59vh; position:relative;right:7px">
+                                <img  src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4225.png" width="74%" alt="" srcset=""></div>
                                     <div class="col-lg-5" style=" height:58vh; padding-left: 2rem;padding-top: 9rem; color:white ">
                                  <h1 style="padding-right: 4rem">Sales</h1>
                                  <p style="padding-right: 4rem">Because with our help, every customer – no matter where they are, who they are, how or when they choose to reach out – will experience the service they’re looking for. Our AI-powered, CCaaS technology and cloud-native software was built right, right from the start. It does away with decaying legacy systems and cobbled together infrastructures. Removes the need for multiple vendors. Vanquishes the monster that creaks and groans (and devours money) when contact center tech needs an upgrade or update.
@@ -114,8 +114,8 @@
                                      </p>
                                     </div>
                                     
-                                    <div class="col-lg-7 " style=" height:59vh; position:relative;left:232px">
-                                    <img  src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4224.png" width="69%" alt="" srcset="">
+                                    <div class="col-lg-7 " style=" height:59vh; position:relative;left:210px">
+                                    <img  src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4224.png" width="74%" alt="" srcset="">
                                     </div>
                                   </div>
                                 </div>
