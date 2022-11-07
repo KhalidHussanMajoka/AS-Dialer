@@ -13738,8 +13738,8 @@ only screen and (min-resolution:2dppx) {
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot);
-    src: url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"), url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2) format("woff2"), url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff) format("woff"), url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf) format("truetype"), url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.svg#fontawesome) format("svg")
+    src: url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot);
+    src: url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"), url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2) format("woff2"), url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff) format("woff"), url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf) format("truetype"), url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.svg#fontawesome) format("svg")
 }
 
 .fab {
@@ -13751,8 +13751,8 @@ only screen and (min-resolution:2dppx) {
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot);
-    src: url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2) format("woff2"), url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff) format("woff"), url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf) format("truetype"), url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.svg#fontawesome) format("svg")
+    src: url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot);
+    src: url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot?#iefix) format("embedded-opentype"), url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2) format("woff2"), url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff) format("woff"), url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf) format("truetype"), url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.svg#fontawesome) format("svg")
 }
 
 .fab,
@@ -13765,8 +13765,8 @@ only screen and (min-resolution:2dppx) {
     font-style: normal;
     font-weight: 900;
     font-display: swap;
-    src: url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot);
-    src: url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2) format("woff2"), url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff) format("woff"), url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf) format("truetype"), url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.svg#fontawesome) format("svg")
+    src: url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot);
+    src: url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2) format("woff2"), url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff) format("woff"), url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf) format("truetype"), url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.svg#fontawesome) format("svg")
 }
 
 .fa,
@@ -13782,8 +13782,8 @@ only screen and (min-resolution:2dppx) {
 
 @font-face {
     font-family: 'simple-line-icons';
-    src: url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.4.0);
-    src: url('https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.4.0#iefix')format('embedded-opentype'), url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2?v=2.4.0)format('woff2'), url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.4.0)format('truetype'), url(https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff?v=2.4.0)format('woff'), url('https://as-dialer-css/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.svg?v=2.4.0#simple-line-icons')format('svg');
+    src: url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.4.0);
+    src: url('https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.4.0#iefix')format('embedded-opentype'), url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2?v=2.4.0)format('woff2'), url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.4.0)format('truetype'), url(https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff?v=2.4.0)format('woff'), url('https://as-dialer-css/asset-1/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.svg?v=2.4.0#simple-line-icons')format('svg');
     font-weight: 400;
     font-style: normal;
     font-display: swap
@@ -30636,8 +30636,8 @@ button.swiper-pagination-bullet {
 @font-face {
     font-display: swap;
     font-family: eicons;
-    src: url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.15.0);
-    src: url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.15.0#iefix) format("embedded-opentype"), url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.15.0) format("woff2"), url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.15.0) format("woff"), url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.15.0) format("truetype"), url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.15.0#eicon) format("svg");
+    src: url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.15.0);
+    src: url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.15.0#iefix) format("embedded-opentype"), url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.15.0) format("woff2"), url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.15.0) format("woff"), url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.15.0) format("truetype"), url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.15.0#eicon) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -49511,8 +49511,8 @@ body.woocommerce .oceanwp-newsletter-form-wrap button {
     font-style: normal;
     font-weight: 900;
     font-display: swap;
-    src: url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot);
-    src: url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2) format("woff2"), url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff) format("woff"), url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf) format("truetype"), url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg#fontawesome) format("svg")
+    src: url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot);
+    src: url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?#iefix) format("embedded-opentype"), url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2) format("woff2"), url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff) format("woff"), url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf) format("truetype"), url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg#fontawesome) format("svg")
 }
 
 .fa,
@@ -49530,8 +49530,8 @@ body.woocommerce .oceanwp-newsletter-form-wrap button {
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot);
-    src: url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"), url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2) format("woff2"), url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff) format("woff"), url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf) format("truetype"), url(https://as-dialer-css/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg#fontawesome) format("svg")
+    src: url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot);
+    src: url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?#iefix) format("embedded-opentype"), url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2) format("woff2"), url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff) format("woff"), url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf) format("truetype"), url(https://as-dialer-css/asset-1/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg#fontawesome) format("svg")
 }
 
 .fab {

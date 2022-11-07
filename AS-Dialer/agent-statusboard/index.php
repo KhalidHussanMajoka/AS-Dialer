@@ -48,7 +48,7 @@
                                                                 <style>
                                                                     /*! elementor - v3.6.5 - 27-04-2022 */
                                                                     .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}
-                                                                </style> <img style="margin-right:-386px;" width="682" height="438" class="attachment-full size-full" alt="" data-lazy-src="../../as-dialer-css/wp-content/uploads/2022/02/Group-ASDialer.png" /><noscript><img width="682" height="438" src="../../as-dialer-css/wp-content/uploads/2022/02/Group-ASDialer.png" class="attachment-full size-full" alt="" /></noscript>
+                                                                </style> <img style="margin-right:-386px;" width="682" height="438" class="attachment-full size-full" alt="" data-lazy-src="../../as-dialer-css/asset-1/uploads/2022/02/Group-ASDialer.png" /><noscript><img width="682" height="438" src="../../as-dialer-css/asset-1/uploads/2022/02/Group-ASDialer.png" class="attachment-full size-full" alt="" /></noscript>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -56,7 +56,7 @@
                                             </div>
                                         </section>
                                         <?php include ('../trusted-business-1.php') ?>
-                                        <section style="background-image:url('../../as-dialer-css/wp-content/uploads/2022/02/Group-4212.png'); height:800px;" class="elementor-section elementor-top-section elementor-element elementor-element-0f93793 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="0f93793" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+                                        <section style="background-image:url('../../as-dialer-css/asset-1/uploads/2022/02/Group-4212.png'); height:800px;" class="elementor-section elementor-top-section elementor-element elementor-element-0f93793 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="0f93793" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
                                             <div class="elementor-container elementor-column-gap-default">
                                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d8bf781" data-id="d8bf781" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
@@ -69,7 +69,7 @@
                                                 </div>
                                             </div>
                                             <div  style="height:500px; margin-top:20px;" class="row">
-                                              <div style="background-image:url('../../as-dialer-css/wp-content/uploads/2022/02/Group-4214.png'); height: 369px; font-size:10px;" class="column">
+                                              <div style="background-image:url('../../as-dialer-css/asset-1/uploads/2022/02/Group-4214.png'); height: 369px; font-size:10px;" class="column">
                                               <h3 style="margin:30px">Predictive Dialer</h3>
                                               <p style="margin:51px">
                                               Predictive dialer software is the best and most extraordinary 
@@ -80,7 +80,7 @@
                                               </p>
                                               <button style="border:none; margin:19px; height: 24px;">REQUEST A DEMO</button>
                                               </div>
-                                              <div style="background-image:url('../../as-dialer-css/wp-content/uploads/2022/02/Group-4214.png'); height: 369px; font-size:10px;" class="column">
+                                              <div style="background-image:url('../../as-dialer-css/asset-1/uploads/2022/02/Group-4214.png'); height: 369px; font-size:10px;" class="column">
                                               <h3 style="margin:30px">Voice Broadcast</h3>
                                               <p  style="margin:51px">
                                               Predictive dialer software is the best and most extraordinary 
@@ -91,7 +91,7 @@
                                               </p>
                                               <button style="border:none; margin:19px; height: 24px;">REQUEST A DEMO</button>
                                               </div>
-                                              <div style="background-image:url('../../as-dialer-css/wp-content/uploads/2022/02/Group-4214.png'); height: 369px; font-size:10px;" class="column">
+                                              <div style="background-image:url('../../as-dialer-css/asset-1/uploads/2022/02/Group-4214.png'); height: 369px; font-size:10px;" class="column">
                                               <h3 style="margin:30px">Predictive Dialer</h3>
                                               <p  style="margin:51px">
                                               Predictive dialer software is the best and most extraordinary 
@@ -102,7 +102,7 @@
                                               </p>
                                               <button style="border:none; margin:19px; height: 24px;">REQUEST A DEMO</button>
                                               </div>
-                                              <div style="background-image:url('../../as-dialer-css/wp-content/uploads/2022/02/Group-4214.png'); height: 369px; font-size:10px;" class="column">
+                                              <div style="background-image:url('../../as-dialer-css/asset-1/uploads/2022/02/Group-4214.png'); height: 369px; font-size:10px;" class="column">
                                               <h3 style="margin:30px">Voice Broadcast</h3>
                                               <p  style="margin:51px">
                                               Predictive dialer software is the best and most extraordinary 
@@ -149,7 +149,7 @@
                                                                     .elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}
                                                                 </style>
                                                                 <div class="elementor-image-box-wrapper">
-                                                                    <figure class="elementor-image-box-img"><img width="64" height="61" src="../../as-dialer-css/wp-content/uploads/2022/02/Track-your-agents.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                                    <figure class="elementor-image-box-img"><img width="64" height="61" src="../../as-dialer-css/asset-1/uploads/2022/02/Track-your-agents.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                     <div class="elementor-image-box-content">
                                                                         <h4 class="elementor-image-box-title">Track your agents</h4>
                                                                         <p class="elementor-image-box-description">It is fairly useful as it provide overview regarding call center agents. It can be easily observed as which agent is on the line, free agents at time and agents with hold call. Distinctive colors for each specific status is shown therefore it is user friendly system.</p>
@@ -160,7 +160,7 @@
                                                         <div class="elementor-element elementor-element-b5a24cc elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="b5a24cc" data-element_type="widget" data-widget_type="image-box.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-image-box-wrapper">
-                                                                    <figure class="elementor-image-box-img"><img width="57" height="57" src="../../as-dialer-css/wp-content/uploads/2022/02/Call-log.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                                    <figure class="elementor-image-box-img"><img width="57" height="57" src="../../as-dialer-css/asset-1/uploads/2022/02/Call-log.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                     <div class="elementor-image-box-content">
                                                                         <h4 class="elementor-image-box-title">Call log</h4>
                                                                         <p class="elementor-image-box-description">It is flexible as it gets updated itself showing most recent history. Exact information relating to calls can be observed by managers. Total time allocated by specific agent on calls can be monitored.</p>
@@ -175,7 +175,7 @@
                                                         <div class="elementor-element elementor-element-cbbea38 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="cbbea38" data-element_type="widget" data-widget_type="image-box.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-image-box-wrapper">
-                                                                    <figure class="elementor-image-box-img"><img width="58" height="63" src="../../as-dialer-css/wp-content/uploads/2022/02/Performance-evaluator.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                                    <figure class="elementor-image-box-img"><img width="58" height="63" src="../../as-dialer-css/asset-1/uploads/2022/02/Performance-evaluator.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                     <div class="elementor-image-box-content">
                                                                         <h4 class="elementor-image-box-title">Performance evaluator</h4>
                                                                         <p class="elementor-image-box-description">Managers can easily monitor performance of individual agents. It clearly outlines the sales made by specific agent. It provides visual representation of total calls attend by agent during the shifts and his work output in the form of sales.</p>
@@ -186,7 +186,7 @@
                                                         <div class="elementor-element elementor-element-f4e403d elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="f4e403d" data-element_type="widget" data-widget_type="image-box.default">
                                                             <div class="elementor-widget-container">
                                                                 <div class="elementor-image-box-wrapper">
-                                                                    <figure class="elementor-image-box-img"><img width="59" height="58" src="../../as-dialer-css/wp-content/uploads/2022/02/Increased-sales-volume.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                                    <figure class="elementor-image-box-img"><img width="59" height="58" src="../../as-dialer-css/asset-1/uploads/2022/02/Increased-sales-volume.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                     <div class="elementor-image-box-content">
                                                                         <h4 class="elementor-image-box-title">Increased sales volume</h4>
                                                                         <p class="elementor-image-box-description">More sales are generated by agents as they are aware of fact that their performance is being monitored. Managers can organize their team in a better manner by offering incentive in case of more sales than targeted sales and penalties in case of low sales from target. More sale volume means more profit for the call center which is a basic motive of each call center</p>
@@ -202,7 +202,7 @@
                                         
                                         <h1 style="text-align:center; font-weight:bold">Award-winning customer service</h1>
                                         <p style="text-align:center;">Due to our innovative solution for call center organization, our company recognized as a leading company.</p>
-                                     <center>   <img src="../../as-dialer-css/wp-content/uploads/2022/02/Group-2899.png" width="50%" alt="" srcset="">
+                                     <center>   <img src="../../as-dialer-css/asset-1/uploads/2022/02/Group-2899.png" width="50%" alt="" srcset="">
                                       </center>    
                    
                                      </div>

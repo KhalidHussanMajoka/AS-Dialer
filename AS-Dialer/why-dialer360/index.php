@@ -7,7 +7,7 @@
                                 <div class="entry clr" itemprop="text">
                                     <div data-elementor-type="wp-page" data-elementor-id="543" class="elementor elementor-543">
                                         <center>
-                                        <section style="background-image:url(../../as-dialer-css/wp-content/uploads/2022/02/bg-why.png);
+                                        <section style="background-image:url(../../as-dialer-css/asset-1/uploads/2022/02/bg-why.png);
                                          height:70vh;
                                          background-position: right; 
                                          background-repeat: no-repeat;
@@ -43,21 +43,21 @@
                                                 <div class="row">
                                                 <div class="col-lg-3 " style="background-color:#F2F2F2; height:60vh">
                                                 <center>
-                                             <img  src="../../as-dialer-css/wp-content/uploads/2022/02/1-c.png" alt="" srcset="">   
+                                             <img  src="../../as-dialer-css/asset-1/uploads/2022/02/1-c.png" alt="" srcset="">   
                                              <h3 style="font-weight:bold;">PCI Complaint</h3> 
                                              <p>The call center industry facing many challenges and a lot of competition among these industries. However...</p>
                                              </center>
                                             </div>
                                             <div class="col-lg-3 ms-5" style="background-color:#F2F2F2; height:60vh">
                                                 <center>
-                                             <img  src="../../as-dialer-css/wp-content/uploads/2022/02/1-c.png" alt="" srcset="">   
+                                             <img  src="../../as-dialer-css/asset-1/uploads/2022/02/1-c.png" alt="" srcset="">   
                                              <h3 style="font-weight:bold;">PCI Complaint</h3> 
                                              <p>The call center industry facing many challenges and a lot of competition among these industries. However...</p>
                                              </center>
                                             </div>
                                             <div class="col-lg-3 ms-5" style="background-color:#F2F2F2; height:60vh">
                                                 <center>
-                                             <img  src="../../as-dialer-css/wp-content/uploads/2022/02/1-c.png" alt="" srcset="">   
+                                             <img  src="../../as-dialer-css/asset-1/uploads/2022/02/1-c.png" alt="" srcset="">   
                                              <h3 style="font-weight:bold;">PCI Complaint</h3> 
                                              <p>The call center industry facing many challenges and a lot of competition among these industries. However...</p>
                                              </center>
@@ -76,7 +76,7 @@
 ​
                            
 ​
-<section   style="background-color:transparent; margin-top:100px; background-image:url(../../as-dialer-css/wp-content/uploads/2022/02/mapinfooter-2.png); " class="elementor-section elementor-top-section elementor-element elementor-element-e373988 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="e373988" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+<section   style="background-color:transparent; margin-top:100px; background-image:url(../../as-dialer-css/asset-1/uploads/2022/02/mapinfooter-2.png); " class="elementor-section elementor-top-section elementor-element elementor-element-e373988 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="e373988" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
                                             <div class="elementor-container elementor-column-gap-default">
                                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4fd8e24" data-id="4fd8e24" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
@@ -98,7 +98,7 @@
                                                             </div>
                                                         </section>
                                                         
-                                                        <img class="mt-5" src="../../as-dialer-css/wp-content/uploads/2022/02/hu-89.png" alt="" srcset="" width="100%">
+                                                        <img class="mt-5" src="../../as-dialer-css/asset-1/uploads/2022/02/hu-89.png" alt="" srcset="" width="100%">
                                                     </div>
                                                   
                                                 </div>
@@ -111,7 +111,7 @@
                                         <div class="awards  mb-5" style="margin-top:150px">
                                 <h1 style="text-align:center; font-weight:bold">Award-winning customer service</h1>
                                 <p style="text-align:center;">Due to our innovative solution for call center organization, our company recognized as a leading company.</p>
-                                <center> <img style="margin-bottom:100px; margin-top:70px; " src="../../as-dialer-css/wp-content/uploads/2022/02/Group-2899.png" width="70%" alt="" srcset=""> </center>
+                                <center> <img style="margin-bottom:100px; margin-top:70px; " src="../../as-dialer-css/asset-1/uploads/2022/02/Group-2899.png" width="70%" alt="" srcset=""> </center>
                             </div>
                                     </div>
                                 </div>

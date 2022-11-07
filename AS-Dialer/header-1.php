@@ -33,7 +33,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=latin&amp;display=swap" media="print" onload="this.media='all'" /><noscript>
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=latin&amp;display=swap" />
     </noscript>
-    <link rel="stylesheet" href="../../as-dialer-css/wp-content/cache/min/1/478f1451e00e8c9f173c093238e6eaa6.css" media="all" data-minify="1" />
+    <link rel="stylesheet" href="../../as-dialer-css/asset-1/cache/min/1/478f1451e00e8c9f173c093238e6eaa6.css" media="all" data-minify="1" />
     <meta name="description" content="AS-Dialer is offering the world’s leading call center dialer software &amp; system . Trusted by more than 18000 plus clients. Get Free Trial!" />
     <link rel="canonical" href="../index-dialer.php" />
     <meta property="og:locale" content="en_US" />
@@ -44,11 +44,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta property="og:site_name" content="AS-Dialer" />
     <meta property="article:publisher" content="https://www.facebook.com/Dialler" />
     <meta property="article:modified_time" content="2022-09-13T11:40:27+00:00" />
-    <meta property="og:image" content="../../as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png" />
+    <meta property="og:image" content="../../as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@dialer" />
     <script type="application/ld+json" class="yoast-schema-graph">
-        {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.dialer.com/","url":"https://AS-Dialer/","name":"AS-Dialer - Call center dialer | Best Dialer Software & System","isPartOf":{"@id":"https://AS-Dialer/#website"},"about":{"@id":"https://AS-Dialer/#organization"},"primaryImageOfPage":{"@id":"https://AS-Dialer/#primaryimage"},"image":{"@id":"https://AS-Dialer/#primaryimage"},"thumbnailUrl":"https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png","datePublished":"2022-01-10T07:00:51+00:00","dateModified":"2022-09-13T11:40:27+00:00","description":"Dialer360 is offering the world’s leading call center dialer software & system . Trusted by more than 18000 plus clients. Get Free Trial!","breadcrumb":{"@id":"https://AS-Dialer/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://AS-Dialer/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://AS-Dialer/#primaryimage","url":"https://AS-Dialer/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533.png","contentUrl":"https://AS-Dialer/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533.png","width":3195,"height":2182},{"@type":"BreadcrumbList","@id":"https://AS-Dialer/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://AS-Dialer/#website","url":"https://AS-Dialer/","name":"Dialer360","description":"Call Center Software","publisher":{"@id":"https://AS-Dialer/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://AS-Dialer/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://AS-Dialer/#organization","name":"Dialer360","url":"https://AS-Dialer/","sameAs":["https://www.linkedin.com/company/dialer360/","https://www.youtube.com/channel/UCow_ivYwTDelKx2KjsRAIqQ","https://www.facebook.com/Dialler360","https://twitter.com/dialer360"],"logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://AS-Dialer/#/schema/logo/image/","url":"https://as-dialer-css/wp-content/uploads/2022/01/logo.svg","contentUrl":"https://as-dialer-css/wp-content/uploads/2022/01/logo.svg","width":194,"height":89,"caption":"Dialer360"},"image":{"@id":"https://AS-Dialer/#/schema/logo/image/"}}]}
+        {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.dialer.com/","url":"https://AS-Dialer/","name":"AS-Dialer - Call center dialer | Best Dialer Software & System","isPartOf":{"@id":"https://AS-Dialer/#website"},"about":{"@id":"https://AS-Dialer/#organization"},"primaryImageOfPage":{"@id":"https://AS-Dialer/#primaryimage"},"image":{"@id":"https://AS-Dialer/#primaryimage"},"thumbnailUrl":"https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png","datePublished":"2022-01-10T07:00:51+00:00","dateModified":"2022-09-13T11:40:27+00:00","description":"Dialer360 is offering the world’s leading call center dialer software & system . Trusted by more than 18000 plus clients. Get Free Trial!","breadcrumb":{"@id":"https://AS-Dialer/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://AS-Dialer/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://AS-Dialer/#primaryimage","url":"https://AS-Dialer/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533.png","contentUrl":"https://AS-Dialer/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533.png","width":3195,"height":2182},{"@type":"BreadcrumbList","@id":"https://AS-Dialer/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://AS-Dialer/#website","url":"https://AS-Dialer/","name":"Dialer360","description":"Call Center Software","publisher":{"@id":"https://AS-Dialer/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://AS-Dialer/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://AS-Dialer/#organization","name":"Dialer360","url":"https://AS-Dialer/","sameAs":["https://www.linkedin.com/company/dialer360/","https://www.youtube.com/channel/UCow_ivYwTDelKx2KjsRAIqQ","https://www.facebook.com/Dialler360","https://twitter.com/dialer360"],"logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://AS-Dialer/#/schema/logo/image/","url":"https://as-dialer-css/asset-1/uploads/2022/01/logo.svg","contentUrl":"https://as-dialer-css/asset-1/uploads/2022/01/logo.svg","width":194,"height":89,"caption":"Dialer360"},"image":{"@id":"https://AS-Dialer/#/schema/logo/image/"}}]}
     </script> <!-- / Yoast SEO plugin. -->
     <link rel='dns-prefetch' href='http://www.google.com/' />
 
@@ -178,7 +178,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <style id='elementor-icons-inline-css'>
         .elementor-add-new-section .elementor-add-templately-promo-button{
                     background-color: #5d4fff;
-                    background-image: url(https://as-dialer-css/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
+                    background-image: url(https://as-dialer-css/asset-1/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
                     background-repeat: no-repeat;
                     background-position: center center;
                     margin-left: 5px;
@@ -188,7 +188,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         
         .elementor-add-new-section .elementor-add-templately-promo-button{
                     background-color: #5d4fff;
-                    background-image: url(https://as-dialer-css/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
+                    background-image: url(https://as-dialer-css/asset-1/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg);
                     background-repeat: no-repeat;
                     background-position: center center;
                     margin-left: 5px;
@@ -196,327 +196,327 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     bottom: 5px;
                 }
     </style>
-    <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-7-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-7b1cc.css?ver=1663069405' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-786-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-78677a4.css?ver=1654708337' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-    <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-7-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-7b1cc.css?ver=1663069405' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-490-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-49027c5.css?ver=1663089563' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-356-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-356a5ee.css?ver=1661875180' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-291-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-29147d5.css?ver=1663081705' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-316-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-316e094.css?ver=1664810973' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-791-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-79195fd.css?ver=1654700684' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-    <link rel='stylesheet' id='elementor-post-5-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-7-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-7b1cc.css?ver=1663069405' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-786-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-78677a4.css?ver=1654708337' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+    <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-7-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-7b1cc.css?ver=1663069405' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-490-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-49027c5.css?ver=1663089563' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-356-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-356a5ee.css?ver=1661875180' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-291-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-29147d5.css?ver=1663081705' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-316-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-316e094.css?ver=1664810973' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-791-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-79195fd.css?ver=1654700684' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+    <link rel='stylesheet' id='elementor-post-5-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
 
-<link rel='stylesheet' id='elementor-global-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-<link rel='stylesheet' id='elementor-post-354-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-354ed02.css?ver=1663082449' media='all' />
-<link rel='stylesheet' id='elementor-post-698-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-<link rel='stylesheet' id='elementor-post-71-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-
-
-
-<link rel='stylesheet' id='elementor-post-217-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-<link rel='stylesheet' id='elementor-post-221-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-<link rel='stylesheet' id='elementor-post-358-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-<link rel='stylesheet' id='elementor-post-9771-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-<link rel='stylesheet' id='elementor-post-18242-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-    <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-15693-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-156935e7b.css?ver=1654706353' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-601-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-601cb71.css?ver=1657817571' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-807-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-807e068.css?ver=1654719597' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-917-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-917e3f0.css?ver=1662742523' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-    <link rel='stylesheet' id='elementor-post-5-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-
-<link rel='stylesheet' id='elementor-global-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-<link rel='stylesheet' id='elementor-post-406-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-4062a3a.css?ver=1663083861' media='all' />
-<link rel='stylesheet' id='elementor-post-698-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-<link rel='stylesheet' id='elementor-post-71-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+<link rel='stylesheet' id='elementor-post-354-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-354ed02.css?ver=1663082449' media='all' />
+<link rel='stylesheet' id='elementor-post-698-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+<link rel='stylesheet' id='elementor-post-71-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
 
 
 
-<link rel='stylesheet' id='elementor-post-217-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-<link rel='stylesheet' id='elementor-post-221-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-<link rel='stylesheet' id='elementor-post-358-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-<link rel='stylesheet' id='elementor-post-9771-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-<link rel='stylesheet' id='elementor-post-18242-css'  href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-    <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-818-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-8189ba9.css?ver=1654719879' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-843-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-843dd84.css?ver=1654720496' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-841-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-841c5f4.css?ver=1656363713' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-824-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-82432e5.css?ver=1654718575' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-11820-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-11820f10e.css?ver=1663081890' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-437-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-4371b45.css?ver=1663071170' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-11981-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-1198181fd.css?ver=1663084357' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-799-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-799322a.css?ver=1654697253' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-570-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-570e0c9.css?ver=1654718989' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-16651-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-16651b152.css?ver=1658150566' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-11292-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-11292e068.css?ver=1654719597' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-562-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-5626af4.css?ver=1654720363' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-534-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-53463fa.css?ver=1663608230' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-812-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-8127bde.css?ver=1654702783' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
-        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
-    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
-    <link rel='stylesheet' id='elementor-post-543-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-5438397.css?ver=1654720364' media='all' />
-    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
-    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
-    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
-    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
-    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
-    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
-    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+<link rel='stylesheet' id='elementor-post-217-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+<link rel='stylesheet' id='elementor-post-221-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+<link rel='stylesheet' id='elementor-post-358-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+<link rel='stylesheet' id='elementor-post-9771-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+<link rel='stylesheet' id='elementor-post-18242-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+    <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-15693-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-156935e7b.css?ver=1654706353' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-601-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-601cb71.css?ver=1657817571' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-807-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-807e068.css?ver=1654719597' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-917-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-917e3f0.css?ver=1662742523' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+    <link rel='stylesheet' id='elementor-post-5-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+
+<link rel='stylesheet' id='elementor-global-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+<link rel='stylesheet' id='elementor-post-406-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-4062a3a.css?ver=1663083861' media='all' />
+<link rel='stylesheet' id='elementor-post-698-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+<link rel='stylesheet' id='elementor-post-71-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+
+
+
+<link rel='stylesheet' id='elementor-post-217-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+<link rel='stylesheet' id='elementor-post-221-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+<link rel='stylesheet' id='elementor-post-358-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+<link rel='stylesheet' id='elementor-post-9771-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+<link rel='stylesheet' id='elementor-post-18242-css'  href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+    <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-818-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-8189ba9.css?ver=1654719879' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-843-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-843dd84.css?ver=1654720496' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-841-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-841c5f4.css?ver=1656363713' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-824-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-82432e5.css?ver=1654718575' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-11820-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-11820f10e.css?ver=1663081890' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-437-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-4371b45.css?ver=1663071170' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-11981-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-1198181fd.css?ver=1663084357' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-799-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-799322a.css?ver=1654697253' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-570-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-570e0c9.css?ver=1654718989' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-16651-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-16651b152.css?ver=1658150566' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-11292-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-11292e068.css?ver=1654719597' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-562-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-5626af4.css?ver=1654720363' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-534-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-53463fa.css?ver=1663608230' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-812-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-8127bde.css?ver=1654702783' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
+        <link rel='stylesheet' id='elementor-post-5-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+    <link rel='stylesheet' id='elementor-global-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+    <link rel='stylesheet' id='elementor-post-543-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-5438397.css?ver=1654720364' media='all' />
+    <link rel='stylesheet' id='elementor-post-698-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+    <link rel='stylesheet' id='elementor-post-71-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+    <link rel='stylesheet' id='elementor-post-217-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+    <link rel='stylesheet' id='elementor-post-221-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+    <link rel='stylesheet' id='elementor-post-358-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+    <link rel='stylesheet' id='elementor-post-9771-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+    <link rel='stylesheet' id='elementor-post-18242-css' href='../../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456' media='all' />
     <style id='rocket-lazyload-inline-css'>
-        .rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(../as-dialer-css/wp-content/plugins/wp-rocket/assets/img/youtube.png) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}.wp-embed-responsive .wp-has-aspect-ratio .rll-youtube-player{position:absolute;padding-bottom:0;width:100%;height:100%;top:0;bottom:0;left:0;right:0}
+        .rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player:focus-within{outline: 2px solid currentColor;outline-offset: 5px;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:100%;width:100%;left:0;top:0;position:absolute;background:url(../as-dialer-css/asset-1/plugins/wp-rocket/assets/img/youtube.png) no-repeat center;background-color: transparent !important;cursor:pointer;border:none;}.wp-embed-responsive .wp-has-aspect-ratio .rll-youtube-player{position:absolute;padding-bottom:0;width:100%;height:100%;top:0;bottom:0;left:0;right:0}
     </style>
-    <script type="rocketlazyloadscript" src='../../as-dialer-css/wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js' defer></script>
-    <script type="rocketlazyloadscript" src='../../as-dialer-css/wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js' defer></script>
+    <script type="rocketlazyloadscript" src='../../as-dialer-css/asset-2/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js' defer></script>
+    <script type="rocketlazyloadscript" src='../../as-dialer-css/asset-2/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js' defer></script>
     <script id='ecs_ajax_load-js-extra'>
         var ecs_ajax_params = {"ajaxurl":"https:\/\/AS-Dialer\/wp-admin\/admin-ajax.php","posts":"{\"error\":\"\",\"m\":\"\",\"p\":\"7\",\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":\"7\",\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":10,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}"};
     </script>
-    <script type="rocketlazyloadscript" data-minify="1" src='../../as-dialer-css/wp-content/cache/min/1/wp-content/plugins/ele-custom-skin/assets/js/ecs_ajax_pagination0d0b.js?ver=1664811103' id='ecs_ajax_load-js' defer></script>
-    <script type="rocketlazyloadscript" data-minify="1" src='../../as-dialer-css/wp-content/cache/min/1/wp-content/plugins/ele-custom-skin/assets/js/ecs0d0b.js?ver=1664811103' id='ecs-script-js' defer></script>
+    <script type="rocketlazyloadscript" data-minify="1" src='../../as-dialer-css/asset-1/cache/min/1/wp-content/plugins/ele-custom-skin/assets/js/ecs_ajax_pagination0d0b.js?ver=1664811103' id='ecs_ajax_load-js' defer></script>
+    <script type="rocketlazyloadscript" data-minify="1" src='../../as-dialer-css/asset-1/cache/min/1/wp-content/plugins/ele-custom-skin/assets/js/ecs0d0b.js?ver=1664811103' id='ecs-script-js' defer></script>
     <link rel="https://api.w.org/" href="../wp-json/index.php" />
     <link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/7.json" />
     <link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/786.json" />
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://as-dialer-css/wp-includes/wlwmanifest.xml" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://as-dialer-css/asset-2/wlwmanifest.xml" />
     <meta name="generator" content="WordPress 6.0.2" />
     <link rel='shortlink' href='../index-dialer.php' />
     <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed5526.json?url=https%3A%2F%2FAS-Dialer%2F" />
     <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedab24?url=https%3A%2F%2FAS-Dialer%2F&amp;format=xml" />
-    <link rel="icon" href="../../as-dialer-css/wp-content/uploads/2022/01/logo-black-24.png" sizes="32x32" />
-    <link rel="icon" href="../../as-dialer-css/wp-content/uploads/2022/01/logo-black-24.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="../../as-dialer-css/wp-content/uploads/2022/01/logo-black-24.png" />
-    <meta name="msapplication-TileImage" content="https://as-dialer-css/wp-content/uploads/2022/01/logo-black-24.png" />
+    <link rel="icon" href="../../as-dialer-css/asset-1/uploads/2022/01/logo-black-24.png" sizes="32x32" />
+    <link rel="icon" href="../../as-dialer-css/asset-1/uploads/2022/01/logo-black-24.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="../../as-dialer-css/asset-1/uploads/2022/01/logo-black-24.png" />
+    <meta name="msapplication-TileImage" content="https://as-dialer-css/asset-1/uploads/2022/01/logo-black-24.png" />
     <style id="wp-custom-css">
         .page-header{display:none !important}/*horizontal Tabs*/.elementor-widget-tabs .elementor-tab-desktop-title{padding:13px 13px;background-color:#EFEFEF}/*data togle*/.elementor-tab-title.elementor-active{background-color:#FFCB04 !important}/*progress bar*/.meter{box-sizing:content-box;height:12px;/* Can be anything */position:relative;margin:10px 0 10px 0;/* Just for demo spacing */background:rgb(199,197,197);border-radius:25px;padding:0;box-shadow:inset 0 -1px 1px rgba(255,255,255,0.3)}.meter >span{display:block;height:100%;background-color:rgb(43,194,83);background-image:linear-gradient( center bottom,rgb(43,194,83) 37%,rgb(84,240,84) 69% );box-shadow:inset 0 2px 9px rgba(255,255,255,0.3),inset 0 -2px 6px rgba(253,253,253,0.4);position:relative;overflow:hidden}.meter >span:after,.animate >span >span{content:"";position:absolute;top:0;left:0;bottom:0;right:0;background-image:linear-gradient( -45deg,rgba(255,255,255,0.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,0.2) 50%,rgba(255,255,255,0.2) 75%,transparent 75%,transparent );z-index:1;background-size:50px 50px;animation:move 2s linear infinite;border-top-right-radius:8px;border-bottom-right-radius:8px;border-top-left-radius:20px;border-bottom-left-radius:20px;overflow:hidden}.animate >span:after{display:none}@keyframes move{0%{background-position:0 0}100%{background-position:50px 50px}}.red >span{background-image:linear-gradient(#FF5C5C,#FF5C5C)}.blue >span{background-image:linear-gradient(#8b088b,#8b088b)}.primary >span{background-image:linear-gradient(#5cd1ff,#5cd1ff)}.label{margin-bottom:-20px}/*cf7*/.input-container{display:flex}.input-container2{margin:10px 0}.input-container input,.input-container select{width:98% !important;background-color:white !important}.input-container2 input,.input-container2 select{width:99% !important;background-color:white !important}/* .iconfa{position:absolute;top:28px;padding:12px;color:white;background-color:#FFCB04}*/.btn{background-color:#FFCB04 !important;display:block;width:99%}/* ringless voicemail*/.ringlesstable .elementor-icon-box-title{font-family:"Poppins",Sans-serif;font-size:15px;font-weight:400;border-right:1px groove #DCD4D440;padding:7px 0 7px 30px}.ringlesstable .elementor-widget:not(:last-child){margin-bottom:0}.ringlesstable .elementor-icon{margin-left:30px}/* ringless css end *//* auto dialer */.predictivedialer .eael-tabs-nav>ul{margin-left:0;margin-right:0}.autodialertabs .eael-tabs-nav>ul{margin-left:150px;margin-right:150px}.aidialertabs .eael-tabs-nav>ul{margin-left:130px;margin-right:100px}/* glossory css */.sticky{position:-webkit-sticky;position:sticky;top:15%}@media screen and (max-width:820px){/* auto dialer */.autodialertabs .eael-tabs-nav>ul{margin-left:50px;margin-right:50px}.aidialertabs .eael-tabs-nav>ul{margin-left:50px;margin-right:50px}}#top-bar{padding:0 0 !important}@media screen and (max-width:568px){/* auto dialer */.autodialertabs .eael-tabs-nav>ul{margin-left:0;margin-right:0}.aidialertabs .eael-tabs-nav>ul{margin-left:0;margin-right:0}}#scroll-top{display:none !important}#wpfront-scroll-top-container{bottom:92px !important;right:32px !important}.jTjYNNwDjY4jIRTNMNIjgMOyMWuzGMktheme--light{display:none !important}		
     </style> <!-- OceanWP CSS -->
@@ -673,7 +673,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ab85fa2" data-id="ab85fa2" data-element_type="column">
                                     <div class="elementor-widget-wrap elementor-element-populated">
                                         <div class="elementor-element elementor-element-2e73975 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="2e73975" data-element_type="widget" data-widget_type="theme-site-logo.default">
-                                            <div class="elementor-widget-container"> <a href="../index-dialer.php"> <img width="194" height="89" src="../../as-dialer-css/wp-content/uploads/2022/01/as-dialer-logo.png" class="attachment-thumbnail size-thumbnail" alt=""/></a> </div>
+                                            <div class="elementor-widget-container"> <a href="../index-dialer.php"> <img width="194" height="89" src="../../as-dialer-css/asset-1/uploads/2022/01/as-dialer-logo.png" class="attachment-thumbnail size-thumbnail" alt=""/></a> </div>
                                         </div>
                                     </div>
                                 </div>

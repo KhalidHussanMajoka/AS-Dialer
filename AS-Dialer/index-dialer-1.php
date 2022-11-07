@@ -23,13 +23,13 @@
                                                 <div class="elementor-widget-container"> <img width="1024" height="699"
                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20699'%3E%3C/svg%3E"
                                                         class="attachment-large size-large" alt=""
-                                                        data-lazy-srcset="https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png 1024w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-300x205.png 300w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-768x524.png 768w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1536x1049.png 1536w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-2048x1399.png 2048w"
+                                                        data-lazy-srcset="https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png 1024w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-300x205.png 300w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-768x524.png 768w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-1536x1049.png 1536w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-2048x1399.png 2048w"
                                                         data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"
-                                                        data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png" /><noscript><img
+                                                        data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png" /><noscript><img
                                                             width="1024" height="699"
-                                                            src="../as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png"
+                                                            src="../as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png"
                                                             class="attachment-large size-large" alt=""
-                                                            srcset="https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png 1024w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-300x205.png 300w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-768x524.png 768w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1536x1049.png 1536w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-2048x1399.png 2048w"
+                                                            srcset="https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png 1024w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-300x205.png 300w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-768x524.png 768w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-1536x1049.png 1536w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-2048x1399.png 2048w"
                                                             sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>
                                                 </div>
                                             </div>
@@ -285,10 +285,10 @@
                                                                         height="56" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20118%2056'%3E%3C/svg%3E"
                                                                         alt="Group 221"
-                                                                        data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/Group-221.png" /><noscript><img
+                                                                        data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/Group-221.png" /><noscript><img
                                                                             width="118" height="56"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/Group-221.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/Group-221.png"
                                                                             alt="Group 221" /></noscript> </figure>
                                                             </div>
                                                             <div class="swiper-slide">
@@ -296,10 +296,10 @@
                                                                         height="56" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2076%2056'%3E%3C/svg%3E"
                                                                         alt="Group 222"
-                                                                        data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/Group-222.png" /><noscript><img
+                                                                        data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/Group-222.png" /><noscript><img
                                                                             width="76" height="56"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/Group-222.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/Group-222.png"
                                                                             alt="Group 222" /></noscript> </figure>
                                                             </div>
                                                             <div class="swiper-slide">
@@ -307,10 +307,10 @@
                                                                         height="56" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20118%2056'%3E%3C/svg%3E"
                                                                         alt="Group 294"
-                                                                        data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/Group-294.png" /><noscript><img
+                                                                        data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/Group-294.png" /><noscript><img
                                                                             width="118" height="56"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/Group-294.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/Group-294.png"
                                                                             alt="Group 294" /></noscript> </figure>
                                                             </div>
                                                             <div class="swiper-slide">
@@ -318,10 +318,10 @@
                                                                         height="59" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2059'%3E%3C/svg%3E"
                                                                         alt="logo"
-                                                                        data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/logo.png" /><noscript><img
+                                                                        data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/logo.png" /><noscript><img
                                                                             width="60" height="59"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/logo.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/logo.png"
                                                                             alt="logo" /></noscript> </figure>
                                                             </div>
                                                             <div class="swiper-slide">
@@ -329,10 +329,10 @@
                                                                         height="59" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2082%2059'%3E%3C/svg%3E"
                                                                         alt="logo1"
-                                                                        data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/logo1.png" /><noscript><img
+                                                                        data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/logo1.png" /><noscript><img
                                                                             width="82" height="59"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/logo1.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/logo1.png"
                                                                             alt="logo1" /></noscript> </figure>
                                                             </div>
                                                         </div>
@@ -405,9 +405,9 @@
                                                                                 width="55" height="55"
                                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2055%2055'%3E%3C/svg%3E"
                                                                                 class="attachment-full size-full" alt=""
-                                                                                data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/03/Predictive-Dialer-01-1.svg" /><noscript><img
+                                                                                data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/03/Predictive-Dialer-01-1.svg" /><noscript><img
                                                                                     width="55" height="55"
-                                                                                    src="https://as-dialer-css/wp-content/uploads/2022/03/Predictive-Dialer-01-1.svg"
+                                                                                    src="https://as-dialer-css/asset-1/uploads/2022/03/Predictive-Dialer-01-1.svg"
                                                                                     class="attachment-full size-full"
                                                                                     alt="" /></noscript> </figure>
                                                                         <div class="elementor-image-box-content">
@@ -436,9 +436,9 @@
                                                                             width="98" height="79"
                                                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2098%2079'%3E%3C/svg%3E"
                                                                             class="attachment-large size-large" alt=""
-                                                                            data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/Group-342.png" /><noscript><img
+                                                                            data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/Group-342.png" /><noscript><img
                                                                                 width="98" height="79"
-                                                                                src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png"
+                                                                                src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png"
                                                                                 class="attachment-large size-large"
                                                                                 alt="" /></noscript> </a> </div>
                                                             </div>
@@ -457,9 +457,9 @@
                                                                                 width="55" height="55"
                                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2055%2055'%3E%3C/svg%3E"
                                                                                 class="attachment-full size-full" alt=""
-                                                                                data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/03/Voice-broadcasting-01-1.svg" /><noscript><img
+                                                                                data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/03/Voice-broadcasting-01-1.svg" /><noscript><img
                                                                                     width="55" height="55"
-                                                                                    src="https://as-dialer-css/wp-content/uploads/2022/03/Voice-broadcasting-01-1.svg"
+                                                                                    src="https://as-dialer-css/asset-1/uploads/2022/03/Voice-broadcasting-01-1.svg"
                                                                                     class="attachment-full size-full"
                                                                                     alt="" /></noscript> </figure>
                                                                         <div class="elementor-image-box-content">
@@ -487,9 +487,9 @@
                                                                             width="98" height="79"
                                                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2098%2079'%3E%3C/svg%3E"
                                                                             class="attachment-large size-large" alt=""
-                                                                            data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/Group-342.png" /><noscript><img
+                                                                            data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/Group-342.png" /><noscript><img
                                                                                 width="98" height="79"
-                                                                                src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png"
+                                                                                src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png"
                                                                                 class="attachment-large size-large"
                                                                                 alt="" /></noscript> </a> </div>
                                                             </div>
@@ -508,9 +508,9 @@
                                                                                 width="55" height="55"
                                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2055%2055'%3E%3C/svg%3E"
                                                                                 class="attachment-full size-full" alt=""
-                                                                                data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/03/Ringless-voicemail-01-1.svg" /><noscript><img
+                                                                                data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/03/Ringless-voicemail-01-1.svg" /><noscript><img
                                                                                     width="55" height="55"
-                                                                                    src="https://as-dialer-css/wp-content/uploads/2022/03/Ringless-voicemail-01-1.svg"
+                                                                                    src="https://as-dialer-css/asset-1/uploads/2022/03/Ringless-voicemail-01-1.svg"
                                                                                     class="attachment-full size-full"
                                                                                     alt="" /></noscript> </figure>
                                                                         <div class="elementor-image-box-content">
@@ -538,9 +538,9 @@
                                                                         <img width="98" height="79"
                                                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2098%2079'%3E%3C/svg%3E"
                                                                             class="attachment-large size-large" alt=""
-                                                                            data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/Group-342.png" /><noscript><img
+                                                                            data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/Group-342.png" /><noscript><img
                                                                                 width="98" height="79"
-                                                                                src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png"
+                                                                                src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png"
                                                                                 class="attachment-large size-large"
                                                                                 alt="" /></noscript> </a> </div>
                                                             </div>
@@ -565,9 +565,9 @@
                                                                                 width="55" height="55"
                                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2055%2055'%3E%3C/svg%3E"
                                                                                 class="attachment-full size-full" alt=""
-                                                                                data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/03/Ai-Dialer-01-1.svg" /><noscript><img
+                                                                                data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/03/Ai-Dialer-01-1.svg" /><noscript><img
                                                                                     width="55" height="55"
-                                                                                    src="https://as-dialer-css/wp-content/uploads/2022/03/Ai-Dialer-01-1.svg"
+                                                                                    src="https://as-dialer-css/asset-1/uploads/2022/03/Ai-Dialer-01-1.svg"
                                                                                     class="attachment-full size-full"
                                                                                     alt="" /></noscript> </figure>
                                                                         <div class="elementor-image-box-content">
@@ -597,9 +597,9 @@
                                                                             height="79"
                                                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2098%2079'%3E%3C/svg%3E"
                                                                             class="attachment-large size-large" alt=""
-                                                                            data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/Group-342.png" /><noscript><img
+                                                                            data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/Group-342.png" /><noscript><img
                                                                                 width="98" height="79"
-                                                                                src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png"
+                                                                                src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png"
                                                                                 class="attachment-large size-large"
                                                                                 alt="" /></noscript> </a> </div>
                                                             </div>
@@ -618,9 +618,9 @@
                                                                                 width="55" height="55"
                                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2055%2055'%3E%3C/svg%3E"
                                                                                 class="attachment-full size-full" alt=""
-                                                                                data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/03/Auto-Dialer-01-1.svg" /><noscript><img
+                                                                                data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/03/Auto-Dialer-01-1.svg" /><noscript><img
                                                                                     width="55" height="55"
-                                                                                    src="https://as-dialer-css/wp-content/uploads/2022/03/Auto-Dialer-01-1.svg"
+                                                                                    src="https://as-dialer-css/asset-1/uploads/2022/03/Auto-Dialer-01-1.svg"
                                                                                     class="attachment-full size-full"
                                                                                     alt="" /></noscript> </figure>
                                                                         <div class="elementor-image-box-content">
@@ -648,9 +648,9 @@
                                                                             height="79"
                                                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2098%2079'%3E%3C/svg%3E"
                                                                             class="attachment-large size-large" alt=""
-                                                                            data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/Group-342.png" /><noscript><img
+                                                                            data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/Group-342.png" /><noscript><img
                                                                                 width="98" height="79"
-                                                                                src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png"
+                                                                                src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png"
                                                                                 class="attachment-large size-large"
                                                                                 alt="" /></noscript> </a> </div>
                                                             </div>
@@ -669,9 +669,9 @@
                                                                                 width="55" height="55"
                                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2055%2055'%3E%3C/svg%3E"
                                                                                 class="attachment-full size-full" alt=""
-                                                                                data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/03/Click-to-call-01-1.svg" /><noscript><img
+                                                                                data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/03/Click-to-call-01-1.svg" /><noscript><img
                                                                                     width="55" height="55"
-                                                                                    src="https://as-dialer-css/wp-content/uploads/2022/03/Click-to-call-01-1.svg"
+                                                                                    src="https://as-dialer-css/asset-1/uploads/2022/03/Click-to-call-01-1.svg"
                                                                                     class="attachment-full size-full"
                                                                                     alt="" /></noscript> </figure>
                                                                         <div class="elementor-image-box-content">
@@ -698,9 +698,9 @@
                                                                             height="79"
                                                                             src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2098%2079'%3E%3C/svg%3E"
                                                                             class="attachment-large size-large" alt=""
-                                                                            data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/Group-342.png" /><noscript><img
+                                                                            data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/Group-342.png" /><noscript><img
                                                                                 width="98" height="79"
-                                                                                src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png"
+                                                                                src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png"
                                                                                 class="attachment-large size-large"
                                                                                 alt="" /></noscript> </a> </div>
                                                             </div>
@@ -800,9 +800,9 @@
                                                                 height="88"
                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2088%2088'%3E%3C/svg%3E"
                                                                 class="attachment-full size-full" alt=""
-                                                                data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/03/Fastest-Dialing-01-1.svg" /><noscript><img
+                                                                data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/03/Fastest-Dialing-01-1.svg" /><noscript><img
                                                                     width="88" height="88"
-                                                                    src="https://as-dialer-css/wp-content/uploads/2022/03/Fastest-Dialing-01-1.svg"
+                                                                    src="https://as-dialer-css/asset-1/uploads/2022/03/Fastest-Dialing-01-1.svg"
                                                                     class="attachment-full size-full"
                                                                     alt="" /></noscript></figure>
                                                         <div class="elementor-image-box-content">
@@ -826,9 +826,9 @@
                                                                 height="88"
                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2088%2088'%3E%3C/svg%3E"
                                                                 class="attachment-full size-full" alt=""
-                                                                data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/03/Data-Protection-01-1.svg" /><noscript><img
+                                                                data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/03/Data-Protection-01-1.svg" /><noscript><img
                                                                     width="88" height="88"
-                                                                    src="https://as-dialer-css/wp-content/uploads/2022/03/Data-Protection-01-1.svg"
+                                                                    src="https://as-dialer-css/asset-1/uploads/2022/03/Data-Protection-01-1.svg"
                                                                     class="attachment-full size-full"
                                                                     alt="" /></noscript></figure>
                                                         <div class="elementor-image-box-content">
@@ -851,9 +851,9 @@
                                                                 height="88"
                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2088%2088'%3E%3C/svg%3E"
                                                                 class="attachment-full size-full" alt=""
-                                                                data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/03/Uptime-01-1.svg" /><noscript><img
+                                                                data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/03/Uptime-01-1.svg" /><noscript><img
                                                                     width="88" height="88"
-                                                                    src="https://as-dialer-css/wp-content/uploads/2022/03/Uptime-01-1.svg"
+                                                                    src="https://as-dialer-css/asset-1/uploads/2022/03/Uptime-01-1.svg"
                                                                     class="attachment-full size-full"
                                                                     alt="" /></noscript></figure>
                                                         <div class="elementor-image-box-content">
@@ -875,9 +875,9 @@
                                                                 height="88"
                                                                 src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2088%2088'%3E%3C/svg%3E"
                                                                 class="attachment-full size-full" alt=""
-                                                                data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/03/Higher-contact-rate-01-1.svg" /><noscript><img
+                                                                data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/03/Higher-contact-rate-01-1.svg" /><noscript><img
                                                                     width="88" height="88"
-                                                                    src="https://as-dialer-css/wp-content/uploads/2022/03/Higher-contact-rate-01-1.svg"
+                                                                    src="https://as-dialer-css/asset-1/uploads/2022/03/Higher-contact-rate-01-1.svg"
                                                                     class="attachment-full size-full"
                                                                     alt="" /></noscript></figure>
                                                         <div class="elementor-image-box-content">
@@ -942,10 +942,10 @@
                                                                         height="150" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
                                                                         alt="Component 8 – 43"
-                                                                        data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/Component-8-–-43-150x150.png" /><noscript><img
+                                                                        data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/Component-8-–-43-150x150.png" /><noscript><img
                                                                             width="150" height="150"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/Component-8-%e2%80%93-43-150x150.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/Component-8-%e2%80%93-43-150x150.png"
                                                                             alt="Component 8 – 43" /></noscript>
                                                                 </figure>
                                                             </div>
@@ -954,10 +954,10 @@
                                                                         height="150" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
                                                                         alt="Component 8 – 44"
-                                                                        data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/Component-8-–-44-150x150.png" /><noscript><img
+                                                                        data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/Component-8-–-44-150x150.png" /><noscript><img
                                                                             width="150" height="150"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/Component-8-%e2%80%93-44-150x150.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/Component-8-%e2%80%93-44-150x150.png"
                                                                             alt="Component 8 – 44" /></noscript>
                                                                 </figure>
                                                             </div>
@@ -966,10 +966,10 @@
                                                                         height="150" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
                                                                         alt="Component 8 – 45"
-                                                                        data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/Component-8-–-45-150x150.png" /><noscript><img
+                                                                        data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/Component-8-–-45-150x150.png" /><noscript><img
                                                                             width="150" height="150"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/Component-8-%e2%80%93-45-150x150.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/Component-8-%e2%80%93-45-150x150.png"
                                                                             alt="Component 8 – 45" /></noscript>
                                                                 </figure>
                                                             </div>
@@ -978,10 +978,10 @@
                                                                         height="150" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
                                                                         alt="Component 8 – 46"
-                                                                        data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/Component-8-–-46-150x150.png" /><noscript><img
+                                                                        data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/Component-8-–-46-150x150.png" /><noscript><img
                                                                             width="150" height="150"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/Component-8-%e2%80%93-46-150x150.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/Component-8-%e2%80%93-46-150x150.png"
                                                                             alt="Component 8 – 46" /></noscript>
                                                                 </figure>
                                                             </div>
@@ -990,10 +990,10 @@
                                                                         height="150" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
                                                                         alt="Component 8 – 47"
-                                                                        data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/Component-8-–-47-150x150.png" /><noscript><img
+                                                                        data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/Component-8-–-47-150x150.png" /><noscript><img
                                                                             width="150" height="150"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/Component-8-%e2%80%93-47-150x150.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/Component-8-%e2%80%93-47-150x150.png"
                                                                             alt="Component 8 – 47" /></noscript>
                                                                 </figure>
                                                             </div>
@@ -1002,10 +1002,10 @@
                                                                         height="150" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E"
                                                                         alt="Component 8 – 48"
-                                                                        data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/Component-8-–-48-150x150.png" /><noscript><img
+                                                                        data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/Component-8-–-48-150x150.png" /><noscript><img
                                                                             width="150" height="150"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/Component-8-%e2%80%93-48-150x150.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/Component-8-%e2%80%93-48-150x150.png"
                                                                             alt="Component 8 – 48" /></noscript>
                                                                 </figure>
                                                             </div>
@@ -1460,10 +1460,10 @@
                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20672%20457'%3E%3C/svg%3E"
                                                                                                     class="attachment-large size-large"
                                                                                                     alt=""
-                                                                                                    data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/02/Debt-Collection-PSD.svg" /><noscript><img
+                                                                                                    data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/02/Debt-Collection-PSD.svg" /><noscript><img
                                                                                                         width="672"
                                                                                                         height="457"
-                                                                                                        src="https://as-dialer-css/wp-content/uploads/2022/02/Debt-Collection-PSD.svg"
+                                                                                                        src="https://as-dialer-css/asset-1/uploads/2022/02/Debt-Collection-PSD.svg"
                                                                                                         class="attachment-large size-large"
                                                                                                         alt="" /></noscript>
                                                                                             </div>
@@ -1560,10 +1560,10 @@
                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20672%20457'%3E%3C/svg%3E"
                                                                                                     class="attachment-large size-large"
                                                                                                     alt=""
-                                                                                                    data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/02/BPO-PSD.svg" /><noscript><img
+                                                                                                    data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/02/BPO-PSD.svg" /><noscript><img
                                                                                                         width="672"
                                                                                                         height="457"
-                                                                                                        src="https://as-dialer-css/wp-content/uploads/2022/02/BPO-PSD.svg"
+                                                                                                        src="https://as-dialer-css/asset-1/uploads/2022/02/BPO-PSD.svg"
                                                                                                         class="attachment-large size-large"
                                                                                                         alt="" /></noscript>
                                                                                             </div>
@@ -1655,10 +1655,10 @@
                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20672%20457'%3E%3C/svg%3E"
                                                                                                     class="attachment-large size-large"
                                                                                                     alt=""
-                                                                                                    data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/02/Solar-PSD.svg" /><noscript><img
+                                                                                                    data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/02/Solar-PSD.svg" /><noscript><img
                                                                                                         width="672"
                                                                                                         height="457"
-                                                                                                        src="https://as-dialer-css/wp-content/uploads/2022/02/Solar-PSD.svg"
+                                                                                                        src="https://as-dialer-css/asset-1/uploads/2022/02/Solar-PSD.svg"
                                                                                                         class="attachment-large size-large"
                                                                                                         alt="" /></noscript>
                                                                                             </div>
@@ -1750,10 +1750,10 @@
                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20672%20457'%3E%3C/svg%3E"
                                                                                                     class="attachment-large size-large"
                                                                                                     alt=""
-                                                                                                    data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/02/Real-Estate-PSD.svg" /><noscript><img
+                                                                                                    data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/02/Real-Estate-PSD.svg" /><noscript><img
                                                                                                         width="672"
                                                                                                         height="457"
-                                                                                                        src="https://as-dialer-css/wp-content/uploads/2022/02/Real-Estate-PSD.svg"
+                                                                                                        src="https://as-dialer-css/asset-1/uploads/2022/02/Real-Estate-PSD.svg"
                                                                                                         class="attachment-large size-large"
                                                                                                         alt="" /></noscript>
                                                                                             </div>
@@ -1844,10 +1844,10 @@
                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20672%20457'%3E%3C/svg%3E"
                                                                                                     class="attachment-large size-large"
                                                                                                     alt=""
-                                                                                                    data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/02/Travel-Tourism-PSD.svg" /><noscript><img
+                                                                                                    data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/02/Travel-Tourism-PSD.svg" /><noscript><img
                                                                                                         width="672"
                                                                                                         height="457"
-                                                                                                        src="https://as-dialer-css/wp-content/uploads/2022/02/Travel-Tourism-PSD.svg"
+                                                                                                        src="https://as-dialer-css/asset-1/uploads/2022/02/Travel-Tourism-PSD.svg"
                                                                                                         class="attachment-large size-large"
                                                                                                         alt="" /></noscript>
                                                                                             </div>
@@ -1938,10 +1938,10 @@
                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20672%20457'%3E%3C/svg%3E"
                                                                                                     class="attachment-large size-large"
                                                                                                     alt=""
-                                                                                                    data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/02/Fund-Raising-PSD.svg" /><noscript><img
+                                                                                                    data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/02/Fund-Raising-PSD.svg" /><noscript><img
                                                                                                         width="672"
                                                                                                         height="457"
-                                                                                                        src="https://as-dialer-css/wp-content/uploads/2022/02/Fund-Raising-PSD.svg"
+                                                                                                        src="https://as-dialer-css/asset-1/uploads/2022/02/Fund-Raising-PSD.svg"
                                                                                                         class="attachment-large size-large"
                                                                                                         alt="" /></noscript>
                                                                                             </div>
@@ -2034,10 +2034,10 @@
                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20672%20457'%3E%3C/svg%3E"
                                                                                                     class="attachment-large size-large"
                                                                                                     alt=""
-                                                                                                    data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/02/Health-Insurance-PSD.svg" /><noscript><img
+                                                                                                    data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/02/Health-Insurance-PSD.svg" /><noscript><img
                                                                                                         width="672"
                                                                                                         height="457"
-                                                                                                        src="https://as-dialer-css/wp-content/uploads/2022/02/Health-Insurance-PSD.svg"
+                                                                                                        src="https://as-dialer-css/asset-1/uploads/2022/02/Health-Insurance-PSD.svg"
                                                                                                         class="attachment-large size-large"
                                                                                                         alt="" /></noscript>
                                                                                             </div>
@@ -2127,10 +2127,10 @@
                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20672%20457'%3E%3C/svg%3E"
                                                                                                     class="attachment-large size-large"
                                                                                                     alt=""
-                                                                                                    data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/02/Home-Facilities-PSD.svg" /><noscript><img
+                                                                                                    data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/02/Home-Facilities-PSD.svg" /><noscript><img
                                                                                                         width="672"
                                                                                                         height="457"
-                                                                                                        src="https://as-dialer-css/wp-content/uploads/2022/02/Home-Facilities-PSD.svg"
+                                                                                                        src="https://as-dialer-css/asset-1/uploads/2022/02/Home-Facilities-PSD.svg"
                                                                                                         class="attachment-large size-large"
                                                                                                         alt="" /></noscript>
                                                                                             </div>
@@ -2195,10 +2195,10 @@
                                                                         height="132" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20169%20132'%3E%3C/svg%3E"
                                                                         alt="badge-2020"
-                                                                        data-lazy-src="../as-dialer-css/wp-content/uploads/2022/01/badge-2020.png" /><noscript><img
+                                                                        data-lazy-src="../as-dialer-css/asset-1/uploads/2022/01/badge-2020.png" /><noscript><img
                                                                             width="169" height="132"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/badge-2020.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/badge-2020.png"
                                                                             alt="badge-2020" /></noscript> </figure>
                                                             </div>
                                                             <div class="swiper-slide">
@@ -2206,10 +2206,10 @@
                                                                         height="148" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20190%20148'%3E%3C/svg%3E"
                                                                         alt="capterra-top20-af-call-center-badge"
-                                                                        data-lazy-src="../as-dialer-css/wp-content/uploads/2022/01/capterra-top20-af-call-center-badge.png" /><noscript><img
+                                                                        data-lazy-src="../as-dialer-css/asset-1/uploads/2022/01/capterra-top20-af-call-center-badge.png" /><noscript><img
                                                                             width="190" height="148"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/capterra-top20-af-call-center-badge.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/capterra-top20-af-call-center-badge.png"
                                                                             alt="capterra-top20-af-call-center-badge" /></noscript>
                                                                 </figure>
                                                             </div>
@@ -2218,10 +2218,10 @@
                                                                         height="148" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20148%20148'%3E%3C/svg%3E"
                                                                         alt="crozdesk-happiest-users-badge-2020"
-                                                                        data-lazy-src="../as-dialer-css/wp-content/uploads/2022/01/crozdesk-happiest-users-badge-2020.png" /><noscript><img
+                                                                        data-lazy-src="../as-dialer-css/asset-1/uploads/2022/01/crozdesk-happiest-users-badge-2020.png" /><noscript><img
                                                                             width="148" height="148"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/crozdesk-happiest-users-badge-2020.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/crozdesk-happiest-users-badge-2020.png"
                                                                             alt="crozdesk-happiest-users-badge-2020" /></noscript>
                                                                 </figure>
                                                             </div>
@@ -2230,10 +2230,10 @@
                                                                         height="148" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20134%20148'%3E%3C/svg%3E"
                                                                         alt="crozdesk-sales-management-software-leader-badge"
-                                                                        data-lazy-src="../as-dialer-css/wp-content/uploads/2022/01/crozdesk-sales-management-software-leader-badge.png" /><noscript><img
+                                                                        data-lazy-src="../as-dialer-css/asset-1/uploads/2022/01/crozdesk-sales-management-software-leader-badge.png" /><noscript><img
                                                                             width="134" height="148"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/crozdesk-sales-management-software-leader-badge.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/crozdesk-sales-management-software-leader-badge.png"
                                                                             alt="crozdesk-sales-management-software-leader-badge" /></noscript>
                                                                 </figure>
                                                             </div>
@@ -2242,10 +2242,10 @@
                                                                         height="148" class="swiper-slide-image"
                                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20118%20148'%3E%3C/svg%3E"
                                                                         alt="ease-of-use-badge-capterra"
-                                                                        data-lazy-src="../as-dialer-css/wp-content/uploads/2022/01/ease-of-use-badge-capterra.png" /><noscript><img
+                                                                        data-lazy-src="../as-dialer-css/asset-1/uploads/2022/01/ease-of-use-badge-capterra.png" /><noscript><img
                                                                             width="118" height="148"
                                                                             class="swiper-slide-image"
-                                                                            src="../as-dialer-css/wp-content/uploads/2022/01/ease-of-use-badge-capterra.png"
+                                                                            src="../as-dialer-css/asset-1/uploads/2022/01/ease-of-use-badge-capterra.png"
                                                                             alt="ease-of-use-badge-capterra" /></noscript>
                                                                 </figure>
                                                             </div>
@@ -2332,15 +2332,15 @@
                                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20533'%3E%3C/svg%3E"
                                                                                                                     class="attachment-large size-large"
                                                                                                                     alt=""
-                                                                                                                    data-lazy-srcset="https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg 1024w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-300x156.jpg 300w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-768x400.jpg 768w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1536x800.jpg 1536w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-2048x1067.jpg 2048w"
+                                                                                                                    data-lazy-srcset="https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg 1024w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-300x156.jpg 300w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-768x400.jpg 768w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1536x800.jpg 1536w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-2048x1067.jpg 2048w"
                                                                                                                     data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"
-                                                                                                                    data-lazy-src="../as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg" /><noscript><img
+                                                                                                                    data-lazy-src="../as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg" /><noscript><img
                                                                                                                         width="1024"
                                                                                                                         height="533"
-                                                                                                                        src="../as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg"
+                                                                                                                        src="../as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg"
                                                                                                                         class="attachment-large size-large"
                                                                                                                         alt=""
-                                                                                                                        srcset="https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg 1024w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-300x156.jpg 300w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-768x400.jpg 768w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1536x800.jpg 1536w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-2048x1067.jpg 2048w"
+                                                                                                                        srcset="https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg 1024w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-300x156.jpg 300w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-768x400.jpg 768w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1536x800.jpg 1536w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-2048x1067.jpg 2048w"
                                                                                                                         sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>
                                                                                                             </a> </div>
                                                                                                     </div>
@@ -2443,10 +2443,10 @@
                                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2098%2079'%3E%3C/svg%3E"
                                                                                                                     class="attachment-large size-large"
                                                                                                                     alt=""
-                                                                                                                    data-lazy-src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png" /><noscript><img
+                                                                                                                    data-lazy-src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png" /><noscript><img
                                                                                                                         width="98"
                                                                                                                         height="79"
-                                                                                                                        src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png"
+                                                                                                                        src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png"
                                                                                                                         class="attachment-large size-large"
                                                                                                                         alt="" /></noscript>
                                                                                                             </a> </div>
@@ -2489,15 +2489,15 @@
                                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20960%20500'%3E%3C/svg%3E"
                                                                                                                     class="attachment-large size-large"
                                                                                                                     alt=""
-                                                                                                                    data-lazy-srcset="https://as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01.jpg 960w, https://as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01-300x156.jpg 300w, https://as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01-768x400.jpg 768w"
+                                                                                                                    data-lazy-srcset="https://as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01.jpg 960w, https://as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01-300x156.jpg 300w, https://as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01-768x400.jpg 768w"
                                                                                                                     data-lazy-sizes="(max-width: 960px) 100vw, 960px"
-                                                                                                                    data-lazy-src="../as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01.jpg" /><noscript><img
+                                                                                                                    data-lazy-src="../as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01.jpg" /><noscript><img
                                                                                                                         width="960"
                                                                                                                         height="500"
-                                                                                                                        src="../as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01.jpg"
+                                                                                                                        src="../as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01.jpg"
                                                                                                                         class="attachment-large size-large"
                                                                                                                         alt=""
-                                                                                                                        srcset="https://as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01.jpg 960w, https://as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01-300x156.jpg 300w, https://as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01-768x400.jpg 768w"
+                                                                                                                        srcset="https://as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01.jpg 960w, https://as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01-300x156.jpg 300w, https://as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01-768x400.jpg 768w"
                                                                                                                         sizes="(max-width: 960px) 100vw, 960px" /></noscript>
                                                                                                             </a> </div>
                                                                                                     </div>
@@ -2597,10 +2597,10 @@
                                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2098%2079'%3E%3C/svg%3E"
                                                                                                                     class="attachment-large size-large"
                                                                                                                     alt=""
-                                                                                                                    data-lazy-src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png" /><noscript><img
+                                                                                                                    data-lazy-src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png" /><noscript><img
                                                                                                                         width="98"
                                                                                                                         height="79"
-                                                                                                                        src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png"
+                                                                                                                        src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png"
                                                                                                                         class="attachment-large size-large"
                                                                                                                         alt="" /></noscript>
                                                                                                             </a> </div>
@@ -2658,15 +2658,15 @@
                                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20533'%3E%3C/svg%3E"
                                                                                                                     class="attachment-large size-large"
                                                                                                                     alt=""
-                                                                                                                    data-lazy-srcset="https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg 1024w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-300x156.jpg 300w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-768x400.jpg 768w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1536x800.jpg 1536w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-2048x1067.jpg 2048w"
+                                                                                                                    data-lazy-srcset="https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg 1024w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-300x156.jpg 300w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-768x400.jpg 768w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1536x800.jpg 1536w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-2048x1067.jpg 2048w"
                                                                                                                     data-lazy-sizes="(max-width: 1024px) 100vw, 1024px"
-                                                                                                                    data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg" /><noscript><img
+                                                                                                                    data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg" /><noscript><img
                                                                                                                         width="1024"
                                                                                                                         height="533"
-                                                                                                                        src="../as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg"
+                                                                                                                        src="../as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg"
                                                                                                                         class="attachment-large size-large"
                                                                                                                         alt=""
-                                                                                                                        srcset="https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg 1024w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-300x156.jpg 300w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-768x400.jpg 768w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1536x800.jpg 1536w, https://as-dialer-css/wp-content/uploads/2022/10/How-to-reduce-call-center-cost-01-1-2048x1067.jpg 2048w"
+                                                                                                                        srcset="https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1024x533.jpg 1024w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-300x156.jpg 300w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-768x400.jpg 768w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-1536x800.jpg 1536w, https://as-dialer-css/asset-1/uploads/2022/10/How-to-reduce-call-center-cost-01-1-2048x1067.jpg 2048w"
                                                                                                                         sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>
                                                                                                             </a> </div>
                                                                                                     </div>
@@ -2764,15 +2764,15 @@
                                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20960%20500'%3E%3C/svg%3E"
                                                                                                                     class="attachment-large size-large"
                                                                                                                     alt=""
-                                                                                                                    data-lazy-srcset="https://as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01.jpg 960w, https://as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01-300x156.jpg 300w, https://as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01-768x400.jpg 768w"
+                                                                                                                    data-lazy-srcset="https://as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01.jpg 960w, https://as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01-300x156.jpg 300w, https://as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01-768x400.jpg 768w"
                                                                                                                     data-lazy-sizes="(max-width: 960px) 100vw, 960px"
-                                                                                                                    data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01.jpg" /><noscript><img
+                                                                                                                    data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01.jpg" /><noscript><img
                                                                                                                         width="960"
                                                                                                                         height="500"
-                                                                                                                        src="../as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01.jpg"
+                                                                                                                        src="../as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01.jpg"
                                                                                                                         class="attachment-large size-large"
                                                                                                                         alt=""
-                                                                                                                        srcset="https://as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01.jpg 960w, https://as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01-300x156.jpg 300w, https://as-dialer-css/wp-content/uploads/2022/09/Call-Center-Performance-01-768x400.jpg 768w"
+                                                                                                                        srcset="https://as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01.jpg 960w, https://as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01-300x156.jpg 300w, https://as-dialer-css/asset-1/uploads/2022/09/Call-Center-Performance-01-768x400.jpg 768w"
                                                                                                                         sizes="(max-width: 960px) 100vw, 960px" /></noscript>
                                                                                                             </a> </div>
                                                                                                     </div>
@@ -2870,15 +2870,15 @@
                                                                                                                     src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20960%20500'%3E%3C/svg%3E"
                                                                                                                     class="attachment-large size-large"
                                                                                                                     alt=""
-                                                                                                                    data-lazy-srcset="https://as-dialer-css/wp-content/uploads/2022/09/MCC.jpg 960w, https://as-dialer-css/wp-content/uploads/2022/09/MCC-300x156.jpg 300w, https://as-dialer-css/wp-content/uploads/2022/09/MCC-768x400.jpg 768w"
+                                                                                                                    data-lazy-srcset="https://as-dialer-css/asset-1/uploads/2022/09/MCC.jpg 960w, https://as-dialer-css/asset-1/uploads/2022/09/MCC-300x156.jpg 300w, https://as-dialer-css/asset-1/uploads/2022/09/MCC-768x400.jpg 768w"
                                                                                                                     data-lazy-sizes="(max-width: 960px) 100vw, 960px"
-                                                                                                                    data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/09/MCC.jpg" /><noscript><img
+                                                                                                                    data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/09/MCC.jpg" /><noscript><img
                                                                                                                         width="960"
                                                                                                                         height="500"
-                                                                                                                        src="../as-dialer-css/wp-content/uploads/2022/09/MCC.jpg"
+                                                                                                                        src="../as-dialer-css/asset-1/uploads/2022/09/MCC.jpg"
                                                                                                                         class="attachment-large size-large"
                                                                                                                         alt=""
-                                                                                                                        srcset="https://as-dialer-css/wp-content/uploads/2022/09/MCC.jpg 960w, https://as-dialer-css/wp-content/uploads/2022/09/MCC-300x156.jpg 300w, https://as-dialer-css/wp-content/uploads/2022/09/MCC-768x400.jpg 768w"
+                                                                                                                        srcset="https://as-dialer-css/asset-1/uploads/2022/09/MCC.jpg 960w, https://as-dialer-css/asset-1/uploads/2022/09/MCC-300x156.jpg 300w, https://as-dialer-css/asset-1/uploads/2022/09/MCC-768x400.jpg 768w"
                                                                                                                         sizes="(max-width: 960px) 100vw, 960px" /></noscript>
                                                                                                             </a> </div>
                                                                                                     </div>

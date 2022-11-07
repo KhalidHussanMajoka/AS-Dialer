@@ -16,19 +16,19 @@
                                                     <div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
                                                         <div class="elementor-image-carousel swiper-wrapper">
                                                             <div class="swiper-slide">
-                                                                <figure class="swiper-slide-inner"><img  width="118" height="56" class="swiper-slide-image" src="../as-dialer-css/wp-content/uploads/2022/01/Group-221.png" alt="Group 221" /></noscript></figure>
+                                                                <figure class="swiper-slide-inner"><img  width="118" height="56" class="swiper-slide-image" src="../as-dialer-css/asset-1/uploads/2022/01/Group-221.png" alt="Group 221" /></noscript></figure>
                                                             </div>
                                                             <div class="swiper-slide">
-                                                                <figure class="swiper-slide-inner"><img width="76" height="56" class="swiper-slide-image" src="../as-dialer-css/wp-content/uploads/2022/01/Group-222.png" alt="Group 222" /></noscript></figure>
+                                                                <figure class="swiper-slide-inner"><img width="76" height="56" class="swiper-slide-image" src="../as-dialer-css/asset-1/uploads/2022/01/Group-222.png" alt="Group 222" /></noscript></figure>
                                                             </div>
                                                             <div class="swiper-slide">
-                                                                <figure class="swiper-slide-inner"><img width="118" height="56" class="swiper-slide-image" src="../as-dialer-css/wp-content/uploads/2022/01/Group-294.png" alt="Group 294" /></noscript></figure>
+                                                                <figure class="swiper-slide-inner"><img width="118" height="56" class="swiper-slide-image" src="../as-dialer-css/asset-1/uploads/2022/01/Group-294.png" alt="Group 294" /></noscript></figure>
                                                             </div>
                                                             <div class="swiper-slide">
-                                                                <figure class="swiper-slide-inner"><img width="60" height="59" class="swiper-slide-image" src="../as-dialer-css/wp-content/uploads/2022/01/logo.png" alt="logo" /></noscript></figure>
+                                                                <figure class="swiper-slide-inner"><img width="60" height="59" class="swiper-slide-image" src="../as-dialer-css/asset-1/uploads/2022/01/logo.png" alt="logo" /></noscript></figure>
                                                             </div>
                                                             <div class="swiper-slide">
-                                                                <figure class="swiper-slide-inner"><img width="82" height="59" class="swiper-slide-image" src="../as-dialer-css/wp-content/uploads/2022/01/logo1.png" alt="logo1" /></noscript></figure>
+                                                                <figure class="swiper-slide-inner"><img width="82" height="59" class="swiper-slide-image" src="../as-dialer-css/asset-1/uploads/2022/01/logo1.png" alt="logo1" /></noscript></figure>
                                                             </div>
                                                         </div>
                                                         <div class="elementor-swiper-button elementor-swiper-button-prev"> <i aria-hidden="true" class="eicon-chevron-left"></i> <span class="elementor-screen-only">Previous</span> </div>

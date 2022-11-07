@@ -359,12 +359,12 @@
                             data-id="7681501" data-element_type="widget" data-widget_type="image.default">
                             <div class="elementor-widget-container">
                                 <a href="#"><img
-                                        src="../as-dialer-css/wp-content/uploads/2022/01/facebook_square.png"
+                                        src="../as-dialer-css/asset-1/uploads/2022/01/facebook_square.png"
                                         alt=""></a>
-                                <a href="#"><img src="../as-dialer-css/wp-content/uploads/2022/01/instagram.png"
+                                <a href="#"><img src="../as-dialer-css/asset-1/uploads/2022/01/instagram.png"
                                         alt=""></a>
                                 <a href="#"><img
-                                        src="../as-dialer-css/wp-content/uploads/2022/01/linkedin_square.png"
+                                        src="../as-dialer-css/asset-1/uploads/2022/01/linkedin_square.png"
                                         alt=""></a>
                             </div>
                         </div>
@@ -392,78 +392,78 @@
 
 
 <link rel='stylesheet' id='elementor-post-1290-css'
-    href='../as-dialer-css/wp-content/uploads/elementor/css/post-129039ec.css?ver=1654690727' media='all' />
+    href='../as-dialer-css/asset-1/uploads/elementor/css/post-129039ec.css?ver=1654690727' media='all' />
 <link rel='stylesheet' id='elementor-post-1674-css'
-    href='../as-dialer-css/wp-content/uploads/elementor/css/post-167439ec.css?ver=1654690727' media='all' />
+    href='../as-dialer-css/asset-1/uploads/elementor/css/post-167439ec.css?ver=1654690727' media='all' />
 <link rel='stylesheet' id='elementor-post-10160-css'
-    href='../as-dialer-css/wp-content/uploads/elementor/css/post-1016039ec.css?ver=1654690727' media='all' />
+    href='../as-dialer-css/asset-1/uploads/elementor/css/post-1016039ec.css?ver=1654690727' media='all' />
 <link rel='stylesheet' id='elementor-post-10176-css'
-    href='../as-dialer-css/wp-content/uploads/elementor/css/post-1017639ec.css?ver=1654690727' media='all' />
+    href='../as-dialer-css/asset-1/uploads/elementor/css/post-1017639ec.css?ver=1654690727' media='all' />
 <link rel='stylesheet' id='elementor-post-10177-css'
-    href='../as-dialer-css/wp-content/uploads/elementor/css/post-1017739ec.css?ver=1654690727' media='all' />
+    href='../as-dialer-css/asset-1/uploads/elementor/css/post-1017739ec.css?ver=1654690727' media='all' />
 <link rel='stylesheet' id='elementor-post-10180-css'
-    href='../as-dialer-css/wp-content/uploads/elementor/css/post-101806671.css?ver=1654690728' media='all' />
+    href='../as-dialer-css/asset-1/uploads/elementor/css/post-101806671.css?ver=1654690728' media='all' />
 <link rel='stylesheet' id='elementor-post-10187-css'
-    href='../as-dialer-css/wp-content/uploads/elementor/css/post-101876671.css?ver=1654690728' media='all' />
+    href='../as-dialer-css/asset-1/uploads/elementor/css/post-101876671.css?ver=1654690728' media='all' />
 <link rel='stylesheet' id='elementor-post-10188-css'
-    href='../as-dialer-css/wp-content/uploads/elementor/css/post-101886671.css?ver=1654690728' media='all' />
+    href='../as-dialer-css/asset-1/uploads/elementor/css/post-101886671.css?ver=1654690728' media='all' />
 <link rel='stylesheet' id='elementor-post-10189-css'
-    href='../as-dialer-css/wp-content/uploads/elementor/css/post-101896671.css?ver=1654690728' media='all' />
+    href='../as-dialer-css/asset-1/uploads/elementor/css/post-101896671.css?ver=1654690728' media='all' />
 <script type="rocketlazyloadscript"
-    src='../as-dialer-css/wp-content/plugins/country-phone-field-contact-form-7/assets/js/intlTelInput.min5b21.js?ver=6.0.2'
+    src='../as-dialer-css/asset-1/plugins/country-phone-field-contact-form-7/assets/js/intlTelInput.min5b21.js?ver=6.0.2'
     id='nbcpf-intlTelInput-script-js' defer></script>
 <script type="rocketlazyloadscript"
-    src='../as-dialer-css/wp-content/plugins/country-phone-field-contact-form-7/assets/js/countrySelect.min5b21.js?ver=6.0.2'
+    src='../as-dialer-css/asset-1/plugins/country-phone-field-contact-form-7/assets/js/countrySelect.min5b21.js?ver=6.0.2'
     id='nbcpf-countryFlag-script-js' defer></script>
 
 
 <script type="rocketlazyloadscript"
-    src='../as-dialer-css/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min9dff.js?ver=5.3.2'
+    src='../as-dialer-css/asset-1/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min9dff.js?ver=5.3.2'
     id='eael-general-js' defer></script>
 <script type="rocketlazyloadscript" data-minify="1"
-    src='../as-dialer-css/wp-content/cache/min/1/wp-content/uploads/essential-addons-elementor/eael-70d0b.js?ver=1664811103'
+    src='../as-dialer-css/asset-1/cache/min/1/wp-content/uploads/essential-addons-elementor/eael-70d0b.js?ver=1664811103'
     id='eael-7-js' defer></script>
 <script type="rocketlazyloadscript"
     src='../www.google.com/recaptcha/apiff77.js?render=6Lc8t7oUAAAAAA37r-G38w5zGpgo8YyvKItcR3cZ&amp;ver=3.0'
     id='google-recaptcha-js'></script>
 <script type="rocketlazyloadscript"
-    src='../as-dialer-css/wp-includes/js/dist/vendor/regenerator-runtime.min3937.js?ver=0.13.9'
+    src='../as-dialer-css/asset-2/js/dist/vendor/regenerator-runtime.min3937.js?ver=0.13.9'
     id='regenerator-runtime-js' defer></script>
 <script type="rocketlazyloadscript"
-    src='../as-dialer-css/wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0' id='wp-polyfill-js'>
+    src='../as-dialer-css/asset-2/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0' id='wp-polyfill-js'>
 </script>
 
 <script type="rocketlazyloadscript" data-minify="1"
-    src='../as-dialer-css/wp-content/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index0d0b.js?ver=1664811103'
+    src='../as-dialer-css/asset-1/cache/min/1/wp-content/plugins/contact-form-7/modules/recaptcha/index0d0b.js?ver=1664811103'
     id='wpcf7-recaptcha-js' defer></script>
 
 <script type="rocketlazyloadscript"
-    src='../as-dialer-css/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.minf269.js?ver=1.0.1'
+    src='../as-dialer-css/asset-1/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.minf269.js?ver=1.0.1'
     id='smartmenus-js' defer></script>
 <script type="rocketlazyloadscript"
-    src='../as-dialer-css/wp-content/plugins/elementor/assets/js/webpack.runtime.min3ab2.js?ver=3.6.5'
+    src='../as-dialer-css/asset-1/plugins/elementor/assets/js/webpack.runtime.min3ab2.js?ver=3.6.5'
     id='elementor-webpack-runtime-js' defer></script>
 <script type="rocketlazyloadscript"
-    src='../as-dialer-css/wp-content/plugins/elementor/assets/js/frontend-modules.min3ab2.js?ver=3.6.5'
+    src='../as-dialer-css/asset-1/plugins/elementor/assets/js/frontend-modules.min3ab2.js?ver=3.6.5'
     id='elementor-frontend-modules-js' defer></script>
 <script type="rocketlazyloadscript"
-    src='../as-dialer-css/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min6173.js?ver=3.0.8'
+    src='../as-dialer-css/asset-1/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min6173.js?ver=3.0.8'
     id='elementor-sticky-js' defer></script>
 
 <script type="rocketlazyloadscript"
-    src='../as-dialer-css/wp-content/plugins/elementor-pro/assets/js/frontend.min6173.js?ver=3.0.8'
+    src='../as-dialer-css/asset-1/plugins/elementor-pro/assets/js/frontend.min6173.js?ver=3.0.8'
     id='elementor-pro-frontend-js' defer></script>
 <script type="rocketlazyloadscript"
-    src='../as-dialer-css/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2'
+    src='../as-dialer-css/asset-1/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2'
     id='elementor-waypoints-js' defer></script>
-<script type="rocketlazyloadscript" src='../as-dialer-css/wp-includes/js/jquery/ui/core.min0028.js?ver=1.13.1'
+<script type="rocketlazyloadscript" src='../as-dialer-css/asset-2/js/jquery/ui/core.min0028.js?ver=1.13.1'
     id='jquery-ui-core-js' defer></script>
 <script type="rocketlazyloadscript" id='elementor-frontend-js-before'>
     var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},
 "version":"3.6.5","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"https:\/\/AS-Dialer\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":7,"title":"Dialer360%20-%20Call%20center%20dialer%20%7C%20Best%20Dialer%20Software%20%26%20System","excerpt":"","featuredImage":false}};
 </script>
 <script type="rocketlazyloadscript"
-    src='../as-dialer-css/wp-content/plugins/elementor/assets/js/frontend.min3ab2.js?ver=3.6.5'
+    src='../as-dialer-css/asset-1/plugins/elementor/assets/js/frontend.min3ab2.js?ver=3.6.5'
     id='elementor-frontend-js' defer></script>
 
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript">
@@ -553,7 +553,7 @@ window.addEventListener('LazyLoad::Initialized', function(e) {
 }, !1)
 </script>
 <script data-no-minify="1" async
-    src="../as-dialer-css/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script>
+    src="../as-dialer-css/asset-1/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script>
 
 <script>
 class RocketElementorAnimation {

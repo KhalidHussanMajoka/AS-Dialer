@@ -273,43 +273,43 @@
         <link rel="stylesheet"
             href="https://fonts.googleapis.com/css?family=Poppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;subset=latin&amp;display=swap" />
     </noscript>
-    <link rel="stylesheet" href="../as-dialer-css/wp-content/cache/min/1/478f1451e00e8c9f173c093238e6eaa6.css"
+    <link rel="stylesheet" href="../as-dialer-css/asset-1/cache/min/1/478f1451e00e8c9f173c093238e6eaa6.css"
         media="all" data-minify="1" />
-    <link rel="stylesheet" href='../as-dialer-css/wp-content/uploads/elementor/css/style-3.css'>
+    <link rel="stylesheet" href='../as-dialer-css/asset-1/uploads/elementor/css/style-3.css'>
 
-    <link rel='stylesheet' href='../as-dialer-css/wp-content/uploads/elementor/css/style-1.css' />
+    <link rel='stylesheet' href='../as-dialer-css/asset-1/uploads/elementor/css/style-1.css' />
 
     <link rel='stylesheet' id='elementor-post-5-css'
-        href='../as-dialer-css/wp-content/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
+        href='../as-dialer-css/asset-1/uploads/elementor/css/post-562b9.css?ver=1654690571' media='all' />
 
     <link rel='stylesheet' id='elementor-global-css'
-        href='../as-dialer-css/wp-content/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
+        href='../as-dialer-css/asset-1/uploads/elementor/css/global9dd2.css?ver=1654690591' media='all' />
     <link rel='stylesheet' id='elementor-post-7-css'
-        href='../as-dialer-css/wp-content/uploads/elementor/css/post-7b1cc.css?ver=1663069405' media='all' />
+        href='../as-dialer-css/asset-1/uploads/elementor/css/post-7b1cc.css?ver=1663069405' media='all' />
     <link rel='stylesheet' id='elementor-post-698-css'
-        href='../as-dialer-css/wp-content/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
+        href='../as-dialer-css/asset-1/uploads/elementor/css/post-6980f4d.css?ver=1663158088' media='all' />
     <link rel='stylesheet' id='elementor-post-71-css'
-        href='../as-dialer-css/wp-content/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
+        href='../as-dialer-css/asset-1/uploads/elementor/css/post-713706.css?ver=1654690593' media='all' />
 
 
     <link rel='stylesheet' id='elementor-post-217-css'
-        href='../as-dialer-css/wp-content/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
+        href='../as-dialer-css/asset-1/uploads/elementor/css/post-2176f4d.css?ver=1648653497' media='all' />
     <link rel='stylesheet' id='elementor-post-221-css'
-        href='../as-dialer-css/wp-content/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
+        href='../as-dialer-css/asset-1/uploads/elementor/css/post-221ba7e.css?ver=1661883110' media='all' />
     <link rel='stylesheet' id='elementor-post-358-css'
-        href='../as-dialer-css/wp-content/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
+        href='../as-dialer-css/asset-1/uploads/elementor/css/post-35843ff.css?ver=1661882184' media='all' />
     <link rel='stylesheet' id='elementor-post-9771-css'
-        href='../as-dialer-css/wp-content/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
+        href='../as-dialer-css/asset-1/uploads/elementor/css/post-9771d57e.css?ver=1645550715' media='all' />
     <link rel='stylesheet' id='elementor-post-18242-css'
-        href='../as-dialer-css/wp-content/uploads/elementor/css/post-182428070.css?ver=1661799456'
+        href='../as-dialer-css/asset-1/uploads/elementor/css/post-182428070.css?ver=1661799456'
         media='all' />
 
-    <script type="rocketlazyloadscript" src='../as-dialer-css/wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0'
+    <script type="rocketlazyloadscript" src='../as-dialer-css/asset-2/js/jquery/jquery.minaf6c.js?ver=3.6.0'
         id='jquery-core-js' defer></script>
 
-    <link rel="icon" href="../as-dialer-css/wp-content/uploads/2022/01/logo-black-24.png" sizes="32x32" />
-    <link rel="icon" href="../as-dialer-css/wp-content/uploads/2022/01/logo-black-24.png" sizes="192x192" />
-    <link rel="apple-touch-icon" href="../as-dialer-css/wp-content/uploads/2022/01/logo-black-24.png" />
+    <link rel="icon" href="../as-dialer-css/asset-1/uploads/2022/01/logo-black-24.png" sizes="32x32" />
+    <link rel="icon" href="../as-dialer-css/asset-1/uploads/2022/01/logo-black-24.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="../as-dialer-css/asset-1/uploads/2022/01/logo-black-24.png" />
 
 </head>
 
@@ -346,7 +346,7 @@
                                             data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
                                                 <link rel="stylesheet"
-                                                    href='../as-dialer-css/wp-content/uploads/elementor/css/style-4.css'>
+                                                    href='../as-dialer-css/asset-1/uploads/elementor/css/style-4.css'>
 
                                             </div>
                                         </div>
@@ -409,9 +409,9 @@
                                                     <img width="194" height="89"
                                                         src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20194%2089'%3E%3C/svg%3E"
                                                         class="attachment-thumbnail size-thumbnail" alt=""
-                                                        data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/01/logo.svg" /><noscript><img
+                                                        data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/01/logo.svg" /><noscript><img
                                                             width="194" height="89"
-                                                            src="https://as-dialer-css/wp-content/uploads/2022/01/logo.svg"
+                                                            src="https://as-dialer-css/asset-1/uploads/2022/01/logo.svg"
                                                             class="attachment-thumbnail size-thumbnail"
                                                             alt="" /></noscript> </a>
                                             </div>

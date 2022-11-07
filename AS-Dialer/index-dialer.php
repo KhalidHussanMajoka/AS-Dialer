@@ -16,7 +16,7 @@
                                                     <style>
                                                         /*! elementor - v3.6.5 - 27-04-2022 */
                                                         .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}
-                                                    </style> <img width="1024" height="699" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20699'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png 1024w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-300x205.png 300w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-768x524.png 768w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1536x1049.png 1536w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-2048x1399.png 2048w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png" /><noscript><img width="1024" height="699" src="../as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png" class="attachment-large size-large" alt="" srcset="https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png 1024w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-300x205.png 300w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-768x524.png 768w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-1536x1049.png 1536w, https://as-dialer-css/wp-content/uploads/2022/02/HOME-PSD1-01-e1646129722533-2048x1399.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>
+                                                    </style> <img width="1024" height="699" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20699'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png 1024w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-300x205.png 300w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-768x524.png 768w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-1536x1049.png 1536w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-2048x1399.png 2048w" data-lazy-sizes="(max-width: 1024px) 100vw, 1024px" data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png" /><noscript><img width="1024" height="699" src="../as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png" class="attachment-large size-large" alt="" srcset="https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-1024x699.png 1024w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-300x205.png 300w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-768x524.png 768w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-1536x1049.png 1536w, https://as-dialer-css/asset-1/uploads/2022/02/HOME-PSD1-01-e1646129722533-2048x1399.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></noscript>
                                                 </div>
                                             </div>
                                         </div>
@@ -207,7 +207,7 @@
                                                                         .elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}
                                                                     </style>
                                                                     <div class="elementor-image-box-wrapper">
-                                                                        <figure class="elementor-image-box-img"><img width="55" height="55" src="../as-dialer-css/wp-content/uploads/2022/02/30-1-1.png" class="attachment-full size-full" alt="" /></figure>
+                                                                        <figure class="elementor-image-box-img"><img width="55" height="55" src="../as-dialer-css/asset-1/uploads/2022/02/30-1-1.png" class="attachment-full size-full" alt="" /></figure>
                                                                         <div class="elementor-image-box-content">
                                                                             <h3 class="elementor-image-box-title">Predictive Dialer</h3>
                                                                             <p class="elementor-image-box-description">Predictive dialer software is the best and most extraordinary software for outbound calling. We understand that a great customer experience raises your sales and attracts more clients. With the high demand in customer support, technology has also become sophisticated. This is where our Predictive Dialer works comes into play.</p>
@@ -216,7 +216,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-3fef070 icon elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="3fef070" data-element_type="widget" data-widget_type="image.default">
-                                                                <div class="elementor-widget-container"> <a href="predictive-dialer/index.php"> <img width="98" height="79" src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a> </div>
+                                                                <div class="elementor-widget-container"> <a href="predictive-dialer/index.php"> <img width="98" height="79" src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a> </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -225,7 +225,7 @@
                                                             <div class="elementor-element elementor-element-b568b66 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="b568b66" data-element_type="widget" data-widget_type="image-box.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image-box-wrapper">
-                                                                        <figure class="elementor-image-box-img"><img width="55" height="55" src="../as-dialer-css/wp-content/uploads/2022/03/Voice-broadcasting-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                                        <figure class="elementor-image-box-img"><img width="55" height="55" src="../as-dialer-css/asset-1/uploads/2022/03/Voice-broadcasting-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                         <div class="elementor-image-box-content">
                                                                             <h3 class="elementor-image-box-title">Voice Broadcast</h3>
                                                                             <p class="elementor-image-box-description">Voice Broadcasting is a wonderful communication tool that broadcasts your complete message to thousands of people at the same time. In this system, the quality of the message matters a lot as compared to the duration of the call. This confirms that your message is delivered to your targeted audience with the right way.</p>
@@ -234,7 +234,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-c04bc86 icon elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="c04bc86" data-element_type="widget" data-widget_type="image.default">
-                                                                <div class="elementor-widget-container"> <a href="voice-broadcast/index.php"> <img width="98" height="79" src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a> </div>
+                                                                <div class="elementor-widget-container"> <a href="voice-broadcast/index.php"> <img width="98" height="79" src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a> </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -243,7 +243,7 @@
                                                             <div class="elementor-element elementor-element-49ead4f elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="49ead4f" data-element_type="widget" data-widget_type="image-box.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image-box-wrapper">
-                                                                        <figure class="elementor-image-box-img"><img width="55" height="55" src="../as-dialer-css/wp-content/uploads/2022/03/Ringless-voicemail-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                                        <figure class="elementor-image-box-img"><img width="55" height="55" src="../as-dialer-css/asset-1/uploads/2022/03/Ringless-voicemail-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                         <div class="elementor-image-box-content">
                                                                             <h3 class="elementor-image-box-title">Ringless Voicemail</h3>
                                                                             <p class="elementor-image-box-description">Ringless voicemail is an efficient way of communication that permits users to send a message directly into an individual’s voicemail inbox. This pre-recorded message can be sent on a landline or a mobile phone. Ringless voicemail ensures that the recipient’s phone does not ring and cause any untoward situation. </p>
@@ -252,7 +252,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-9e0517a icon elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="9e0517a" data-element_type="widget" data-widget_type="image.default">
-                                                                <div class="elementor-widget-container"> <a href="ringless-voicemail-services/index.php"> <img width="98" height="79" src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a> </div>
+                                                                <div class="elementor-widget-container"> <a href="ringless-voicemail-services/index.php"> <img width="98" height="79" src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a> </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -265,7 +265,7 @@
                                                             <div class="elementor-element elementor-element-7327024 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7327024" data-element_type="widget" data-widget_type="image-box.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image-box-wrapper">
-                                                                        <figure class="elementor-image-box-img"><img width="55" height="55" src="../as-dialer-css/wp-content/uploads/2022/03/Ai-Dialer-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                                        <figure class="elementor-image-box-img"><img width="55" height="55" src="../as-dialer-css/asset-1/uploads/2022/03/Ai-Dialer-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                         <div class="elementor-image-box-content">
                                                                             <h3 class="elementor-image-box-title">AI Dialer</h3>
                                                                             <p class="elementor-image-box-description">Optimize your sales with our next-generation AI Dialer. This smart dialer picks a lead and dials, only connecting the call when an agent is available. Furthermore, it adjusts the background dialing speed and optimizes the lead distribution to agents. The software manages resources effectively with the help of machine learning algorithms which adapt to human behavior and parameters provided to it. </p>
@@ -274,7 +274,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-6edd09e icon elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="6edd09e" data-element_type="widget" data-widget_type="image.default">
-                                                                <div class="elementor-widget-container"> <a href="ai-dialer/index.php"> <img width="98" height="79" src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a> </div>
+                                                                <div class="elementor-widget-container"> <a href="ai-dialer/index.php"> <img width="98" height="79" src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a> </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -283,7 +283,7 @@
                                                             <div class="elementor-element elementor-element-5e3d8bf elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="5e3d8bf" data-element_type="widget" data-widget_type="image-box.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image-box-wrapper">
-                                                                        <figure class="elementor-image-box-img"><img width="55" height="55" src="../as-dialer-css/wp-content/uploads/2022/03/Auto-Dialer-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                                        <figure class="elementor-image-box-img"><img width="55" height="55" src="../as-dialer-css/asset-1/uploads/2022/03/Auto-Dialer-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                         <div class="elementor-image-box-content">
                                                                             <h3 class="elementor-image-box-title">Auto Dialer</h3>
                                                                             <p class="elementor-image-box-description">Dial unlimited numbers, leave a pre-recorded message, and connect with the live agent with an Automated Dialer. It automatically dials a large number of leads and saves agent’s time. It is an advanced auto-dialing solution for outbound campaigns. Enhance agent productivity and minimize downtime with Dialer360’s Auto Dialer.</p>
@@ -292,7 +292,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-0b08fd3 icon elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="0b08fd3" data-element_type="widget" data-widget_type="image.default">
-                                                                <div class="elementor-widget-container"> <a href="auto-dialer/index.php"> <img width="98" height="79" src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a> </div>
+                                                                <div class="elementor-widget-container"> <a href="auto-dialer/index.php"> <img width="98" height="79" src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a> </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -301,7 +301,7 @@
                                                             <div class="elementor-element elementor-element-48945a3 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="48945a3" data-element_type="widget" data-widget_type="image-box.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image-box-wrapper">
-                                                                        <figure class="elementor-image-box-img"><img width="55" height="55" src="../as-dialer-css/wp-content/uploads/2022/03/Click-to-call-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                                        <figure class="elementor-image-box-img"><img width="55" height="55" src="../as-dialer-css/asset-1/uploads/2022/03/Click-to-call-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                         <div class="elementor-image-box-content">
                                                                             <h3 class="elementor-image-box-title">Click To call</h3>
                                                                             <p class="elementor-image-box-description">Click-to-Call is a web-based extension. It allows users to initiate calls directly from your website for customer support. Integrating Click to your business site also routes incoming calls to the appropriate department. Utilize this feature to enhance your customer experience. </p>
@@ -310,7 +310,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="elementor-element elementor-element-0234e3b icon elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="0234e3b" data-element_type="widget" data-widget_type="image.default">
-                                                                <div class="elementor-widget-container"> <a href="click-to-call/index.php"> <img width="98" height="79" src="../as-dialer-css/wp-content/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a> </div>
+                                                                <div class="elementor-widget-container"> <a href="click-to-call/index.php"> <img width="98" height="79" src="../as-dialer-css/asset-1/uploads/2022/01/Group-342.png" class="attachment-large size-large" alt="" /></noscript> </a> </div>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -353,7 +353,7 @@
                                     </div>
                                 </div>
                             </section>
-                            <section style="background-image: url(../as-dialer-css/wp-content/uploads/2022/02/Vector-2.png);
+                            <section style="background-image: url(../as-dialer-css/asset-1/uploads/2022/02/Vector-2.png);
                                             background-repeat: no-repeat;
     height: 100%;
     width: 100%;" class="elementor-section elementor-top-section elementor-element elementor-element-17b510c elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="17b510c" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
@@ -364,7 +364,7 @@
                                                 <div class="elementor-element elementor-element-7d88bc8 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7d88bc8" data-element_type="widget" data-widget_type="image-box.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure class="elementor-image-box-img"><img width="88" height="88" src="../as-dialer-css/wp-content/uploads/2022/03/Fastest-Dialing-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                            <figure class="elementor-image-box-img"><img width="88" height="88" src="../as-dialer-css/asset-1/uploads/2022/03/Fastest-Dialing-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">Fastest Dialing</h3>
                                                                 <p class="elementor-image-box-description">Speed matters a lot when you are dialing to make sales. We understand that every second of an agent is important. Our products deliver the fastest dialing solutions with affordable cost and the confidence to convert your leads into sales.</p>
@@ -375,7 +375,7 @@
                                                 <div style="margin-right:-370px; margin-top: 125px;" class="elementor-element elementor-element-39b9cb8 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="39b9cb8" data-element_type="widget" data-widget_type="image-box.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure class="elementor-image-box-img"><img width="88" height="88" src="../as-dialer-css/wp-content/uploads/2022/03/Data-Protection-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                            <figure class="elementor-image-box-img"><img width="88" height="88" src="../as-dialer-css/asset-1/uploads/2022/03/Data-Protection-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">100% Data Protection</h3>
                                                                 <p class="elementor-image-box-description">Secure your data from being misused by third parties for fraud. We ensure that you get the most secure servers when encryptions that only let admins access the user data. </p>
@@ -386,7 +386,7 @@
                                                 <div style="margin-top: 125px;" class="elementor-element elementor-element-701b793 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="701b793" data-element_type="widget" data-widget_type="image-box.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure class="elementor-image-box-img"><img width="88" height="88" src="../as-dialer-css/wp-content/uploads/2022/03/Uptime-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                            <figure class="elementor-image-box-img"><img width="88" height="88" src="../as-dialer-css/asset-1/uploads/2022/03/Uptime-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h3 class="elementor-image-box-title">99.99% Uptime</h3>
                                                                 <p class="elementor-image-box-description">When sales are on the line, there’s no downtime! We handle the connections so you can focus on the communication. Enhance customer contact efficiency with Dialer360.</p>
@@ -397,7 +397,7 @@
                                                 <div style="margin-right:-370px; margin-top: 125px;" class="elementor-element elementor-element-7b92b89 elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7b92b89" data-element_type="widget" data-widget_type="image-box.default">
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-box-wrapper">
-                                                            <figure class="elementor-image-box-img"><img width="88" height="88" src="../as-dialer-css/wp-content/uploads/2022/03/Higher-contact-rate-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                            <figure class="elementor-image-box-img"><img width="88" height="88" src="../as-dialer-css/asset-1/uploads/2022/03/Higher-contact-rate-01-1.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                             <div class="elementor-image-box-content">
                                                                 <h2 class="elementor-image-box-title">Higher contact rate</h2>
                                                                 <p class="elementor-image-box-description">By utilizing our dialer, you can dynamically increase the contact rate up to 5X. With the help of tools and strategies, you can drive more conversations. Choose the dialer which suits the best and start increasing your contact rate.</p>
@@ -410,12 +410,12 @@
                                     </div>
                                 </div>
                             </section>
-                            <div class="container-fluid mt-5" style="background-image:url(../as-dialer-css/wp-content/uploads/2022/02/Group-4208.png); height:70vh">
+                            <div class="container-fluid mt-5" style="background-image:url(../as-dialer-css/asset-1/uploads/2022/02/Group-4208.png); height:70vh">
                                 <div class="row">
                                     <div class="col-lg-6 mt-1" style=" height:69vh; padding: 14rem 7rem;">
                                         <div class="line" style="width:20vh; height:5px; background-color:white;"></div>
-                                        <h1 style="color:white;">Whats our Happy <br> Customer <span><img src="../as-dialer-css/wp-content/uploads/2022/02/stars.png" alt="" srcset=""></span></h1>
-                                        <p style="color:white;"> Speed matters a lot when you are dialing for making more money. Every second of an agent is precious. Get the fastest dialer with affordable cost by us and convert your leads into dollars.</p> <button style="border:none; width:18vh; height:5vh; font-weight:bold ">See All <img src="../as-dialer-css/wp-content/uploads/2022/02/Arrow-4.png" width="20%" alt="" srcset=""></i></button>
+                                        <h1 style="color:white;">Whats our Happy <br> Customer <span><img src="../as-dialer-css/asset-1/uploads/2022/02/stars.png" alt="" srcset=""></span></h1>
+                                        <p style="color:white;"> Speed matters a lot when you are dialing for making more money. Every second of an agent is precious. Get the fastest dialer with affordable cost by us and convert your leads into dollars.</p> <button style="border:none; width:18vh; height:5vh; font-weight:bold ">See All <img src="../as-dialer-css/asset-1/uploads/2022/02/Arrow-4.png" width="20%" alt="" srcset=""></i></button>
                                     </div>
                                     <div class="col-lg-6 mt-1" style=" height:69vh;">
                                         <div> <img src="https://i.imgur.com/gZ5HY0U.png" class="img-responsive quote-image" style="margin-top:19px"> </div> <!-- Carousel Start below -->
@@ -455,13 +455,13 @@
                             <div class="awards  mb-5" style="margin-top:100px">
                                 <h1 style="text-align:center; font-weight:bold">Award-winning customer service</h1>
                                 <p style="text-align:center;">Due to our innovative solution for call center organization, our company recognized as a leading company.</p>
-                                <center> <img src="../as-dialer-css/wp-content/uploads/2022/02/Group-2899.png" width="50%" alt="" srcset=""> </center>
+                                <center> <img src="../as-dialer-css/asset-1/uploads/2022/02/Group-2899.png" width="50%" alt="" srcset=""> </center>
                             </div>
                             <section class="elementor-section elementor-top-section elementor-element elementor-element-eb2d48f elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="eb2d48f" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
-                                <center> <img src="../as-dialer-css/wp-content/uploads/2022/02/Group-4209.png" width="60%" alt="" srcset=""> </center>
+                                <center> <img src="../as-dialer-css/asset-1/uploads/2022/02/Group-4209.png" width="60%" alt="" srcset=""> </center>
                                 <div class="elementor-element elementor-element-219a150 elementor-widget elementor-widget-eael-adv-tabs" data-id="219a150" data-element_type="widget" data-widget_type="eael-adv-tabs.default">
                                     <div class="elementor-widget-container">
-                                        <div id="eael-advance-tabs-219a150" style="background-image:url(../as-dialer-css/wp-content/uploads/2022/02/mapinfooter-2.png);
+                                        <div id="eael-advance-tabs-219a150" style="background-image:url(../as-dialer-css/asset-1/uploads/2022/02/mapinfooter-2.png);
                                                                 opacity: 0.75;" class="eael-advance-tabs eael-tabs-horizontal eael-tab-auto-active active-caret-on responsive-vertical-layout" data-tabid="219a150">
                                             <div class="eael-tabs-nav">
                                                 <ul class="">
@@ -499,7 +499,7 @@
                                                                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2f52840" data-id="2f52840" data-element_type="column">
                                                                         <div class="elementor-widget-wrap elementor-element-populated">
                                                                             <div class="elementor-element elementor-element-b7043fe elementor-widget elementor-widget-image" data-id="b7043fe" data-element_type="widget" data-widget_type="image.default">
-                                                                                <div class="elementor-widget-container"> <img width="672" height="457" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20672%20457'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-src="../as-dialer-css/wp-content/uploads/2022/02/Group 4206 (1).png" /><noscript><img width="1072" height="457" src="../as-dialer-css/wp-content/uploads/2022/02/Group 4206 (1).png" class="attachment-large size-large" alt="" /></noscript> </div>
+                                                                                <div class="elementor-widget-container"> <img width="672" height="457" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20672%20457'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-src="../as-dialer-css/asset-1/uploads/2022/02/Group 4206 (1).png" /><noscript><img width="1072" height="457" src="../as-dialer-css/asset-1/uploads/2022/02/Group 4206 (1).png" class="attachment-large size-large" alt="" /></noscript> </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -531,7 +531,7 @@
                                                                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0f9a931" data-id="0f9a931" data-element_type="column">
                                                                         <div class="elementor-widget-wrap elementor-element-populated">
                                                                             <div class="elementor-element elementor-element-8b3ced4 elementor-widget elementor-widget-image" data-id="8b3ced4" data-element_type="widget" data-widget_type="image.default">
-                                                                                <div class="elementor-widget-container"><img width="672" height="457" src="../as-dialer-css/wp-content/uploads/2022/02/BPO-PSD.svg" class="attachment-large size-large" alt="" /></noscript> </div>
+                                                                                <div class="elementor-widget-container"><img width="672" height="457" src="../as-dialer-css/asset-1/uploads/2022/02/BPO-PSD.svg" class="attachment-large size-large" alt="" /></noscript> </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -563,7 +563,7 @@
                                                                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-29553db" data-id="29553db" data-element_type="column">
                                                                         <div class="elementor-widget-wrap elementor-element-populated">
                                                                             <div class="elementor-element elementor-element-53ff752 elementor-widget elementor-widget-image" data-id="53ff752" data-element_type="widget" data-widget_type="image.default">
-                                                                                <div class="elementor-widget-container"> <img width="672" height="457" src="../as-dialer-css/wp-content/uploads/2022/02/Solar-PSD.svg" class="attachment-large size-large" alt="" /></noscript> </div>
+                                                                                <div class="elementor-widget-container"> <img width="672" height="457" src="../as-dialer-css/asset-1/uploads/2022/02/Solar-PSD.svg" class="attachment-large size-large" alt="" /></noscript> </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -595,7 +595,7 @@
                                                                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b823a6c" data-id="b823a6c" data-element_type="column">
                                                                         <div class="elementor-widget-wrap elementor-element-populated">
                                                                             <div class="elementor-element elementor-element-bfe5745 elementor-widget elementor-widget-image" data-id="bfe5745" data-element_type="widget" data-widget_type="image.default">
-                                                                                <div class="elementor-widget-container"> <img width="672" height="457" src="../as-dialer-css/wp-content/uploads/2022/02/Real-Estate-PSD.svg" class="attachment-large size-large" alt="" /></noscript> </div>
+                                                                                <div class="elementor-widget-container"> <img width="672" height="457" src="../as-dialer-css/asset-1/uploads/2022/02/Real-Estate-PSD.svg" class="attachment-large size-large" alt="" /></noscript> </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -627,7 +627,7 @@
                                                                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d4d8fb7" data-id="d4d8fb7" data-element_type="column">
                                                                         <div class="elementor-widget-wrap elementor-element-populated">
                                                                             <div class="elementor-element elementor-element-4901e56 elementor-widget elementor-widget-image" data-id="4901e56" data-element_type="widget" data-widget_type="image.default">
-                                                                                <div class="elementor-widget-container"> <img width="672" height="457" src="../as-dialer-css/wp-content/uploads/2022/02/Travel-Tourism-PSD.svg" class="attachment-large size-large" alt="" /></noscript> </div>
+                                                                                <div class="elementor-widget-container"> <img width="672" height="457" src="../as-dialer-css/asset-1/uploads/2022/02/Travel-Tourism-PSD.svg" class="attachment-large size-large" alt="" /></noscript> </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -659,7 +659,7 @@
                                                                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b28becf" data-id="b28becf" data-element_type="column">
                                                                         <div class="elementor-widget-wrap elementor-element-populated">
                                                                             <div class="elementor-element elementor-element-53b80b0 elementor-widget elementor-widget-image" data-id="53b80b0" data-element_type="widget" data-widget_type="image.default">
-                                                                                <div class="elementor-widget-container"> <img width="672" height="457" src="../as-dialer-css/wp-content/uploads/2022/02/Fund-Raising-PSD.svg" class="attachment-large size-large" alt="" /></noscript> </div>
+                                                                                <div class="elementor-widget-container"> <img width="672" height="457" src="../as-dialer-css/asset-1/uploads/2022/02/Fund-Raising-PSD.svg" class="attachment-large size-large" alt="" /></noscript> </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -691,7 +691,7 @@
                                                                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b791045" data-id="b791045" data-element_type="column">
                                                                         <div class="elementor-widget-wrap elementor-element-populated">
                                                                             <div class="elementor-element elementor-element-a475086 elementor-widget elementor-widget-image" data-id="a475086" data-element_type="widget" data-widget_type="image.default">
-                                                                                <div class="elementor-widget-container"> <img width="672" height="457" src="../as-dialer-css/wp-content/uploads/2022/02/Health-Insurance-PSD.svg" class="attachment-large size-large" alt="" /></noscript> </div>
+                                                                                <div class="elementor-widget-container"> <img width="672" height="457" src="../as-dialer-css/asset-1/uploads/2022/02/Health-Insurance-PSD.svg" class="attachment-large size-large" alt="" /></noscript> </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -723,7 +723,7 @@
                                                                     <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-beed785" data-id="beed785" data-element_type="column">
                                                                         <div class="elementor-widget-wrap elementor-element-populated">
                                                                             <div class="elementor-element elementor-element-66baba2 elementor-widget elementor-widget-image" data-id="66baba2" data-element_type="widget" data-widget_type="image.default">
-                                                                                <div class="elementor-widget-container"> <img width="672" height="457" src="../as-dialer-css/wp-content/uploads/2022/02/Home-Facilities-PSD.svg" class="attachment-large size-large" alt="" /></noscript> </div>
+                                                                                <div class="elementor-widget-container"> <img width="672" height="457" src="../as-dialer-css/asset-1/uploads/2022/02/Home-Facilities-PSD.svg" class="attachment-large size-large" alt="" /></noscript> </div>
                                                                             </div>
                                                                         </div>
                                                                     </div>

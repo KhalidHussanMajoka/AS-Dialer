@@ -35,7 +35,7 @@
                                             </div>
                                         </section>
                                         <?php include ('../trusted-business-1.php') ?>
-                                        <section style="background-image:url('../../as-dialer-css/wp-content/uploads/2022/02/Group-4230.png');height: 90vh;" class="elementor-section elementor-top-section elementor-element elementor-element-7455405 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="7455405" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                                        <section style="background-image:url('../../as-dialer-css/asset-1/uploads/2022/02/Group-4230.png');height: 90vh;" class="elementor-section elementor-top-section elementor-element elementor-element-7455405 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="7455405" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
                                             <div class="elementor-container elementor-column-gap-default">
                                                <div style="margin-top:255px" class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-04b2d6d" data-id="04b2d6d" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
@@ -55,7 +55,7 @@
                                             <div class="elementor-container elementor-column-gap-default">
                                                 <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8552647" data-id="8552647" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated"> 
-                                                        <div style="background-image:url('../../as-dialer-css/wp-content/uploads/2022/02/Group-4234.png'); height:639px;" class=" container img-fluid">
+                                                        <div style="background-image:url('../../as-dialer-css/asset-1/uploads/2022/02/Group-4234.png'); height:639px;" class=" container img-fluid">
 
                                                             <div class="row justify-content-center" style="margin-top:20rem">
                                                                  
@@ -81,7 +81,7 @@
                                                 </div>
                                                 <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6ffad5c" data-id="6ffad5c" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div style="background-image:url('../../as-dialer-css/wp-content/uploads/2022/02/Group-4232.png'); height:800px;" class=" container img-fluid">
+                                                        <div style="background-image:url('../../as-dialer-css/asset-1/uploads/2022/02/Group-4232.png'); height:800px;" class=" container img-fluid">
                                                             <div class="row justify-content-center" style="margin-top:20rem">
                                                                  
                                                                 <div class="col-lg-2 justify-content-between" style="height:40vh;   "   >
@@ -106,7 +106,7 @@
                                                 </div>
                                                 <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-0bf0276" data-id="0bf0276" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
-                                                        <div style="background-image:url('../../as-dialer-css/wp-content/uploads/2022/02/Group-4231.png'); height:639px;" class=" container img-fluid" >
+                                                        <div style="background-image:url('../../as-dialer-css/asset-1/uploads/2022/02/Group-4231.png'); height:639px;" class=" container img-fluid" >
                                                             <div class="row justify-content-center" style="margin-top:20rem">
                                                                  
                                                                 <div class="col-lg-2 justify-content-between" style="height:40vh;   "   >

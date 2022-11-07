@@ -129,7 +129,7 @@
                                         <div class="awards  mb-5" style="margin-top:100px">
                                             <h1 style="text-align:center; font-weight:bold">Award-winning customer service</h1>
                                             <p style="text-align:center;">Due to our innovative solution for call center organization, our company recognized as a leading company.</p>
-                                            <center> <img src="../../as-dialer-css/wp-content/uploads/2022/02/Group-2899.png" width="50%" alt="" srcset=""> </center>
+                                            <center> <img src="../../as-dialer-css/asset-1/uploads/2022/02/Group-2899.png" width="50%" alt="" srcset=""> </center>
                                         </div>
                                     </div>
                                 </div>

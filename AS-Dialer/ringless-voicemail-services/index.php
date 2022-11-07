@@ -175,10 +175,10 @@
                                                     <style>
                                                         /*! elementor - v3.6.5 - 27-04-2022 */
                                                         .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}
-                                                    </style> <img width="605" height="610" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20605%20610'%3E%3C/svg%3E" class="attachment-large size-large" alt="Ringless Voicemail PSD" data-lazy-srcset="https://as-dialer-css/wp-content/uploads/2022/02/PSD.png 605w, https://as-dialer-css/wp-content/uploads/2022/02/PSD-298x300.png 298w, https://as-dialer-css/wp-content/uploads/2022/02/PSD-150x150.png 150w" data-lazy-sizes="(max-width: 605px) 100vw, 605px" data-lazy-src="../../as-dialer-css/wp-content/uploads/2022/02/PSD.png" /><noscript><img width="605" height="610" src="../../as-dialer-css/wp-content/uploads/2022/02/PSD.png" class="attachment-large size-large" alt="Ringless Voicemail PSD" srcset="../../as-dialer-css/wp-content/uploads/2022/02/PSD.png 605w, ../../as-dialer-css/wp-content/uploads/2022/02/PSD.png 298w, ../../as-dialer-css/wp-content/uploads/2022/02/PSD.png 150w" sizes="(max-width: 605px) 100vw, 605px" /></noscript>
+                                                    </style> <img width="605" height="610" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20605%20610'%3E%3C/svg%3E" class="attachment-large size-large" alt="Ringless Voicemail PSD" data-lazy-srcset="https://as-dialer-css/asset-1/uploads/2022/02/PSD.png 605w, https://as-dialer-css/asset-1/uploads/2022/02/PSD-298x300.png 298w, https://as-dialer-css/asset-1/uploads/2022/02/PSD-150x150.png 150w" data-lazy-sizes="(max-width: 605px) 100vw, 605px" data-lazy-src="../../as-dialer-css/asset-1/uploads/2022/02/PSD.png" /><noscript><img width="605" height="610" src="../../as-dialer-css/asset-1/uploads/2022/02/PSD.png" class="attachment-large size-large" alt="Ringless Voicemail PSD" srcset="../../as-dialer-css/asset-1/uploads/2022/02/PSD.png 605w, ../../as-dialer-css/asset-1/uploads/2022/02/PSD.png 298w, ../../as-dialer-css/asset-1/uploads/2022/02/PSD.png 150w" sizes="(max-width: 605px) 100vw, 605px" /></noscript>
                                                 </div>
                                             </div> -->
-                                            <img src="../../as-dialer-css/wp-content/uploads/2022/02/PSD.png" alt="" srcset="">
+                                            <img src="../../as-dialer-css/asset-1/uploads/2022/02/PSD.png" alt="" srcset="">
                                         </div>
                                     </div>
                                 </div>
@@ -214,7 +214,7 @@
                                                                         .elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}
                                                                     </style>
                                                                     <div class="elementor-image-box-wrapper">
-                                                                        <figure class="elementor-image-box-img"><img width="87" height="79" src="../../as-dialer-css/wp-content/uploads/2022/02/Fast-Reliable.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                                        <figure class="elementor-image-box-img"><img width="87" height="79" src="../../as-dialer-css/asset-1/uploads/2022/02/Fast-Reliable.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                         <div class="elementor-image-box-content">
                                                                             <h3 class="elementor-image-box-title">Fast & Reliable</h3>
                                                                             <p class="elementor-image-box-description">Your voicemails are quickly broadcast using ringless voicemail. For delivery assurance, you can also keep track of each and every VM drop message.</p>
@@ -229,7 +229,7 @@
                                                             <div class="elementor-element elementor-element-6bb8896 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="6bb8896" data-element_type="widget" data-widget_type="image-box.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image-box-wrapper">
-                                                                        <figure class="elementor-image-box-img"><img width="82" height="77" src="../../as-dialer-css/wp-content/uploads/2022/02/Unlimited-Capacity.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                                        <figure class="elementor-image-box-img"><img width="82" height="77" src="../../as-dialer-css/asset-1/uploads/2022/02/Unlimited-Capacity.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                         <div class="elementor-image-box-content">
                                                                             <h3 class="elementor-image-box-title">Unlimited Capacity</h3>
                                                                             <p class="elementor-image-box-description">Send unlimited voicemails to unlimited numbers with single click. The software also manages multiple campaigns and broadcast unlimited voicemails without any extra charges.</p>
@@ -244,7 +244,7 @@
                                                             <div class="elementor-element elementor-element-3fbc470 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="3fbc470" data-element_type="widget" data-widget_type="image-box.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image-box-wrapper">
-                                                                        <figure class="elementor-image-box-img"><img width="84" height="77" src="../../as-dialer-css/wp-content/uploads/2022/02/Cost-Effective.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                                        <figure class="elementor-image-box-img"><img width="84" height="77" src="../../as-dialer-css/asset-1/uploads/2022/02/Cost-Effective.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                         <div class="elementor-image-box-content">
                                                                             <h3 class="elementor-image-box-title">Cost-Effective</h3>
                                                                             <p class="elementor-image-box-description">Completely cloud-based system with no contract/annual subscription. Pay only for guaranteed voicemail drops. A Highly cost-effective solution for non-intrusive voice marketing.</p>
@@ -286,7 +286,7 @@
                                                             <div class="elementor-element elementor-element-9f11b92 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="9f11b92" data-element_type="widget" data-widget_type="image-box.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image-box-wrapper">
-                                                                        <figure class="elementor-image-box-img"><img width="180" height="180" src="../../as-dialer-css/wp-content/uploads/2022/02/Add-Contact-Phonebook.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                                        <figure class="elementor-image-box-img"><img width="180" height="180" src="../../as-dialer-css/asset-1/uploads/2022/02/Add-Contact-Phonebook.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                         <div class="elementor-image-box-content">
                                                                             <h3 class="elementor-image-box-title">Add Contact/ Phonebook</h3>
                                                                             <p class="elementor-image-box-description">First, you need to select your target audience. RVM allows you to easily upload contacts or import a phonebook.</p>
@@ -301,7 +301,7 @@
                                                             <div class="elementor-element elementor-element-2625da6 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="2625da6" data-element_type="widget" data-widget_type="image-box.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image-box-wrapper">
-                                                                        <figure class="elementor-image-box-img"><img width="180" height="180" src="../../as-dialer-css/wp-content/uploads/2022/02/Select-Campaign-Type.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                                        <figure class="elementor-image-box-img"><img width="180" height="180" src="../../as-dialer-css/asset-1/uploads/2022/02/Select-Campaign-Type.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                         <div class="elementor-image-box-content">
                                                                             <h3 class="elementor-image-box-title">Select Campaign Type</h3>
                                                                             <p class="elementor-image-box-description">RVM provides multiple campaign options. You can choose a suitable campaign type according to your personal or business requirements.</p>
@@ -316,7 +316,7 @@
                                                             <div class="elementor-element elementor-element-ae93cc1 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ae93cc1" data-element_type="widget" data-widget_type="image-box.default">
                                                                 <div class="elementor-widget-container">
                                                                     <div class="elementor-image-box-wrapper">
-                                                                        <figure class="elementor-image-box-img"><img width="180" height="180" src="../../as-dialer-css/wp-content/uploads/2022/02/Upload-audioVoicemail.svg" class="attachment-full size-full" alt="" /></noscript></figure>
+                                                                        <figure class="elementor-image-box-img"><img width="180" height="180" src="../../as-dialer-css/asset-1/uploads/2022/02/Upload-audioVoicemail.svg" class="attachment-full size-full" alt="" /></noscript></figure>
                                                                         <div class="elementor-image-box-content">
                                                                             <h3 class="elementor-image-box-title">Upload audio/Voicemail</h3>
                                                                             <p class="elementor-image-box-description">Upload an audio message/ voicemail you want to broadcast silently to your customer inbox. So, you are all set to start your RVM Campaign.</p>
@@ -387,7 +387,7 @@
     </main>
   
     
-    <img src="../../as-dialer-css/wp-content/uploads/2022/02/Group-4216.png" alt="" srcset="" width="30%" style="margin-left:200px">
+    <img src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4216.png" alt="" srcset="" width="30%" style="margin-left:200px">
 
 
     <div id="content-wrap" class="container clr">
@@ -402,22 +402,22 @@
                         <h2 style="margin-top:150px; ">How Dialer360 Ringless Voicemail Drops Works?</h2>
                         <p style="margin-bottom:100px">Ringless Voicemail Drops are easily customizable through a <br> user-friendly dashboard. You can manage a super-effective RVM drop campaign in just a few simple steps.</p>
                         </center>
-                        <div class="container mt-5  " style="background-image:url(../../as-dialer-css/wp-content/uploads/2022/02/Group-4208.png); height:50vh">
+                        <div class="container mt-5  " style="background-image:url(../../as-dialer-css/asset-1/uploads/2022/02/Group-4208.png); height:50vh">
 
                         
                             <div class="row">
-                                <div class="col-lg-3 col-md-3 col-sm-2" style=" height:40vh;  background-color:#F2F2F2; margin-left:130px; margin-top:50px"> <center> <img src="../../as-dialer-css/wp-content/uploads/2022/02/Select-Campaign-Type-1.png" width="40%" alt="" srcset="">
+                                <div class="col-lg-3 col-md-3 col-sm-2" style=" height:40vh;  background-color:#F2F2F2; margin-left:130px; margin-top:50px"> <center> <img src="../../as-dialer-css/asset-1/uploads/2022/02/Select-Campaign-Type-1.png" width="40%" alt="" srcset="">
                             
                                 <h4 class="mt-5" style="font-weight:bold;">Select Campaign Type</h4>
                                 <p style="font-size:12px;">RVM provides multiple campaign options. You can choose a suitable campaign type according to your personal or business requirements.</p>
                             
                             </center></div>
-                                <div class="col-lg-3 col-md-3 col-sm-2" style=" height:40vh;  background-color:#F2F2F2; margin-top:50px; margin-left:30px;"><center> <img src="../../as-dialer-css/wp-content/uploads/2022/02/Add-Contact-Phonebook-1.png" width="40%" alt="" srcset="">
+                                <div class="col-lg-3 col-md-3 col-sm-2" style=" height:40vh;  background-color:#F2F2F2; margin-top:50px; margin-left:30px;"><center> <img src="../../as-dialer-css/asset-1/uploads/2022/02/Add-Contact-Phonebook-1.png" width="40%" alt="" srcset="">
                                 <h4 class="mt-5" style="font-weight:bold;">Add Contact/ Phonebook</h4>
                                 <p style="font-size:12px;">First, you need to select your target audience. RVM allows you to easily upload contacts or import a phonebook.</p>
                             
                             </center></div>
-                                <div class="col-lg-3 col-md-3 col-sm-2" style=" height:40vh;  background-color:#F2F2F2; margin-top:50px; margin-left:40px;"><center> <img src="../../as-dialer-css/wp-content/uploads/2022/02/Upload-audioVoicemail-1.png" width="40%"alt="" srcset="">
+                                <div class="col-lg-3 col-md-3 col-sm-2" style=" height:40vh;  background-color:#F2F2F2; margin-top:50px; margin-left:40px;"><center> <img src="../../as-dialer-css/asset-1/uploads/2022/02/Upload-audioVoicemail-1.png" width="40%"alt="" srcset="">
                             
                                 <h4 class="mt-5" style="font-weight:bold;">Upload audio/Voicemail</h4>
                                 <p style="font-size:12px;">Upload an audio message/ voicemail you want to broadcast silently to your customer inbox. So, you are all set to start your RVM Campaign.</p>
@@ -445,7 +445,7 @@
                                             <div class="section-1 " style="text-align:left">
                                                 <h3 style="fonte-weight:bold">Ringless Voicemail Drops Services Best Usage & Application</h3>
                                                 <p>RVM provides fast and incredible results. It helps in customer engagement, sales promotion, and creating brand awareness without any inconvenience. The RVM software has acquired great response and is widely used in various industries.</p>
-                                                <img class="mb-5 mt-5" src="../../as-dialer-css/wp-content/uploads/2022/02/Group-4223.png" alt="" srcset="">
+                                                <img class="mb-5 mt-5" src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4223.png" alt="" srcset="">
                                             
                                             </div>
 
@@ -461,7 +461,7 @@
                                             </div>
                                             <div class="elementor-element elementor-element-8a4b331 elementor-widget elementor-widget-html" data-id="8a4b331" data-element_type="widget" data-widget_type="html.default">
                                                 <div class="elementor-widget-container" style="margin-left:-50px">
-                                                   <img src="../../as-dialer-css/wp-content/uploads/2022/02/Group-4222.png" alt="" srcset="">
+                                                   <img src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4222.png" alt="" srcset="">
                                                     </div>
                                                 </div>
                                             </div>
@@ -488,7 +488,7 @@
                                 <div class="card-header" id="faqHeading-1">
                                     <div class="mb-0">
                                         <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-1" data-aria-expanded="true" data-aria-controls="faqCollapse-1">
-                                            <span class="badge" style="background:transparent; margin-right:25px" ><i><img src="../../as-dialer-css/wp-content/uploads/2022/02/Icon.png" alt="" srcset=""></i></span>What is Lorem Ipsum?
+                                            <span class="badge" style="background:transparent; margin-right:25px" ><i><img src="../../as-dialer-css/asset-1/uploads/2022/02/Icon.png" alt="" srcset=""></i></span>What is Lorem Ipsum?
                                         </h5>
                                     </div>
                                 </div>
@@ -502,7 +502,7 @@
                                 <div class="card-header" id="faqHeading-2">
                                     <div class="mb-0">
                                         <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-2" data-aria-expanded="false" data-aria-controls="faqCollapse-2">
-                                        <span class="badge" style="background:transparent; margin-right:25px" ><i><img src="../../as-dialer-css/wp-content/uploads/2022/02/Icon.png" alt="" srcset=""></i></span> Where does it come from?
+                                        <span class="badge" style="background:transparent; margin-right:25px" ><i><img src="../../as-dialer-css/asset-1/uploads/2022/02/Icon.png" alt="" srcset=""></i></span> Where does it come from?
                                         </h5>
                                     </div>
                                 </div>
@@ -516,7 +516,7 @@
                                 <div class="card-header" id="faqHeading-3">
                                     <div class="mb-0">
                                         <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-3" data-aria-expanded="false" data-aria-controls="faqCollapse-3">
-                                        <span class="badge" style="background:transparent; margin-right:25px" ><i><img src="../../as-dialer-css/wp-content/uploads/2022/02/Icon.png" alt="" srcset=""></i></span>Why do we use it?
+                                        <span class="badge" style="background:transparent; margin-right:25px" ><i><img src="../../as-dialer-css/asset-1/uploads/2022/02/Icon.png" alt="" srcset=""></i></span>Why do we use it?
                                         </h5>
                                     </div>
                                 </div>
@@ -530,7 +530,7 @@
                                 <div class="card-header" id="faqHeading-4">
                                     <div class="mb-0">
                                         <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-4" data-aria-expanded="false" data-aria-controls="faqCollapse-4">
-                                        <span class="badge" style="background:transparent; margin-right:25px" ><i><img src="../../as-dialer-css/wp-content/uploads/2022/02/Icon.png" alt="" srcset=""></i></span> Where can I get some?
+                                        <span class="badge" style="background:transparent; margin-right:25px" ><i><img src="../../as-dialer-css/asset-1/uploads/2022/02/Icon.png" alt="" srcset=""></i></span> Where can I get some?
                                         </h5>
                                     </div>
                                 </div>
@@ -544,7 +544,7 @@
                                 <div class="card-header" id="faqHeading-5">
                                     <div class="mb-0">
                                         <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-5" data-aria-expanded="false" data-aria-controls="faqCollapse-5">
-                                        <span class="badge" style="background:transparent; margin-right:25px" ><i><img src="../../as-dialer-css/wp-content/uploads/2022/02/Icon.png" alt="" srcset=""></i></span> What is Lorem Ipsum?
+                                        <span class="badge" style="background:transparent; margin-right:25px" ><i><img src="../../as-dialer-css/asset-1/uploads/2022/02/Icon.png" alt="" srcset=""></i></span> What is Lorem Ipsum?
                                         </h5>
                                     </div>
                                 </div>
@@ -558,7 +558,7 @@
                                 <div class="card-header" id="faqHeading-6">
                                     <div class="mb-0">
                                         <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-6" data-aria-expanded="false" data-aria-controls="faqCollapse-6">
-                                        <span class="badge" style="background:transparent; margin-right:25px" ><i><img src="../../as-dialer-css/wp-content/uploads/2022/02/Icon.png" alt="" srcset=""></i></span> Where does it come from?
+                                        <span class="badge" style="background:transparent; margin-right:25px" ><i><img src="../../as-dialer-css/asset-1/uploads/2022/02/Icon.png" alt="" srcset=""></i></span> Where does it come from?
                                         </h5>
                                     </div>
                                 </div>
@@ -572,7 +572,7 @@
                                 <div class="card-header" id="faqHeading-7">
                                     <div class="mb-0">
                                         <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-7" data-aria-expanded="false" data-aria-controls="faqCollapse-7">
-                                        <span class="badge" style="background:transparent; margin-right:25px" ><i><img src="../../as-dialer-css/wp-content/uploads/2022/02/Icon.png" alt="" srcset=""></i></span> Why do we use it?
+                                        <span class="badge" style="background:transparent; margin-right:25px" ><i><img src="../../as-dialer-css/asset-1/uploads/2022/02/Icon.png" alt="" srcset=""></i></span> Why do we use it?
                                         </h5>
                                     </div>
                                 </div>

@@ -8,7 +8,7 @@
                 </header><!-- .page-header -->
                 <div data-elementor-type="archive" data-elementor-id="356" class="elementor elementor-356 elementor-location-archive">
                     <div class="elementor-section-wrap">
-                        <section style="background-image:url('../../as-dialer-css/wp-content/uploads/2022/02/Group 4215.png'); height:500px;" class="elementor-section elementor-top-section elementor-element elementor-element-1dda0c8 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="1dda0c8" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                        <section style="background-image:url('../../as-dialer-css/asset-1/uploads/2022/02/Group 4215.png'); height:500px;" class="elementor-section elementor-top-section elementor-element elementor-element-1dda0c8 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="1dda0c8" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
                             <div class="elementor-container elementor-column-gap-default">
                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a9c7253" data-id="a9c7253" data-element_type="column">
                                     <div class="elementor-widget-wrap elementor-element-populated">
@@ -46,7 +46,7 @@
                             <div class="container col-lg-12 col-md-12 col-sm-12">
                                 <div class="col-lg-6 col-md-6 col-sm-6">
                                     <div>
-                                        <img src="../../as-dialer-css/wp-content/uploads/2022/02/Group-4217.png" alt="">
+                                        <img src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4217.png" alt="">
                                         <p style="color:black;background-color:#F3F2F2;">
                                             Call Center Studio X Lumenvox—
                                             The Future of Outbound
@@ -55,7 +55,7 @@
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-6">
                                     <div>
-                                        <img src="../../as-dialer-css/wp-content/uploads/2022/02/Group-4218.png" alt="">
+                                        <img src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4218.png" alt="">
                                         <p style="color:black;background-color:#F3F2F2;">
                                            Call Center Studio X Lumenvox—
                                            The Future of Outbound
@@ -67,7 +67,7 @@
                             <div class="container col-lg-12 col-md-12 col-sm-12">
                                 <div class="col-lg-6 col-md-6 col-sm-6">
                                     <div>
-                                        <img src="../../as-dialer-css/wp-content/uploads/2022/02/Group-4220.png" alt="">
+                                        <img src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4220.png" alt="">
                                         <p style="color:black;background-color:#F3F2F2;">
                                            Call Center Studio X Lumenvox—
                                            The Future of Outbound
@@ -76,7 +76,7 @@
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-sm-6">
                                     <div>
-                                        <img src="../../as-dialer-css/wp-content/uploads/2022/02/Group-4221.png" alt="">
+                                        <img src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4221.png" alt="">
                                         <p style="color:black;background-color:#F3F2F2;">
                                            Call Center Studio X Lumenvox—
                                            The Future of Outbound
@@ -94,7 +94,7 @@
                               <div class="container" style="background:#FFC700; height:60vh; border-radius:38px ">
                                 <div class="row">
                                     <div class="col-lg-7 " style=" height:59vh; position:relative;right:40px">
-                                <img  src="../../as-dialer-css/wp-content/uploads/2022/02/Group-4225.png" width="69%" alt="" srcset=""></div>
+                                <img  src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4225.png" width="69%" alt="" srcset=""></div>
                                     <div class="col-lg-5" style=" height:58vh; padding-left: 2rem;padding-top: 9rem; color:white ">
                                  <h1 style="padding-right: 4rem">Sales</h1>
                                  <p style="padding-right: 4rem">Because with our help, every customer – no matter where they are, who they are, how or when they choose to reach out – will experience the service they’re looking for. Our AI-powered, CCaaS technology and cloud-native software was built right, right from the start. It does away with decaying legacy systems and cobbled together infrastructures. Removes the need for multiple vendors. Vanquishes the monster that creaks and groans (and devours money) when contact center tech needs an upgrade or update.
@@ -115,7 +115,7 @@
                                     </div>
                                     
                                     <div class="col-lg-7 " style=" height:59vh; position:relative;left:232px">
-                                    <img  src="../../as-dialer-css/wp-content/uploads/2022/02/Group-4224.png" width="69%" alt="" srcset="">
+                                    <img  src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4224.png" width="69%" alt="" srcset="">
                                     </div>
                                   </div>
                                 </div>
@@ -127,7 +127,7 @@
                                         
                             <h1 style="text-align:center; font-weight:bold">Award-winning customer service</h1>
                             <p style="text-align:center;">Due to our innovative solution for call center organization, our company recognized as a leading company.</p>
-                            <center>   <img src="../../as-dialer-css/wp-content/uploads/2022/02/Group-2899.png" width="50%" alt="" srcset=""></center>    
+                            <center>   <img src="../../as-dialer-css/asset-1/uploads/2022/02/Group-2899.png" width="50%" alt="" srcset=""></center>    
                    
                         </div> 
                     </div>
