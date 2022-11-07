@@ -250,7 +250,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-658"><a href="#" class="elementor-item elementor-item-anchor">Our Company</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-659"><a href="../why-dialer360/index.php" class="elementor-sub-item">Why Dialer360</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-659"><a href="../why-as-dialer/index.php" class="elementor-sub-item">Why Dialer360</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-663"><a href="../reseller/index.php" class="elementor-sub-item">Become a Reseller</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15753"><a href="../clients-review/index.php" class="elementor-sub-item">Clients Review</a></li>
 </ul>
@@ -316,7 +316,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-658"><a href="#" class="elementor-item elementor-item-anchor">Our Company</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-659"><a href="../why-dialer360/index.php" class="elementor-sub-item">Why Dialer360</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-659"><a href="../why-as-dialer/index.php" class="elementor-sub-item">Why Dialer360</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-663"><a href="../reseller/index.php" class="elementor-sub-item">Become a Reseller</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15753"><a href="../clients-review/index.php" class="elementor-sub-item">Clients Review</a></li>
 </ul>

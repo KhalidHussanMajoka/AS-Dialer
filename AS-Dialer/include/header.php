@@ -595,7 +595,7 @@
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
                                                                 <li
                                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-659">
-                                                                    <a href="why-dialer360/index.html"
+                                                                    <a href="why-as-dialer/index.html"
                                                                         class="elementor-sub-item">Why Dialer360</a>
                                                                 </li>
                                                                 <li
@@ -813,7 +813,7 @@
                                                             <ul class="sub-menu elementor-nav-menu--dropdown">
                                                                 <li
                                                                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-659">
-                                                                    <a href="why-dialer360/index.html"
+                                                                    <a href="why-as-dialer/index.html"
                                                                         class="elementor-sub-item">Why Dialer360</a>
                                                                 </li>
                                                                 <li
