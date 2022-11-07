@@ -1,0 +1,716 @@
+.elementor-843 .elementor-element.elementor-element-e0c4e75:not(.elementor-motion-effects-element-type-background),
+.elementor-843 .elementor-element.elementor-element-e0c4e75>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("../../../../../AS-Dialer/wp-content/uploads/2022/01/Bg10.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.elementor-843 .elementor-element.elementor-element-e0c4e75 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: -50px;
+    margin-bottom: 0px;
+    padding: 7% 15% 7% 15%;
+}
+
+.elementor-843 .elementor-element.elementor-element-e0c4e75>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-843 .elementor-element.elementor-element-5ea065c.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-843 .elementor-element.elementor-element-5ea065c.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-843 .elementor-element.elementor-element-1871434 {
+    text-align: center;
+    width: initial;
+    max-width: initial;
+}
+
+.elementor-843 .elementor-element.elementor-element-1871434 .elementor-heading-title {
+    color: #FEC92D;
+}
+
+.elementor-843 .elementor-element.elementor-element-1871434>.elementor-widget-container {
+    margin: 0px 0px 20px 0px;
+    padding: 10px 20px 10px 20px;
+    background-color: #F8FE2D57;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.elementor-843 .elementor-element.elementor-element-7d10627 {
+    text-align: left;
+}
+
+.elementor-843 .elementor-element.elementor-element-7d10627 .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 37px;
+    font-weight: 700;
+    line-height: 1.1em;
+}
+
+.elementor-843 .elementor-element.elementor-element-b2ba43a {
+    text-align: left;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-843 .elementor-element.elementor-element-b2ba43a>.elementor-widget-container {
+    margin: 0% 0% -5% 0%;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-843 .elementor-element.elementor-element-0193b19 .elementor-icon-list-icon i {
+    color: #FEC92D;
+}
+
+.elementor-843 .elementor-element.elementor-element-0193b19 .elementor-icon-list-icon svg {
+    fill: #FEC92D;
+}
+
+.elementor-843 .elementor-element.elementor-element-0193b19 {
+    --e-icon-list-icon-size: 15px;
+}
+
+.elementor-843 .elementor-element.elementor-element-0193b19 .elementor-icon-list-text {
+    color: #7A7A7A;
+}
+
+.elementor-843 .elementor-element.elementor-element-0193b19 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-843 .elementor-element.elementor-element-0193b19 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.elementor-843 .elementor-element.elementor-element-0193b19>.elementor-widget-container {
+    margin: 0px 0px 0px 50px;
+}
+
+.elementor-843 .elementor-element.elementor-element-54d6d3c .elementor-button {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 500;
+    fill: #000000;
+    color: #000000;
+    background-color: #FFCB04;
+    border-radius: 0px 0px 0px 0px;
+}
+
+.elementor-843 .elementor-element.elementor-element-54d6d3c {
+    width: initial;
+    max-width: initial;
+}
+
+.elementor-bc-flex-widget .elementor-843 .elementor-element.elementor-element-728fa44.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-843 .elementor-element.elementor-element-728fa44.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-843 .elementor-element.elementor-element-544fa8e {
+    text-align: center;
+}
+
+.elementor-843 .elementor-element.elementor-element-544fa8e>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-843 .elementor-element.elementor-element-e85c526 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 08% 0% 08% 0%;
+}
+
+.elementor-843 .elementor-element.elementor-element-2d347f1 .elementor-price-table__header {
+    background-color: #FFCB04;
+}
+
+.elementor-843 .elementor-element.elementor-element-2d347f1 .elementor-price-table__currency {
+    align-self: flex-start;
+}
+
+.elementor-843 .elementor-element.elementor-element-2d347f1 .elementor-price-table__after-price {
+    justify-content: flex-start;
+}
+
+.elementor-843 .elementor-element.elementor-element-2d347f1 .elementor-price-table__features-list {
+    padding: 0px 40px 0px 40px;
+    color: #7A7A7A;
+    text-align: left;
+}
+
+.elementor-843 .elementor-element.elementor-element-2d347f1 .elementor-price-table__features-list li {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+    line-height: 1.5em;
+}
+
+.elementor-843 .elementor-element.elementor-element-2d347f1 .elementor-price-table__features-list li:before {
+    border-top-style: solid;
+    border-top-color: #ddd;
+    border-top-width: 2px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.elementor-843 .elementor-element.elementor-element-2d347f1 .elementor-price-table__button {
+    background-color: #FFCB04;
+}
+
+.elementor-843 .elementor-element.elementor-element-2d347f1 .elementor-price-table__ribbon-inner {
+    color: #ffffff;
+}
+
+.elementor-843 .elementor-element.elementor-element-1952fc5>.elementor-element-populated {
+    margin: -8px 0px 0px 0px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-843 .elementor-element.elementor-element-9eefa8d .elementor-price-table__header {
+    background-color: #FFCB04;
+}
+
+.elementor-843 .elementor-element.elementor-element-9eefa8d .elementor-price-table__currency {
+    align-self: flex-start;
+}
+
+.elementor-843 .elementor-element.elementor-element-9eefa8d .elementor-price-table__after-price {
+    justify-content: flex-start;
+}
+
+.elementor-843 .elementor-element.elementor-element-9eefa8d .elementor-price-table__features-list {
+    padding: 0px 40px 0px 40px;
+    color: #7A7A7A;
+    text-align: left;
+}
+
+.elementor-843 .elementor-element.elementor-element-9eefa8d .elementor-price-table__features-list li {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+    line-height: 1.5em;
+}
+
+.elementor-843 .elementor-element.elementor-element-9eefa8d .elementor-price-table__features-list li:before {
+    border-top-style: solid;
+    border-top-color: #ddd;
+    border-top-width: 2px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.elementor-843 .elementor-element.elementor-element-9eefa8d .elementor-price-table__button {
+    background-color: #FFCB04;
+}
+
+.elementor-843 .elementor-element.elementor-element-9eefa8d .elementor-price-table__additional_info {
+    margin: 15px 30px 0px 30px;
+}
+
+.elementor-843 .elementor-element.elementor-element-9eefa8d .elementor-price-table__ribbon-inner {
+    color: #ffffff;
+}
+
+.elementor-843 .elementor-element.elementor-element-e02f371 .elementor-price-table__header {
+    background-color: #FFCB04;
+}
+
+.elementor-843 .elementor-element.elementor-element-e02f371 .elementor-price-table__currency {
+    align-self: flex-start;
+}
+
+.elementor-843 .elementor-element.elementor-element-e02f371 .elementor-price-table__after-price {
+    justify-content: flex-start;
+}
+
+.elementor-843 .elementor-element.elementor-element-e02f371 .elementor-price-table__features-list {
+    padding: 0px 40px 0px 40px;
+    color: #7A7A7A;
+    text-align: left;
+}
+
+.elementor-843 .elementor-element.elementor-element-e02f371 .elementor-price-table__features-list li {
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+}
+
+.elementor-843 .elementor-element.elementor-element-e02f371 .elementor-price-table__features-list li:before {
+    border-top-style: solid;
+    border-top-color: #ddd;
+    border-top-width: 2px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.elementor-843 .elementor-element.elementor-element-e02f371 .elementor-price-table__button {
+    background-color: #FFCB04;
+}
+
+.elementor-843 .elementor-element.elementor-element-e02f371 .elementor-price-table__additional_info {
+    margin: 15px 30px 0px 30px;
+}
+
+.elementor-843 .elementor-element.elementor-element-e02f371 .elementor-price-table__ribbon-inner {
+    color: #ffffff;
+}
+
+.elementor-843 .elementor-element.elementor-element-cded787:not(.elementor-motion-effects-element-type-background),
+.elementor-843 .elementor-element.elementor-element-cded787>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("../../../../../AS-Dialer/wp-content/uploads/2022/01/Bg10.png");
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-843 .elementor-element.elementor-element-cded787 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 0% 0% 0% 0%;
+}
+
+.elementor-843 .elementor-element.elementor-element-cded787>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-843 .elementor-element.elementor-element-27f48cb.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-843 .elementor-element.elementor-element-27f48cb.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-843 .elementor-element.elementor-element-bbbf92a {
+    text-align: center;
+}
+
+.elementor-843 .elementor-element.elementor-element-bbbf92a>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-bc-flex-widget .elementor-843 .elementor-element.elementor-element-9328d81.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-843 .elementor-element.elementor-element-9328d81.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-843 .elementor-element.elementor-element-9328d81>.elementor-element-populated {
+    margin: 0px 0px 0px 30px;
+    --e-column-margin-right: 0px;
+    --e-column-margin-left: 30px;
+}
+
+.elementor-843 .elementor-element.elementor-element-2fd9ea0 {
+    text-align: left;
+}
+
+.elementor-843 .elementor-element.elementor-element-2fd9ea0 .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.2em;
+}
+
+.elementor-843 .elementor-element.elementor-element-2fd9ea0>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-843 .elementor-element.elementor-element-2587753 {
+    text-align: left;
+    font-family: "Poppins", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-843 .elementor-element.elementor-element-2587753>.elementor-widget-container {
+    margin: 0% 0% 0% 0%;
+    padding: 0px 0px 0px 0px;
+}
+
+.elementor-843 .elementor-element.elementor-element-77a44b6:not(.elementor-motion-effects-element-type-background),
+.elementor-843 .elementor-element.elementor-element-77a44b6>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FFFDF2;
+}
+
+.elementor-843 .elementor-element.elementor-element-77a44b6 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 0px;
+    margin-bottom: -50px;
+    padding: 0% 0% 0% 0%;
+}
+
+.elementor-843 .elementor-element.elementor-element-77a44b6>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-843 .elementor-element.elementor-element-dfe1a75.elementor-column .elementor-widget-wrap {
+    align-items: flex-start;
+}
+
+.elementor-843 .elementor-element.elementor-element-dfe1a75.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.elementor-843 .elementor-element.elementor-element-dfe1a75.elementor-column>.elementor-widget-wrap {
+    justify-content: flex-start;
+}
+
+.elementor-843 .elementor-element.elementor-element-dfe1a75>.elementor-element-populated {
+    padding: 15% 15% 15% 15%;
+}
+
+.elementor-843 .elementor-element.elementor-element-65167fe {
+    text-align: center;
+    width: 158px;
+    max-width: 158px;
+}
+
+.elementor-843 .elementor-element.elementor-element-65167fe .elementor-heading-title {
+    color: #FEC92D;
+}
+
+.elementor-843 .elementor-element.elementor-element-65167fe>.elementor-widget-container {
+    margin: 0px 0px 20px 0px;
+    padding: 10px 0px 10px 0px;
+    background-color: #F8FE2D2B;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.elementor-843 .elementor-element.elementor-element-850264d {
+    text-align: left;
+}
+
+.elementor-843 .elementor-element.elementor-element-850264d .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.2em;
+}
+
+.elementor-843 .elementor-element.elementor-element-850264d>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-843 .elementor-element.elementor-element-e229b2f .elementor-icon-list-icon i {
+    color: #FEC92D;
+}
+
+.elementor-843 .elementor-element.elementor-element-e229b2f .elementor-icon-list-icon svg {
+    fill: #FEC92D;
+}
+
+.elementor-843 .elementor-element.elementor-element-e229b2f {
+    --e-icon-list-icon-size: 15px;
+}
+
+.elementor-843 .elementor-element.elementor-element-e229b2f .elementor-icon-list-text {
+    color: #3554CB;
+}
+
+.elementor-843 .elementor-element.elementor-element-e229b2f .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-843 .elementor-element.elementor-element-e229b2f .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.elementor-843 .elementor-element.elementor-element-66692a0 .elementor-icon-list-icon i {
+    color: #FEC92D;
+}
+
+.elementor-843 .elementor-element.elementor-element-66692a0 .elementor-icon-list-icon svg {
+    fill: #FEC92D;
+}
+
+.elementor-843 .elementor-element.elementor-element-66692a0 {
+    --e-icon-list-icon-size: 15px;
+}
+
+.elementor-843 .elementor-element.elementor-element-66692a0 .elementor-icon-list-text {
+    color: #7A7A7A;
+}
+
+.elementor-843 .elementor-element.elementor-element-66692a0 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-843 .elementor-element.elementor-element-66692a0 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.elementor-843 .elementor-element.elementor-element-66692a0>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-bc-flex-widget .elementor-843 .elementor-element.elementor-element-40cd86d.elementor-column .elementor-widget-wrap {
+    align-items: flex-start;
+}
+
+.elementor-843 .elementor-element.elementor-element-40cd86d.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: flex-start;
+    align-items: flex-start;
+}
+
+.elementor-843 .elementor-element.elementor-element-40cd86d.elementor-column>.elementor-widget-wrap {
+    justify-content: flex-start;
+}
+
+.elementor-843 .elementor-element.elementor-element-40cd86d:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap,
+.elementor-843 .elementor-element.elementor-element-40cd86d>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #FAFAFA;
+}
+
+.elementor-843 .elementor-element.elementor-element-40cd86d>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    padding: 15% 15% 15% 15%;
+}
+
+.elementor-843 .elementor-element.elementor-element-40cd86d>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-843 .elementor-element.elementor-element-3c914e2 {
+    text-align: center;
+    width: 158px;
+    max-width: 158px;
+}
+
+.elementor-843 .elementor-element.elementor-element-3c914e2 .elementor-heading-title {
+    color: #FEC92D;
+}
+
+.elementor-843 .elementor-element.elementor-element-3c914e2>.elementor-widget-container {
+    margin: 0px 0px 20px 0px;
+    padding: 10px 0px 10px 0px;
+    background-color: #F8FE2D2B;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.elementor-843 .elementor-element.elementor-element-817ed3f {
+    text-align: left;
+}
+
+.elementor-843 .elementor-element.elementor-element-817ed3f .elementor-heading-title {
+    font-family: "Poppins", Sans-serif;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 1.2em;
+}
+
+.elementor-843 .elementor-element.elementor-element-817ed3f>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+.elementor-843 .elementor-element.elementor-element-5f9637c .elementor-icon-list-icon i {
+    color: #FEC92D;
+}
+
+.elementor-843 .elementor-element.elementor-element-5f9637c .elementor-icon-list-icon svg {
+    fill: #FEC92D;
+}
+
+.elementor-843 .elementor-element.elementor-element-5f9637c {
+    --e-icon-list-icon-size: 15px;
+}
+
+.elementor-843 .elementor-element.elementor-element-5f9637c .elementor-icon-list-text {
+    color: #3554CB;
+}
+
+.elementor-843 .elementor-element.elementor-element-5f9637c .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-843 .elementor-element.elementor-element-5f9637c .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.elementor-843 .elementor-element.elementor-element-5a1ccb0 .elementor-icon-list-icon i {
+    color: #FEC92D;
+}
+
+.elementor-843 .elementor-element.elementor-element-5a1ccb0 .elementor-icon-list-icon svg {
+    fill: #FEC92D;
+}
+
+.elementor-843 .elementor-element.elementor-element-5a1ccb0 {
+    --e-icon-list-icon-size: 15px;
+}
+
+.elementor-843 .elementor-element.elementor-element-5a1ccb0 .elementor-icon-list-text {
+    color: #7A7A7A;
+}
+
+.elementor-843 .elementor-element.elementor-element-5a1ccb0 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-843 .elementor-element.elementor-element-5a1ccb0 .elementor-icon-list-item>a {
+    font-family: "Poppins", Sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.elementor-843 .elementor-element.elementor-element-5a1ccb0>.elementor-widget-container {
+    margin: 0px 0px 0px 0px;
+}
+
+@media(max-width:1024px) {
+    .elementor-843 .elementor-element.elementor-element-e0c4e75 {
+        padding: 7% 05% 7% 05%;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-5ea065c>.elementor-element-populated {
+        margin: 50px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-7d10627 .elementor-heading-title {
+        font-size: 32px;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-b2ba43a>.elementor-widget-container {
+        margin: 0% 0% -4% 0%;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-544fa8e>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-cded787 {
+        padding: 10% 05% 10% 05%;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-bbbf92a>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-9328d81>.elementor-element-populated {
+        margin: 50px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-2587753>.elementor-widget-container {
+        margin: 0% 0% -4% 0%;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-77a44b6 {
+        padding: 10% 05% 10% 05%;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-843 .elementor-element.elementor-element-e0c4e75 {
+        padding: 15% 05% 15% 05%;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-5ea065c>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-7d10627 .elementor-heading-title {
+        font-size: 31px;
+        line-height: 1.1em;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-b2ba43a>.elementor-widget-container {
+        margin: 0% 0% -10% 0%;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-0193b19>.elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-54d6d3c .elementor-button {
+        padding: 12px 15px 12px 15px;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-544fa8e>.elementor-widget-container {
+        margin: 10px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-1952fc5>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 10px 10px 10px 10px;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-cded787 {
+        padding: 10% 05% 10% 05%;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-bbbf92a>.elementor-widget-container {
+        margin: 10px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-9328d81>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-2587753>.elementor-widget-container {
+        margin: 0% 0% 0% 0%;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-77a44b6 {
+        margin-top: 0px;
+        margin-bottom: -85px;
+        padding: 10% 05% 10% 05%;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-dfe1a75>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0px 0px 0px 0px;
+    }
+
+    .elementor-843 .elementor-element.elementor-element-40cd86d>.elementor-element-populated {
+        margin: 0px 0px 0px 0px;
+        --e-column-margin-right: 0px;
+        --e-column-margin-left: 0px;
+        padding: 0px 0px 0px 0px;
+    }
+}
+
+/* Start custom CSS for price-table, class: .elementor-element-2d347f1 */
+.fa-check-circle:before {
+    color: #FFCB04;
+}
+
+/* End custom CSS */
+/* Start custom CSS for price-table, class: .elementor-element-9eefa8d */
+.fa-check-circle:before {
+    color: #FFCB04;
+}
+
+/* End custom CSS */
+/* Start custom CSS for price-table, class: .elementor-element-e02f371 */
+.fa-check-circle:before {
+    color: #FFCB04;
+}
+
+/* End custom CSS */
