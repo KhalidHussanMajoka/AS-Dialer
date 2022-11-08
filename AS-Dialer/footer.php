@@ -161,7 +161,7 @@ var Tawk_LoadStart=new Date();
 })();
 </script>
 <!--End of Tawk.to Script (0.7.2)-->
-<div id="wpfront-scroll-top-container"> <img width="56" height="56" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2056%2056'%3E%3C/svg%3E" alt="to-top" data-lazy-src="https://as-dialer-css/asset-1/uploads/2022/02/to-top-1.svg" /><noscript><img width="56" height="56" src="https://as-dialer-css/asset-1/uploads/2022/02/to-top-1.svg" alt="to-top" /></noscript> </div>
+<div id="wpfront-scroll-top-container"> <img width="56" height="56" src="../as-dialer-css/asset-1/uploads/2022/02/to-top-1.svg" alt="to-top" /></noscript> </div>
 <script type="rocketlazyloadscript" data-rocket-type="text/javascript">window.addEventListener('DOMContentLoaded', function() {
             function wpfront_scroll_top_init() {
                 if (typeof wpfront_scroll_top === "function" && typeof jQuery !== "undefined") {

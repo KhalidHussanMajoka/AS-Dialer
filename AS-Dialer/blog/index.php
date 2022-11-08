@@ -47,7 +47,7 @@
                                 <div class="col-lg-6 col-md-6 col-sm-6">
                                     <div>
                                         <img src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4217.png" alt="">
-                                        <p style="color:black;background-color:#F3F2F2;">
+                                        <p style="color:black;background-color:#F3F2F2;width:580px;">
                                             Call Center Studio X Lumenvox—
                                             The Future of Outbound
                                         </p>
@@ -56,7 +56,7 @@
                                 <div class="col-lg-6 col-md-6 col-sm-6">
                                     <div>
                                         <img src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4218.png" alt="">
-                                        <p style="color:black;background-color:#F3F2F2;">
+                                        <p style="color:black;background-color:#F3F2F2;width:580px;">
                                            Call Center Studio X Lumenvox—
                                            The Future of Outbound
                                         </p>
@@ -68,7 +68,7 @@
                                 <div class="col-lg-6 col-md-6 col-sm-6">
                                     <div>
                                         <img src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4220.png" alt="">
-                                        <p style="color:black;background-color:#F3F2F2;">
+                                        <p style="color:black;background-color:#F3F2F2;width:580px;">
                                            Call Center Studio X Lumenvox—
                                            The Future of Outbound
                                         </p>
@@ -77,7 +77,7 @@
                                 <div class="col-lg-6 col-md-6 col-sm-6">
                                     <div>
                                         <img src="../../as-dialer-css/asset-1/uploads/2022/02/Group-4221.png" alt="">
-                                        <p style="color:black;background-color:#F3F2F2;">
+                                        <p style="color:black;background-color:#F3F2F2;width:580px;">
                                            Call Center Studio X Lumenvox—
                                            The Future of Outbound
                                         </p>
