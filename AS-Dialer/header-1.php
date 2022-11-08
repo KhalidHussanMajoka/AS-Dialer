@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html class="html" lang="en-US">
-<!-- Mirrored from www.as-dialer.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 04 Oct 2022 07:58:48 GMT -->
-<!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
     <meta charset="UTF-8">
