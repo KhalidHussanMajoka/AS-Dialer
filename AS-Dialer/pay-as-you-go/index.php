@@ -121,7 +121,7 @@
                                                                  <span style="color:white"><h4 class="mt-1">Text Title......</h4></span><br>
                                                                  <span style="color:white"><h4  class="mt-2">Text Here.........</h4></span><br>
                                                                  <span style="color:white"><h4>Sample Text.......</h4></span><br>
-                                                                 <span style="color:white"><h4>Sample Text........</h4></span><br>
+                                                                 <span style="color:white"><h4>Sample Text.......................................</h4></span><br>
                                                                  <button class="col-6 py-3 " style="border:none;background-color:white;border-radius:30px;">SELECT</button>
 
                                                                 </div>
@@ -131,7 +131,7 @@
                                                 </div>
                                             </div>
                                         </section>
-                                        <section class="elementor-section elementor-top-section elementor-element elementor-element-ebb3e04 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="ebb3e04" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+                                        <section style="background-color: rgb(237 218 185);opacity:1;" class="elementor-section elementor-top-section elementor-element elementor-element-ebb3e04 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="ebb3e04" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
                                             <div class="elementor-container elementor-column-gap-default">
                                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9c49887" data-id="9c49887" data-element_type="column">
                                                     <div class="elementor-widget-wrap elementor-element-populated">
